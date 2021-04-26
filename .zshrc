@@ -41,4 +41,4 @@ alias cash='nvim ~/Documents/General/Cash.md'
 alias fede='nvim ~/Documents/General/FedeRog.md'
 
 # Enable syntax
-source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/.cache/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
