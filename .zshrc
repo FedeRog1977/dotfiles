@@ -38,7 +38,7 @@ alias docs='cd ~/Documents'
 alias todo='nvim ~/Documents/General/To_Do.md'
 alias shopping='nvim ~/Documents/General/Shopping.md'
 alias cash='nvim ~/Documents/General/Cash.md'
-alias passwords='nvim ~/Documents/General/Sdrowssap.md'
+alias fede='nvim ~/Documents/General/FedeRog.md'
 
 # Enable syntax
 source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
