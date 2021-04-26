@@ -86,6 +86,7 @@ author:
 	- Change directory: <cd 'dir'>
 	- Show current directory: <pwd>
 	- Rename directory (using <mv>): <mv 'dir' [to] 'dir'>
+	- Remove directory (when empty): <rmdir 'dir'>
 	- Back one: <cd ..>
 	- List files: <ls>
 	- List files (inc. dot files): <ls -a>

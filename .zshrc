@@ -29,9 +29,11 @@ alias email='thunderbird'
 alias docs='cd ~/Documents'
 	alias general='cd ~/Documents/General'
 	alias uni='cd ~/Documents/Masters'
-	alias bashrc='cd ~/Documents/Sites/BrittonsBashRC'
-		alias blog='cd ~/Documents/Sites/brittonsBashRC/Blog'
-		alias coursework='cd ~/Documents/Sites/BrittonsBashRC/Coursework'
+	alias gitdocs='cd ~/Documents/GitHub'
+		alias dots='cd ~/Documents/GitHub/dotfiles'
+		alias bashrc='cd ~/Documents/GitHub/BrittonsBashRC'
+			alias blog='cd ~/Documents/GitHub/BrittonsBashRC/Blog'
+			alias coursework='cd ~/Documents/GitHub/BrittonsBashRC/Coursework'
 
 ## Document Shortcuts
 
