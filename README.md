@@ -8,7 +8,7 @@ author:
 # Manjaro Setup
 
 * Summary of essential configs and files 
-	- [1] This README *~/README226.md*
+	- [1] This README *~/README.md*
 	- [2.1] i3: *~/.config/i3/config*
 	- [3.1] alacritty: *~/.config/alacritty/alacritty.yml* 
 	- [4.1] polybar: *~/.config/polybar/config*
@@ -119,7 +119,7 @@ author:
 	- [2.1] Edited file status: <git status> (while in a repo)
 	- [2.2] Add: <git add> (to add newly created files etc.)
 	- [2.3] Commit: <git commit -a>
-		- Comment, ^X to exit, <Enter> to execute
+		- Comment, ^X to exit, "Save Buffer?" <Enter> to execute
 	- [2.4] Push: <git push>
 	- [3.1] Pull: <git pull>
 
