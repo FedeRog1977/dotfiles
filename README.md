@@ -8,11 +8,13 @@ author:
 # Manjaro Setup
 
 * Summary of essential configs and files 
-	- [1] This README *~/README.md*
+	- [1.1] This README *~/README.md*
+	- [1.2] zsh: *~/.zshrc*
+	- [1.3] vim/nvim: *~/.vimrc*
 	- [2.1] i3: *~/.config/i3/config*
 	- [3.1] alacritty: *~/.config/alacritty/alacritty.yml* 
 	- [4.1] polybar: *~/.config/polybar/config*
-	- [4.1] polybar (launch): *~/.config/polybar/launch.sh*
+	- [4.2] polybar (launch): *~/.config/polybar/launch.sh*
 
 * Flash Download of Manjaro to External Drive
 * Install Manjaro from External Drive (F12 Upon TP Boot)
