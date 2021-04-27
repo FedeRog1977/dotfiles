@@ -23,6 +23,7 @@ alias mop='go run ~/.cache/gostuff/src/github.com/mop-tracker/mop/cmd/mop/main.g
 ## Application Shortcuts
 
 alias email='thunderbird'
+alias sublime='subl'
 
 ## Directory Shortcuts
 
@@ -34,6 +35,7 @@ alias docs='cd ~/Documents'
 		alias bashrc='cd ~/Documents/GitHub/BrittonsBashRC'
 			alias blog='cd ~/Documents/GitHub/BrittonsBashRC/Blog'
 			alias coursework='cd ~/Documents/GitHub/BrittonsBashRC/Coursework'
+		alias vtc='cd ~/Documents/GitHub/vtctruffles'
 
 ## Document Shortcuts
 

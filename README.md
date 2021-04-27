@@ -86,6 +86,7 @@ author:
 	- Change directory: <cd 'dir'>
 	- Show current directory: <pwd>
 	- Rename directory (using <mv>): <mv 'dir' [to] 'dir'>
+	- Remove directory: <rm -R 'dir'>
 	- Remove directory (when empty): <rmdir 'dir'>
 	- Back one: <cd ..>
 	- List files: <ls>
@@ -95,6 +96,7 @@ author:
 	- Copy file: <cp 'dir'/'file' [to] 'dir'/'file'>
 	- Rename file (using <mv>): <mv 'file' [to] 'file'>
 	- Remove file: <rm 'file'>
+	- Unzip folder: <unzip 'file'>
 * Terminal and shell manipulation
 	- Change shell: <chsh -s /usr/bin/'shell'>
 	- List shells: <chsh -l>
@@ -108,6 +110,10 @@ author:
 	- Plain text: .txt or .text
 	- Tex/LaTeX: .tex
 	- Markdown: .md
+* Adding fonts
+	- Location: </usr/share/fonts>
+	- Create a folder
+	- Move '.ttf' font file to folder
 
 # GitHub CLI
 
@@ -121,9 +127,10 @@ author:
 	- [1.3] Clone: <git clone 'url' [to] 'dir'> or <gh repo clone 'repo'>
 	- [2.1] Edited file status: <git status> (while in a repo)
 	- [2.2] Add: <git add> (to add newly created files etc.)
-	- [2.3] Commit: <git commit -a>
+	- [2.3] Remove: <gi remove> (to remove newly deleted files etc.)
+	- [2.4] Commit: <git commit -a>
 		- Comment, ^X to exit, "Save Buffer?" <Enter> to execute
-	- [2.4] Push: <git push>
+	- [2.5] Push: <git push>
 	- [3.1] Pull: <git pull>
 
 # Some Current Bindings
@@ -138,7 +145,8 @@ author:
 * mod+'number': change workspace to workspace 'number'
 * mod+d: dmenu
 * mod+F1: refresh i3
-* mouse3: paste from clipboard
+* ctrl+c: copy to clipboard
+* mouse3 or ctrl+v: paste from clipboard
 
 # Brave Browser Command Shortcuts
 
