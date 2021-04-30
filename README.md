@@ -133,7 +133,9 @@ author:
 	- [2.5] Push: <git push>
 	- [3.1] Pull: <git pull>
 
-# Some Current Bindings
+# Current Bindings
+
+## System
 
 * mon+enter: new terminal
 * mod+': new terminal right
@@ -148,10 +150,16 @@ author:
 * ctrl+c: copy to clipboard
 * mouse3 or ctrl+v: paste from clipboard
 
-# Brave Browser Command Shortcuts
+## Brave Browser
 
 * ctrl+{: back page 
 * ctrl+}: forward page
 * ctrl+t: new tab
 * ctrl+w: close tab [window, upon final tab]
 * alt+'n': tab number 'n' in {1,...,[1]0}
+
+## MuPDF
+
+* h,j,k,l: navigate page (Vim commands)
+* -/+: zoom out/in
+* r: refresh
