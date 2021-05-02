@@ -149,6 +149,11 @@ author:
 * mod+F1: refresh i3
 * ctrl+c: copy to clipboard
 * mouse3 or ctrl+v: paste from clipboard
+* mod+b: open brave
+* mod+d: open discord
+* mod+s: open spotify
+* mod+t: open thunderbird
+* mod+p/mod+Shift+p: enable/disable compton
 
 ## Brave Browser
 

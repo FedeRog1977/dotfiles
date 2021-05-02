@@ -36,96 +36,49 @@ gaps outer $outer_gaps
 
 bindsym $mod+Return		exec $term 
 bindsym $mod+Shift+Return	exec $term --working-directory  $(xcwd)
-
 bindsym $mod+Escape		exec --no-startup-id dm-tool switch-to-greeter
 bindsym $mod+Shift+Escape	exec --no-startup-id $hibernate
-
 bindsym $mod+BackSpace		exec --no-startup-id prompt "Shutdown Computer?" $shutdown
 bindsym $mod+Shift+BackSpace	exec --no-startup-id prompt "Reboot Computer?" $reboot
-
 bindsym $mod+space      	exec --no-startup-id rofi-menu 
 
-## a
 bindsym $mod+a		       	exec $term -e alsamixer
-
-## b
 bindsym $mod+b			exec --no-startup-id brave
-bindsym $mod+Shift+b		exec --no-startup-id spotify
-bindsym $mod+Ctrl+b		exec --no-startup-id discord
-
-## c
 bindsym $mod+c 			exec --no-startup-id lock
 bindsym $mod+Shift+c		exec --no-startup-id $suspend
-
-## d
-bindsym $mod+d                  exec --no-startup-id i3-dmenu-desktop --dmenu='dmenu -b -i'
-
-## e
+bindsym $mod+d			exec --no-startup-id discord
+bindsym $mod+Shift+d           	exec --no-startup-id i3-dmenu-desktop --dmenu='dmenu -b -i'
 bindsym $mod+e 			exec --no-startup-id code-insiders -n
 bindsym $mod+Shift+e		exec $term -e code-insiders
-
-## f
 bindsym $mod+f			fullscreen toggle
 bindsym $mod+Shift+f 	       	floating toggle
-
-## g
 bindsym $mod+g		       	gaps inner current set $inner_gaps; gaps outer current set $outer_gaps
 bindsym $mod+Shift+g		gaps inner current set 0; gaps outer current set 0
-
-## h
 bindsym $mod+h			focus left
 bindsym $mod+Shift+h		move left 30
 bindsym $mod+Ctrl+h		move workspace to output left
-
-## i
 bindsym $mod+i                 	fullscreen disable; floating enable; resize set 300 200; sticky enable; move position 4792 53
-
-## j
 bindsym $mod+j			focus down
 bindsym $mod+Shift+j		move down 30
 bindsym $mod+Ctrl+j		move workspace to output down
-
-## k
 bindsym $mod+k			focus up
 bindsym $mod+Shift+k		move up 30
 bindsym $mod+Ctrl+k		move workspace to output up
-
-## l
 bindsym $mod+l			focus right
 bindsym $mod+Shift+l		move right 30
 bindsym $mod+Ctrl+l		move workspace to output right
-
-## n
 bindsym $mod+n			exec --no-startup-id kill -s USR1 $(pidof deadd-notification-center)
-
-## p
 bindsym $mod+p			exec --no-startup-id picom -b
 bindsym $mod+Shift+p		exec --no-startup-id killall picom
-
-## q
 bindsym $mod+q			[con_id="__focused__" instance="^(?!dropdown_).*$"] kill
 bindsym $mod+Shift+q		[con_id="__focused__" instance="^(?!dropdown_).*$"] exec --no-startup-id kill -9 `xdotool getwindowfocus getwindowpid`
-
-## r
 bindsym $mod+r 			exec $term -e ranger
 bindsym $mod+Shift+r		exec --no-startup-id winresize
-
-## s
-bindsym $mod+s        		sticky toggle;
-bindsym $mod+Shift+s		split toggle
-
-## t
-bindsym $mod+t 			exec $term -e ytop
-bindsym $mod+Shift+t            focus mode_toggle
-
-## v
+bindsym $mod+s  		exec --no-startup-id spotfiy      		
+bindsym $mod+t 			exec --no-startup-id thunderbird 
 bindsym $mod+v			exec --no-startup-id mpv /dev/video0
-
-## x
 bindsym $mod+x 			exec --no-startup-id $reboot
 bindsym $mod+Shift+x		exec --no-startup-id $shutdown
-
-## z
 bindsym $mod+z			exec --no-startup-id $term -e nvim ~/.zshrc
 
 # Workspace Bindings
@@ -150,12 +103,13 @@ set $ws10 "10"
 
 # Assign Workspaces
 
-#assign [class="Brave"] $ws1
-assign [class="discord"] $ws10
+#assign [class="Brave"] $ws7
+#assign [class="thunderbird"] $ws8
 for_window [class="Spotify"] move to workspace $ws9
-assign [class="obs"] $ws10
+assign [class="discord"] $ws10
 
 # Assing Autofloat
+
 for_window [title=".*Emulator.*"] floating enable
 
 # Switch to Workspace
