@@ -66,6 +66,13 @@ author:
 * Install dmenu
 	- <sudo pacman -S dmenu>
 
+# Additional Setup \& Apps
+
+* Install Spotify
+	-
+* Install Discord
+	- 
+
 # Command Line Basics
 
 * System
@@ -153,6 +160,7 @@ author:
 * mod+d: open discord
 * mod+s: open spotify
 * mod+t: open thunderbird
+* mod+r: open ranger
 * mod+p/mod+Shift+p: enable/disable compton
 
 ## Brave Browser
