@@ -68,6 +68,11 @@ author:
 
 # Additional Setup \& Apps
 
+* Install Zathura
+	- Zathura: <sudo pacman -S zathura>
+	- Read PDFs: <sudo pacman -S zathura-pdf-poppler>
+	- Read PostScript: <sudo pacman -S zathura-ps>
+	- Manually create config dir: <mkdir ~/.config/zathura>
 * Install Spotify
 	-
 * Install Discord
