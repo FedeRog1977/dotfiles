@@ -9,7 +9,8 @@ map n recolor
 
 # Defaults
 
-# Vim key bindings for h,j,k,l scroll (Shift+{h,j,k,l} for full pages)
+# Vim key bindings for h,j,k,l scroll etc. (Shift+{h,j,k,l} for full pages)
+# m+<key>: (book)`mark' section with <key>
 # f: follow link
 # -: zoom out
 # Ctrl++: zoom in
