@@ -101,9 +101,11 @@ author:
 	- Remove directory: <rm -R 'dir'>
 	- Remove directory (when empty): <rmdir 'dir'>
 	- Back one: <cd ..>
-	- List files: <ls>
-	- List files (inc. dot files): <ls -a>
-	- List files (with stats): <ls -l>
+	- List files: <ls> (flags can be stacked)
+		- Inc. dot files: <ls -a>
+		- Inc. `human readable' size: <ls -h>
+		- List vertically: <ls -l>
+	- File size (with human readable units): <du -h>
 	- Move file: <mv 'dir'/'file' [to] 'dir'/'file'>
 	- Copy file: <cp 'dir'/'file' [to] 'dir'/'file'>
 	- Rename file (using <mv>): <mv 'file' [to] 'file'>
