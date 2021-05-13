@@ -158,7 +158,7 @@ author:
 * mod+Shift+f: floating display window
 * mod+<h,j,k,l>: move between windows
 * mod+q: close window
-* mod+'number': change workspace to workspace 'number'
+* mod+<number>: change workspace to workspace <number>
 * mod+d: dmenu
 * mod+F1: refresh i3
 * ctrl+c: copy to clipboard
@@ -170,16 +170,59 @@ author:
 * mod+r: open ranger
 * mod+p/mod+Shift+p: enable/disable compton
 
+## Vim 
+
+* <number>+<command-key>: dow command <number> times
+* h,j,k,l: navigate left, down, up, right
+	- g,j: down 1 visible line
+	- g,k: up 1 visible line
+* w, b: forward 1 word, back 1 word
+* 0, Shift+4 ($): go to start of line, go to end of line
+	- g,0: go to start of visible line
+	- g,Shift+4 ($): go to end of visible line
+* g,q,q: operate <Return> on end of each visible line in vim line to separate
+* Shift+j (J): conjoin current line with below line with a space to separate
+	- v,<h,j,k,l>,g,Shift+j (J): conjoin all lines of <navigated text> without a space to separate
+* g,g: go to top
+* Shift+g (G): go to bottom
+* i: enable insert mode
+	- Shift+i: enable insert mode to start of line
+* Esc: exit insert mode
+* u: undo
+* Ctrl+r: redo
+* o: enable insert mode at start of new line
+* r: replace letter
+* v+<h,j,k,l>: select <navigated text>
+* v+<command>: select items dictated by <command>
+* c+<command>: copy item dictated by <command>
+* c+<number>+<command>: copy item <number> times dictated by <command>
+	- c+c: copy line
+	- c+w: copy word forward
+	- c+b: copy word back
+	- c+0: copy to start of line
+	- c+$: copy to end of line
+* p: paste
+* d+<command>: delete item dictated by <command>
+* x: delete letter
+* d+<number>+<command>: delete item <number> times dictated by <command>
+	- d+d: delete line
+	- d+w: delete word forward
+	- d+l: delete letter
+	- d+0: delete to start of line
+	- d+$: delete to end of line
+* g,u+<number>+<command>: uncapitalize item <number> times dictated by <command>
+* g,U+<number>+<command>: capitalize item <number> times dictated by <command>
+* <number>+~: change capitalization of <number> letters
+* :w: write
+* :q: quit
+	- :q!: force quit
+	- :wq: write and quit
+* Shift+z,Shift+z (ZZ): write and quit
+
 ## Brave Browser
 
-* ctrl+{: back page 
-* ctrl+}: forward page
-* ctrl+t: new tab
-* ctrl+w: close tab [window, upon final tab]
-* alt+'n': tab number 'n' in {1,...,[1]0}
-
-## MuPDF
-
-* h,j,k,l: navigate page (Vim commands)
-* -/+: zoom out/in
-* r: refresh
+* Ctrl+{: back page 
+* Ctrl+}: forward page
+* Ctrl+t: new tab
+* Ctrl+w: close tab [window, upon final tab]
+* Ctrl+'n': tab number 'n' in {1,...,[1]0}
