@@ -103,10 +103,10 @@ set $ws10 "10"
 
 # Assign Workspaces
 
-#assign [class="Brave"] $ws7
-#assign [class="thunderbird"] $ws8
-#for_window [class="Spotify"] move to workspace $ws9
+#assign [class="Brave"] $ws10
+#assign [class="thunderbird"] $ws10
 #assign [class="discord"] $ws10
+#for_window [class="Spotify"] move to workspace $ws10
 
 # Assing Autofloat
 
@@ -185,7 +185,7 @@ client.background       #ffffff
 
 # Wallpaper
 
-exec_always feh --bg-fill ~/Documents/Media/Wallpapers/Stob-Binnein.jpeg
+exec_always feh --bg-fill ~/Documents/Media/Photos/Daytona.jpeg
 	#exec --no-startup-id exec zsh $HOME/.fehbg
 	#for_window [class=".*"] border pixel 0
 	#hide_edge_borders both

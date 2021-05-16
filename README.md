@@ -75,6 +75,11 @@ author:
 	- Manually create config dir: <mkdir ~/.config/zathura>
 * Install Spotify
 	-
+* Install Spotify Polybar Module
+	- Link: https://github.com/PrayagS/polybar-spotify/blob/master/README.md
+	- Copy and amend relevant content
+	- Dependency: <sudo pacman -S playerctl>
+	- Dependency: <git clone https://github.com/noctuid/zscroll>, <cd zscroll>, <sudo python3 setup.py install>
 * Install Discord
 	- 
 
