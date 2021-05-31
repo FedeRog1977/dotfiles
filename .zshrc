@@ -10,7 +10,7 @@ export PS1="%{$fg[cyan]%}[%* %D] %{$fg[green]%}%n %{$fg[cyan]%}%~ %{$fg[green]%}
 bindkey -v
 export KEYTIMEOUT=1
 
-# Alias Command Shortcuts
+# Alias
 
 ## Command Line Programs
 

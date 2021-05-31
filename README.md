@@ -93,6 +93,7 @@ author:
 	- Install: <sudo pacman -S 'program'> 
 	- Install \& Update: <sudo pacman -Sy 'program'>
 	- Install, Update \& Repair: <sudo pacman -Syu 'program'>
+	- Search pacman: <sudo pacman -Ss>
 	- Show installed packages: <pacman -Qe>
 	- Remove package: <pacman -R 'program'>
 * Opening with program
