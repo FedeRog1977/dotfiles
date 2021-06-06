@@ -40,7 +40,7 @@ alias docs='cd ~/Documents'
 ## Document Shortcuts
 
 alias todo='nvim ~/Documents/General/To_Do.md'
-alias art='nvim ~/Documents/General/Artillery.md'
+alias shop='nvim ~/Documents/General/Artillery.md'
 alias cash='nvim ~/Documents/General/Cash.md'
 alias pass='nvim ~/Documents/General/Sdrowssap.md'
 
