@@ -30,11 +30,13 @@ alias sublime='subl'
 alias docs='cd ~/Documents'
 	alias general='cd ~/Documents/General'
 	alias uni='cd ~/Documents/Masters'
+	alias work='cd ~/Documents/Work'
 	alias gitdocs='cd ~/Documents/GitHub'
 		alias dots='cd ~/Documents/GitHub/dotfiles'
 		alias bashrc='cd ~/Documents/GitHub/BrittonsBashRC'
 			alias blog='cd ~/Documents/GitHub/BrittonsBashRC/Blog'
 			alias coursework='cd ~/Documents/GitHub/BrittonsBashRC/Coursework'
+		alias gents='cd ~/Documents/GitHub/Gentlemen'
 		alias vtc='cd ~/Documents/GitHub/vtctruffles'
 
 ## Document Shortcuts
