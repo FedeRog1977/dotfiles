@@ -15,6 +15,7 @@ set $outer_gaps 10
 set $term --no-startup-id alacritty
 set $mod Mod4
 set $alt Mod1
+# (Mac Keyboard) set $mod Mod1
 
 set $shutdown sudo -A shutdown -h now
 set $reboot sudo -A reboot
@@ -40,6 +41,7 @@ bindsym $mod+Escape		exec --no-startup-id dm-tool switch-to-greeter
 bindsym $mod+Shift+Escape	exec --no-startup-id $hibernate
 bindsym $mod+BackSpace		exec --no-startup-id prompt "Shutdown Computer?" $shutdown
 bindsym $mod+Shift+BackSpace	exec --no-startup-id prompt "Reboot Computer?" $reboot
+bindsym $mod+Shift+o		exec --no-startup-id $logoff
 bindsym $mod+space      	exec --no-startup-id rofi-menu 
 
 bindsym $mod+a		       	exec $term -e alsamixer

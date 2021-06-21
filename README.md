@@ -31,9 +31,10 @@ author:
 	- For Config: *~/.config/alacritty/alacritty.yml*
 	- <sudo pacman -S alacritty>
 * Change Shell to zsh
-	- <chsh -s zsh>
+	- <chsh -s /bin/zsh>
 * Configure .zshrc \& Enable Syntax
 	- <git clone https://github.com/zsh-users/zsh-syntax-highlighting.git>
+	- <mv zsh-syntax-highlighting .cache>
 * Install \& Configure Brave Browser
 	- <git clone https://aur.archlinux.org/snapd.git>
 	- <cd snapd>
@@ -88,6 +89,7 @@ author:
 * System
 	- super-user do: <sudo 'command'>
 	- Shutdown: <sudo shutdown 'time'>
+	- Restart: <sudo reboot>
 	- Manual: <man 'program'>
 * Pacman basics
 	- Install: <sudo pacman -S 'program'> 
@@ -166,7 +168,7 @@ author:
 * mod+q: close window
 * mod+<number>: change workspace to workspace <number>
 * mod+d: dmenu
-* mod+F1: refresh i3
+* mod+F1: refresh i3 (use fn key too on mac)
 * ctrl+c: copy to clipboard
 * mouse3 or ctrl+v: paste from clipboard
 * mod+b: open brave
