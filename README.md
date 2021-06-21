@@ -146,6 +146,7 @@ author:
 * Basic commands
 	- [1.1] List repos: <gh repo list>
 	- [1.2] Create repo: <gh repo create [name]> (then clone it to local files)
+		- Or: <git init> when in new repo
 	- [1.3] Clone: <git clone 'url' [to] 'dir'> or <gh repo clone 'repo'>
 	- [2.1] Edited file status: <git status> (while in a repo)
 	- [2.2] Add: <git add> (to add newly created files etc.)
