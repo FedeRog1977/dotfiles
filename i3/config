@@ -13,9 +13,9 @@ set $inner_gaps 10
 set $outer_gaps 10
 
 set $term --no-startup-id alacritty
-set $mod Mod4
-set $alt Mod1
-# (Mac Keyboard) set $mod Mod1
+# (Windows Keyboard) set $mod Mod4
+# (Windows Keyboard) set $alt Mod1
+set $mod Mod1
 
 set $shutdown sudo -A shutdown -h now
 set $reboot sudo -A reboot
@@ -41,7 +41,6 @@ bindsym $mod+Escape		exec --no-startup-id dm-tool switch-to-greeter
 bindsym $mod+Shift+Escape	exec --no-startup-id $hibernate
 bindsym $mod+BackSpace		exec --no-startup-id prompt "Shutdown Computer?" $shutdown
 bindsym $mod+Shift+BackSpace	exec --no-startup-id prompt "Reboot Computer?" $reboot
-bindsym $mod+Shift+o		exec --no-startup-id $logoff
 bindsym $mod+space      	exec --no-startup-id rofi-menu 
 
 bindsym $mod+a		       	exec $term -e alsamixer
@@ -195,4 +194,8 @@ exec_always feh --bg-fill ~/Documents/Media/Photos/Daytona.jpeg
 # Polybar Launch Script
 
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+
+# Resolution
+
+exec --no-startup-id xrandr --output eDP1 --mode 1920x1200
 
