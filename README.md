@@ -35,11 +35,6 @@ author:
 * Configure .zshrc \& Enable Syntax
 	- <git clone https://github.com/zsh-users/zsh-syntax-highlighting.git>
 	- <mv zsh-syntax-highlighting .cache>
-* Install \& Configure Brave Browser
-	- <git clone https://aur.archlinux.org/snapd.git>
-	- <cd snapd>
-	- <makepkg -si>
-	- <sudo snap install brave>
 * Install Polybar
 	- For Config: *~/.config/polyabr/config*
 	- For Launch Script *.config/polybar/launch.sh*
@@ -55,9 +50,6 @@ author:
 	- Change Script Permission to Make Executable: sudo chmod +x .config/polybar/launch.sh
 	- Link in i3 Config (Available Also at Wiki): exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 	- '#' Original i3 Status Bar in i3 Config So Not Read 
-* Install LaTeX Packages
-	- <sudo pacman -S texlive-most>
-	- <sudo pacman -S pdflatex>
 * Install feh for Setting Background in i3 Config
 	- <sudo pacman -S feh>
 * Set Background in i3 Config
@@ -69,20 +61,34 @@ author:
 
 # Additional Setup \& Apps
 
+* Configure snapd
+	- <cd ~/Downloads>
+	- <git clone https://aur.archlinux.org/snapd.git>
+	- <makepkg -si>
+* Install Brave Browser
+	- <cd ~/Downloads/snapd>
+	- <sudo snap install brave>
+* Install Spotify
+	- <cd ~/Downloads/snapd>
+	- <sudo snap instal spotify>
+* Install Discord
+	- <cd ~/Downloads/snapd>
+	- <sudo snap instal discord>
+* Install Thunderbird
+	- <sudo pacman -S thunderbird>
+* Install LaTeX Packages
+	- <sudo pacman -S texlive-most>
+	- <sudo pacman -S pdflatex>
 * Install Zathura
 	- Zathura: <sudo pacman -S zathura>
 	- Read PDFs: <sudo pacman -S zathura-pdf-poppler>
 	- Read PostScript: <sudo pacman -S zathura-ps>
 	- Manually create config dir: <mkdir ~/.config/zathura>
-* Install Spotify
-	-
 * Install Spotify Polybar Module
 	- Link: https://github.com/PrayagS/polybar-spotify/blob/master/README.md
 	- Copy and amend relevant content
 	- Dependency: <sudo pacman -S playerctl>
 	- Dependency: <git clone https://github.com/noctuid/zscroll>, <cd zscroll>, <sudo python3 setup.py install>
-* Install Discord
-	- 
 * Change Resolution
 	- Example: <xrandr --output eDP1 --mode 2560x1600>
 	- Example: <xrandr --output eDP1 --mode 1920x1200>
