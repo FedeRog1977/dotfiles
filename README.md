@@ -115,6 +115,7 @@ author:
 	- Change directory: <cd 'dir'>
 	- Show current directory: <pwd>
 	- Rename directory (using <mv>): <mv 'dir' [to] 'dir'>
+	- Move directory contents (using <mv>): <mv 'dir'/* [to] 'dir'>
 	- Remove directory: <rm -R 'dir'>
 	- Remove directory (when empty): <rmdir 'dir'>
 	- Back one: <cd ..>
