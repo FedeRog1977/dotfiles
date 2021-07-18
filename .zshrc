@@ -31,20 +31,18 @@ alias docs='cd ~/Documents'
 	alias general='cd ~/Documents/General'
 	alias uni='cd ~/Documents/Masters'
 	alias work='cd ~/Documents/Work'
-	alias gitdocs='cd ~/Documents/GitHub'
-		alias dots='cd ~/Documents/GitHub/dotfiles'
-		alias bashrc='cd ~/Documents/GitHub/BrittonsBashRC'
-			alias blog='cd ~/Documents/GitHub/BrittonsBashRC/Blog'
-			alias coursework='cd ~/Documents/GitHub/BrittonsBashRC/Coursework'
-		alias gents='cd ~/Documents/GitHub/Gentlemen'
-		alias vtc='cd ~/Documents/GitHub/vtctruffles'
+	alias repos='cd ~/Documents/Repos'
+		alias dots='cd ~/Documents/Repos/dotfiles'
+		alias bashrc='cd ~/Documents/Repos/BrittonsBashRC'
+			alias blog='cd ~/Documents/Repos/BrittonsBashRC/Blog'
+			alias coursework='cd ~/Documents/Repos/BrittonsBashRC/Coursework'
+		alias vtc='cd ~/Documents/Repos/vtctruffles'
 
 ## Document Shortcuts
 
-alias todo='nvim ~/Documents/General/To_Do.md'
+alias todo='nvim ~/Documents/General/To-Do.md'
 alias shop='nvim ~/Documents/General/Artillery.md'
-alias cash='nvim ~/Documents/General/Cash.md'
-alias pass='nvim ~/Documents/General/Sdrowssap.md'
+alias pers='nvim ~/Documents/General/Personal.md'
 
 # Enable syntax
 source ~/.cache/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
