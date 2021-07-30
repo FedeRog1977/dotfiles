@@ -40,9 +40,9 @@ alias docs='cd ~/Documents'
 
 ## Document Shortcuts
 
-alias todo='nvim ~/Documents/General/To-Do.md'
-alias shop='nvim ~/Documents/General/Shopping.md'
-alias pers='nvim ~/Documents/General/Personal.md'
+alias todo='nvim ~/Documents/General/To-Do.txt'
+alias shop='nvim ~/Documents/General/Shopping.txt'
+alias pers='nvim ~/Documents/General/Personal.txt'
 
 # Enable syntax
 source ~/.cache/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
