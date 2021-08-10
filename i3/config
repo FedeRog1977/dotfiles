@@ -75,8 +75,9 @@ bindsym $mod+q			[con_id="__focused__" instance="^(?!dropdown_).*$"] kill
 bindsym $mod+Shift+q		[con_id="__focused__" instance="^(?!dropdown_).*$"] exec --no-startup-id kill -9 `xdotool getwindowfocus getwindowpid`
 bindsym $mod+r 			exec $term -e ranger
 bindsym $mod+Shift+r		exec --no-startup-id winresize
-bindsym $mod+s  		exec --no-startup-id $term -e scrot -d 1
-bindsym $mod+Shift+s		exec --no-startup-id $term -e scrot -u -d 1
+bindsym $mod+s  		exec --no-startup-id $term -e scrot
+bindsym $mod+Shift+s		exec --no-startup-id $term -e scrot -u
+bindsym $mod+Ctrl+s		exec --no-startup-id $term -e scrot -s
 bindsym $mod+t 			exec --no-startup-id thunderbird 
 bindsym $mod+v			exec --no-startup-id mpv /dev/video0
 bindsym $mod+x 			exec --no-startup-id $reboot
@@ -105,10 +106,16 @@ set $ws10 "10"
 
 # Assign Workspaces
 
+assign [class="scrot"] $ws10
 #assign [class="Brave"] $ws10
 #assign [class="thunderbird"] $ws10
 #assign [class="discord"] $ws10
+
 #for_window [class="Spotify"] move to workspace $ws10
+#for_window [title="GIMP Startup"] move workspace $ws5
+#for_window [class="Gimp"] move workspace $ws5
+for_window [window_role="GtkFileChooserDialog"] resize set 800 600
+for_window [window_role="GtkFileChooserDialog"] move position center
 
 # Assing Autofloat
 
@@ -139,12 +146,6 @@ bindsym $mod+Shift+7	move container to workspace $ws7
 bindsym $mod+Shift+8	move container to workspace $ws8
 bindsym $mod+Shift+9	move container to workspace $ws9
 bindsym $mod+Shift+0	move container to workspace $ws10
-
-for_window [title="GIMP Startup"] move workspace $ws5
-#for_window [class="Gimp"] move workspace $ws5
-
-for_window [window_role="GtkFileChooserDialog"] resize set 800 600
-for_window [window_role="GtkFileChooserDialog"] move position center
 
 # Function Buttons
 

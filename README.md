@@ -88,9 +88,14 @@ author:
 	- <sudo pacman -Syu scrot> (as it's old and outdated outdated)
 	- Screenshot Full: <scrot>
 	- Screenshot Current Window: <scrot -u>
-	- Add to i3 config, e.g.: bindsym $mod+s exec --no-startup-id $term -e scrot
-	- Need to set a lag on this coz a new window opens when executed
-	- Needs work ...
+	- Screenshot Selected Window: <scrot -s>
+	- Screenshot w/ Delay: <scrot -d 'seconds'>
+	- Add to i3 config:
+		- E.g.: bindsym $mod+s exec --no-startup-id $term -e scrot
+		- Or: bindsym $mod+s exec --no-startup-id $term -e scrot -s 
+	- A window opens to open Scrot when bound to a key
+		- Setting a lag doesn't work as the window stays open
+		- Must move Scrot to a far-out workspace while the screenshot is taken
 * Install Spotify Polybar Module
 	- Link: https://github.com/PrayagS/polybar-spotify/blob/master/README.md
 	- Copy and amend relevant content
