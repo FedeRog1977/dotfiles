@@ -84,6 +84,13 @@ author:
 	- Read PDFs: <sudo pacman -S zathura-pdf-poppler>
 	- Read PostScript: <sudo pacman -S zathura-ps>
 	- Manually create config dir: <mkdir ~/.config/zathura>
+* Install Scrot
+	- <sudo pacman -Syu scrot> (as it's old and outdated outdated)
+	- Screenshot Full: <scrot>
+	- Screenshot Current Window: <scrot -u>
+	- Add to i3 config, e.g.: bindsym $mod+s exec --no-startup-id $term -e scrot
+	- Need to set a lag on this coz a new window opens when executed
+	- Needs work ...
 * Install Spotify Polybar Module
 	- Link: https://github.com/PrayagS/polybar-spotify/blob/master/README.md
 	- Copy and amend relevant content

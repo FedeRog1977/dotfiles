@@ -75,7 +75,8 @@ bindsym $mod+q			[con_id="__focused__" instance="^(?!dropdown_).*$"] kill
 bindsym $mod+Shift+q		[con_id="__focused__" instance="^(?!dropdown_).*$"] exec --no-startup-id kill -9 `xdotool getwindowfocus getwindowpid`
 bindsym $mod+r 			exec $term -e ranger
 bindsym $mod+Shift+r		exec --no-startup-id winresize
-bindsym $mod+s  		exec --no-startup-id spotfiy      		
+bindsym $mod+s  		exec --no-startup-id $term -e scrot -d 1
+bindsym $mod+Shift+s		exec --no-startup-id $term -e scrot -u -d 1
 bindsym $mod+t 			exec --no-startup-id thunderbird 
 bindsym $mod+v			exec --no-startup-id mpv /dev/video0
 bindsym $mod+x 			exec --no-startup-id $reboot
