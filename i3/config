@@ -189,7 +189,7 @@ client.background       #ffffff
 
 # Wallpaper
 
-exec_always feh --bg-fill ~/Documents/Media/Photos/Daytona.jpeg
+exec_always feh --bg-fill ~/Documents/Media/Wallpapers/mor.jpg
 	#exec --no-startup-id exec zsh $HOME/.fehbg
 	#for_window [class=".*"] border pixel 0
 	#hide_edge_borders both
