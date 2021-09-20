@@ -75,9 +75,9 @@ bindsym $mod+q			[con_id="__focused__" instance="^(?!dropdown_).*$"] kill
 bindsym $mod+Shift+q		[con_id="__focused__" instance="^(?!dropdown_).*$"] exec --no-startup-id kill -9 `xdotool getwindowfocus getwindowpid`
 bindsym $mod+r 			exec $term -e ranger
 bindsym $mod+Shift+r		exec --no-startup-id winresize
-bindsym $mod+s  		exec --no-startup-id $term -e scrot
-bindsym $mod+Shift+s		exec --no-startup-id $term -e scrot -u
-bindsym $mod+Ctrl+s		exec --no-startup-id $term -e scrot -s
+bindsym --release $mod+s  	exec scrot
+bindsym $mod+Shift+s		exec scrot -u
+bindsym $mod+Ctrl+s		exec scrot -s
 bindsym $mod+t 			exec --no-startup-id thunderbird 
 bindsym $mod+v			exec --no-startup-id mpv /dev/video0
 bindsym $mod+x 			exec --no-startup-id $reboot
@@ -189,7 +189,7 @@ client.background       #ffffff
 
 # Wallpaper
 
-exec_always feh --bg-fill ~/Documents/Media/Wallpapers/mor.jpg
+exec_always feh --bg-fill ~/Documents/Media/Wallpapers/mor2.jpg
 	#exec --no-startup-id exec zsh $HOME/.fehbg
 	#for_window [class=".*"] border pixel 0
 	#hide_edge_borders both
