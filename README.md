@@ -128,6 +128,7 @@ author:
 	- Show current directory: <pwd>
 	- Rename directory (using <mv>): <mv 'dir' [to] 'dir'>
 	- Move directory contents (using <mv>): <mv 'dir'/* [to] 'dir'>
+	- Move all contents of directory 1 back one to directory 0, from dir 0: <mv 'dir'/* [to] .>
 	- Remove directory: <rm -R 'dir'>
 	- Remove directory (when empty): <rmdir 'dir'>
 	- Back one: <cd ..>
