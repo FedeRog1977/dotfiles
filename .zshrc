@@ -22,6 +22,7 @@ alias mop='go run ~/.cache/gostuff/src/github.com/mop-tracker/mop/cmd/mop/main.g
 
 ## Application Shortcuts
 
+alias weather='lynx https://www.mwis.org.uk/forecasts/scottish/west-highlands/text'
 alias email='thunderbird'
 alias sublime='subl'
 
