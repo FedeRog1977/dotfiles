@@ -245,6 +245,7 @@ author:
 * g,u+<number>+<command>: uncapitalize item <number> times dictated by <command>
 * g,U+<number>+<command>: capitalize item <number> times dictated by <command>
 * <number>+~: change capitalization of <number> letters
+* /: search
 * :w: write
 * :q: quit
 	- :q!: force quit
