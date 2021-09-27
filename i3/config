@@ -56,10 +56,12 @@ bindsym $mod+Shift+g		gaps inner current set 0; gaps outer current set 0
 bindsym $mod+h			focus left
 bindsym $mod+Shift+h		move left 30
 bindsym $mod+Ctrl+h		move workspace to output left
-# Small in corner (sticky for to-do etc.):
-bindsym $mod+i 	       		floating toggle, resize set 640 750, sticky enable, move position 1870 90
 # Document size:
-bindsym $mod+Shift+i 	       	floating toggle, resize set 1280 1500, sticky disable, move position 640 70
+bindsym $mod+i 	       		floating toggle, resize set 1280 1500, sticky disable, move position 640 70
+# Small in corner (sticky for to-do etc.):
+bindsym $mod+Shift+i 	       	floating toggle, resize set 640 750, sticky enable, move position 1870 90
+# Longer:
+bindsym $mod+Ctrl+i 	       	floating toggle, resize set 640 1460, sticky enable, move position 1870 90
 bindsym $mod+j			focus down
 bindsym $mod+Shift+j		move down 30
 bindsym $mod+Ctrl+j		move workspace to output down
