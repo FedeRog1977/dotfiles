@@ -1,8 +1,3 @@
-#bar {
-     #position top
-     #status_command i3status
-#}
-
 exec_always --no-startup-id autotiling
 
 # Basic Definitions
@@ -36,7 +31,7 @@ gaps outer $outer_gaps
 # Basic Bindings 
 
 bindsym $mod+Return		exec $term 
-bindsym $mod+Shift+Return	exec $term --working-directory  $(xcwd)
+bindsym $mod+Shift+Return	exec $term $HOME/config/i3/window-same-wd.sh
 bindsym $mod+Escape		exec --no-startup-id dm-tool switch-to-greeter
 bindsym $mod+Shift+Escape	exec --no-startup-id $hibernate
 bindsym $mod+BackSpace		exec --no-startup-id prompt "Shutdown Computer?" $shutdown
@@ -52,13 +47,19 @@ bindsym $mod+Shift+d           	exec --no-startup-id i3-dmenu-desktop --dmenu='d
 bindsym $mod+e 			exec --no-startup-id code-insiders -n
 bindsym $mod+Shift+e		exec $term -e code-insiders
 bindsym $mod+f			fullscreen toggle
-bindsym $mod+Shift+f 	       	floating toggle
+# Floating tile:
+bindsym $mod+Shift+f 	       	floating toggle, resize set 1930 1200, sticky disable, move position 320 200
+# Sticky version:
+bindsym $mod+Ctrl+f 	       	floating toggle, resize set 1930 1200, sticky enable, move position 320 200
 bindsym $mod+g		       	gaps inner current set $inner_gaps; gaps outer current set $outer_gaps
 bindsym $mod+Shift+g		gaps inner current set 0; gaps outer current set 0
 bindsym $mod+h			focus left
 bindsym $mod+Shift+h		move left 30
 bindsym $mod+Ctrl+h		move workspace to output left
-bindsym $mod+i                 	fullscreen disable; floating enable; resize set 300 200; sticky enable; move position 4792 53
+# Small in corner (sticky for to-do etc.):
+bindsym $mod+i 	       		floating toggle, resize set 640 750, sticky enable, move position 1870 90
+# Document size:
+bindsym $mod+Shift+i 	       	floating toggle, resize set 1280 1500, sticky disable, move position 640 70
 bindsym $mod+j			focus down
 bindsym $mod+Shift+j		move down 30
 bindsym $mod+Ctrl+j		move workspace to output down
