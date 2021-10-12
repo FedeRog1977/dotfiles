@@ -85,14 +85,12 @@ author:
 	- Read PostScript: <sudo pacman -S zathura-ps>
 	- Manually create config dir: <mkdir ~/.config/zathura>
 * Install Scrot
-	- <sudo pacman -Syu scrot> (as it's old and outdated outdated)
+	- <sudo pacman -Syu scrot> (as it's old and outdated)
 	- Screenshot Full: <scrot>
 	- Screenshot Current Window: <scrot -u>
 	- Screenshot Selected Window: <scrot -s>
 	- Screenshot w/ Delay: <scrot -d 'seconds'>
-	- Add to i3 config:
-		- E.g.: bindsym $mod+s exec --no-startup-id $term -e scrot
-		- Or: bindsym $mod+s exec --no-startup-id $term -e scrot -s 
+	- Add to i3 config
 	- A window opens to open Scrot when bound to a key
 		- Setting a lag doesn't work as the window stays open
 		- Must move Scrot to a far-out workspace while the screenshot is taken
