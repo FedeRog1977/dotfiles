@@ -102,6 +102,9 @@ author:
 * Change Resolution
 	- Example: <xrandr --output eDP1 --mode 2560x1600>
 	- Example: <xrandr --output eDP1 --mode 1920x1200>
+* Change Brightness
+	- Find display: xrandr -q | grep ' connected' | head -n 1 | cut -d ' ' -f1
+	- Adjust brightness: xrandr --output <display> --brightness <value>
 
 # Command Line Basics
 
