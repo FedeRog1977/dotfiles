@@ -142,7 +142,9 @@ author:
 	- Copy file: <cp 'dir'/'file' [to] 'dir'/'file'>
 	- Rename file (using <mv>): <mv 'file' [to] 'file'>
 	- Remove file: <rm 'file'>
-	- Unzip folder: <unzip 'file'>
+	- Zip/Unzip: <sudo pacman -S zip>
+		- Zip folder: move files to 'folder', <zip -r 'desired_file.zip' 'folder'>
+		- Unzip folder: <unzip 'file'>
 * Terminal and shell manipulation
 	- Change shell: <chsh -s /usr/bin/'shell'>
 	- List shells: <chsh -l>
