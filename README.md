@@ -162,6 +162,11 @@ author:
 	- Location: </usr/share/fonts>
 	- Create a folder
 	- Move '.ttf' font file to folder
+* Screen capture
+	- ffmpeg record syntax: <ffmpeg -video_size 2560x1600 -framerate 25 -f x11grab -i :0.0 -f pulse -ac 2 -i default 'filename'.mkv>
+	- ffmpeg record syntax (2): <ffmpeg -f x11grab -s 2560x1600 -i :0.0 -f pulse -ac 2 -i default 'filename'.mkv>
+	- Play using mpv: <mpv 'filename'.mkv>
+	- Play using VLC: <vlc 'filename'.mkv>
 
 # GitHub CLI
 
