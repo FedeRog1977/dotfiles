@@ -33,6 +33,7 @@ alias sublime='subl'
 
 ## Directory Shortcuts
 
+alias readme='nvim ~/Documents/Repos/dotfiles/README.md'
 alias docs='cd ~/Documents'
 	alias general='cd ~/Documents/General'
 	alias uni='cd ~/Documents/Masters'
