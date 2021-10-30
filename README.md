@@ -59,11 +59,20 @@ author:
 * Install dmenu
 	- <sudo pacman -S dmenu>
 
+## Enable Use of Arch User Repository
+
+* Enable access to Arch Linux Repositories:
+	- <pamac install base-devel git>
+
 # Additional Setup \& Apps
 
 * Configure snapd
-	- <cd ~/Downloads>
 	- <git clone https://aur.archlinux.org/snapd.git>
+	- <cd snapd>
+	- <makepkg -si>
+* Configure sc-im
+	- <git clone https://aur.archlinux.org/sc-im.git>
+	- <cd sc-im>
 	- <makepkg -si>
 * Install Brave Browser
 	- <cd ~/Downloads/snapd>
