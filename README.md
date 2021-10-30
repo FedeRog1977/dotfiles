@@ -63,6 +63,7 @@ author:
 
 * Enable access to Arch Linux Repositories:
 	- <pamac install base-devel git>
+* Also see: <https://wiki.manjaro.org/index.php?title=Arch_User_Repository>
 
 # Additional Setup \& Apps
 
