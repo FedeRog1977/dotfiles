@@ -1,5 +1,5 @@
 syntax on
-set wrap 
+set wrap
 set ruler
 set wildmenu
 set number
