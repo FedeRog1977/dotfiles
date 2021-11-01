@@ -45,9 +45,9 @@ alias docs='cd ~/Documents'
 ## Document Shortcuts
 
 alias readme='nvim ~/Documents/Repos/dotfiles/README.md'
-alias life='sc-im ~/Documents/General/General.csv'
+alias life='sc-im ~/Documents/General/Life.csv'
 alias shop='nvim ~/Documents/General/Shopping.txt'
-alias pers='nvim ~/Documents/General/Personal.txt'
+alias pass='nvim ~/Documents/General/Passwords.txt'
 
 # Enable syntax
 source ~/.cache/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
