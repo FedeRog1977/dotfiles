@@ -30,17 +30,16 @@ alias weather='lynx https://www.mwis.org.uk/forecasts/scottish/west-highlands/te
 
 ## Directory Shortcuts
 
-alias docs='cd ~/Documents'
-	alias general='cd ~/Documents/General'
-	alias uni='cd ~/Documents/Masters'
-		alias project='cd ~/Documents/Masters/Project'
-	alias work='cd ~/Documents/Work'
-	alias repos='cd ~/Documents/Repos'
-		alias dots='cd ~/Documents/Repos/dotfiles'
-		alias bashrc='cd ~/Documents/Repos/BrittonsBashRC'
-			alias blog='cd ~/Documents/Repos/BrittonsBashRC/Blog'
-			alias coursework='cd ~/Documents/Repos/BrittonsBashRC/Coursework'
-		alias vtc='cd ~/Documents/Repos/vtctruffles'
+alias general='cd ~/Documents/General'
+alias media='cd ~/Documents/Media'
+alias repos='cd ~/Documents/Repos'
+	alias dots='cd ~/Documents/Repos/dotfiles'
+	alias bashrc='cd ~/Documents/Repos/BrittonsBashRC'
+		alias blog='cd ~/Documents/Repos/BrittonsBashRC/Blog'
+		alias coursework='cd ~/Documents/Repos/BrittonsBashRC/Coursework'
+	alias vtc='cd ~/Documents/Repos/vtctruffles'
+alias uni='cd ~/Documents/University'
+	alias project='cd ~/Documents/University/Project'
 
 ## Document Shortcuts
 
