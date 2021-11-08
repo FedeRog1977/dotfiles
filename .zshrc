@@ -21,8 +21,7 @@ alias bright-full='xrandr --output eDP-1 --brightness 1'
 
 ## Command Line Programs
 
-alias mop='go run ~/.cache/gostuff/src/github.com/mop-tracker/mop/cmd/mop/main.go'
-	alias go='~/.cache/go/bin/mop' # Because 'go run' relies on 'go' being in ~, moved to .cache
+alias stocks='ticker --config ~/snap/ticker/ticker.yaml'
 
 ## Application Shortcuts
 
@@ -48,5 +47,6 @@ alias life='sc-im ~/Documents/General/Life.csv'
 alias shop='nvim ~/Documents/General/Shopping.txt'
 alias pass='nvim ~/Documents/General/Passwords.txt'
 
-# Enable syntax
+# Enable Syntax
+
 source ~/.cache/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
