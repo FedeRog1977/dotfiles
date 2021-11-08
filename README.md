@@ -109,6 +109,8 @@ author:
 	- Copy and amend relevant content
 	- Dependency: <sudo pacman -S playerctl>
 	- Dependency: <git clone https://github.com/noctuid/zscroll>, <cd zscroll>, <sudo python3 setup.py install>
+* Install ticker
+	- <sudo snap install ticker>
 * Change Resolution
 	- Example: <xrandr --output eDP1 --mode 2560x1600>
 	- Example: <xrandr --output eDP1 --mode 1920x1200>
