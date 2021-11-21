@@ -1,5 +1,5 @@
 favorites=
-recent=brave_brave.desktop,xfce-display-settings.desktop,xfce4-terminal-emulator.desktop,qpdfview.desktop,xfce4-file-manager.desktop
+recent=xfce4-terminal-emulator.desktop,brave_brave.desktop,xfce-display-settings.desktop,qpdfview.desktop,xfce4-file-manager.desktop
 button-icon=/usr/share/icons/whiskermenu-manjaro.svg
 button-single-row=false
 show-button-title=false
@@ -11,8 +11,8 @@ item-icon-size=2
 hover-switch-category=false
 category-show-name=true
 category-icon-size=1
-load-hierarchy=false
-view-as-icons=false
+sort-categories=true
+view-mode=1
 default-category=0
 recent-items-max=10
 favorites-in-recent=true

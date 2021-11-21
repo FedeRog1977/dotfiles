@@ -1,12 +1,12 @@
 # GIMP action-history
 
-(history-item "file-overwrite" 4)
-(history-item "image-scale" 3)
+(history-item "file-overwrite" 1)
+(history-item "image-scale" 4)
 (history-item "file-open" 4)
 (history-item "file-quit" 0)
 (history-item "image-print-size" 1)
-(history-item "view-close" 1)
-(history-item "file-export-as" 2)
+(history-item "view-close" 0)
+(history-item "file-export-as" 3)
 (history-item "view-zoom-in" 1)
 (history-item "filters-invert-perceptual" 1)
 (history-item "filters-saturation" 0)
