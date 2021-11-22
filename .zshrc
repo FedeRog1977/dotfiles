@@ -15,9 +15,7 @@ export KEYTIMEOUT=1
 ## Command Shortcuts
 
 alias disp="xrandr -q | grep ' connected' | head -n 1 | cut -d ' ' -f1"
-alias bright-low='xrandr --output eDP-1 --brightness 0.25'
-alias bright-std='xrandr --output eDP-1 --brightness 0.75'
-alias bright-full='xrandr --output eDP-1 --brightness 1'
+alias dispset='xrandr --output eDP-1 --brightness 0.75 --gamma 1:1:0.9'
 
 ## Command Line Programs
 
