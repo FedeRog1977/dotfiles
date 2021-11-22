@@ -16,6 +16,7 @@ export KEYTIMEOUT=1
 
 alias disp="xrandr -q | grep ' connected' | head -n 1 | cut -d ' ' -f1"
 alias dispset='xrandr --output eDP-1 --brightness 0.75 --gamma 1:1:0.9'
+alias dispset2='xrandr --output eDP-1 --brightness 1 --gamma 1:1:1'
 
 ## Command Line Programs
 
