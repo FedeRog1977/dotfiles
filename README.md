@@ -1,6 +1,6 @@
 ---
 title:
-- Intro To Linux
+- Introduction To Linux
 author:
 - Lewis Britton
 ---
