@@ -50,6 +50,8 @@ author:
 	- Change Script Permission to Make Executable: sudo chmod +x .config/polybar/launch.sh
 	- Link in i3 Config (Available Also at Wiki): exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 	- '#' Original i3 Status Bar in i3 Config So Not Read 
+	- Install symbol font:
+		- https://zavoloklom.github.io/material-design-iconic-font/cheatsheet.html
 * Install feh for Setting Background in i3 Config
 	- <sudo pacman -S feh>
 * Set Background in i3 Config
@@ -74,6 +76,10 @@ author:
 * Configure sc-im
 	- <git clone https://aur.archlinux.org/sc-im.git>
 	- <cd sc-im>
+	- <makepkg -si>
+* Configure mysql
+	- <git clone https://aur.archlinux.org/mysql.git>
+	- <cd mysql>
 	- <makepkg -si>
 * Install Brave Browser
 	- <cd ~/Downloads/snapd>
