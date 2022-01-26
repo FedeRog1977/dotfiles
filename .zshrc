@@ -43,7 +43,7 @@ alias uni='cd ~/Documents/University'
 ## Document Shortcuts
 
 alias readme='nvim ~/Documents/Repos/dotfiles/README.md'
-alias bins='nvim ~/Documents/General/Bins.pdf'
+alias bins='zathura ~/Documents/General/Bins.pdf'
 alias life='sc-im ~/Documents/General/Life.csv'
 alias pass='nvim ~/Documents/General/Passwords.txt'
 
