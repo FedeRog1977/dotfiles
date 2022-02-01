@@ -60,6 +60,11 @@ author:
 	- <sudo pacman -S compton>
 * Install dmenu
 	- <sudo pacman -S dmenu>
+* Change root password
+	- <sudo su>
+	- <whoami>
+	- <passwd>
+	- Enter new password
 
 ## Enable Use of Arch User Repository
 
@@ -117,6 +122,12 @@ author:
 	- Dependency: <git clone https://github.com/noctuid/zscroll>, <cd zscroll>, <sudo python3 setup.py install>
 * Install ticker
 	- <sudo snap install ticker>
+* Install mysql
+	- <sudo pacman -Syu mysql>
+	- <sudo mysql_install_db --user=/mysql --basedir=/usr --datadir=/var/lib/mysql>
+	- <sudo systemctl start mariadb>
+	- <sudo mysql_secure_installation>
+		- <Y, n, n, n, n, Y>
 * Change Resolution
 	- Example: <xrandr --output eDP1 --mode 2560x1600>
 	- Example: <xrandr --output eDP1 --mode 1920x1200>
