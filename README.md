@@ -91,10 +91,10 @@ author:
 	- <sudo snap install brave>
 * Install Spotify
 	- <cd ~/Downloads/snapd>
-	- <sudo snap instal spotify>
+	- <sudo snap install spotify>
 * Install Discord
 	- <cd ~/Downloads/snapd>
-	- <sudo snap instal discord>
+	- <sudo snap install discord>
 * Install Thunderbird
 	- <sudo pacman -S thunderbird>
 * Install LaTeX Packages
