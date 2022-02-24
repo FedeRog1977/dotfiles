@@ -171,9 +171,10 @@ author:
 	- Copy file: <cp 'dir'/'file' [to] 'dir'/'file'>
 	- Rename file (using <mv>): <mv 'file' [to] 'file'>
 	- Remove file: <rm 'file'>
-	- Zip/Unzip: <sudo pacman -S zip>
+	- Extract (Zip/Unzip): <sudo pacman -S zip>
 		- Zip folder: move files to 'folder', <zip -r 'desired_file.zip' 'folder'>
 		- Unzip folder: <unzip 'file'>
+	- Extract (tar): <tar -xp 'file'>
 * Terminal and shell manipulation
 	- Change shell: <chsh -s /usr/bin/'shell'>
 	- List shells: <chsh -l>
@@ -215,6 +216,20 @@ author:
 		- Comment, ^X to exit, "Save Buffer?" <Enter> to execute
 	- [2.5] Push: <git push>
 	- [3.1] Pull: <git pull>
+* Remove cached large file: 
+	- <git filter-branch --tree-filter 'rm -f MVCC.zip' HEAD>
+	- <git rebase origin/master>
+
+## Git LFS
+
+* Download from: https://git-lfs.github.com/
+* Move to where downloaded: <cd 'dir'>
+* Extract: <tar -xf git-lfs-linux-amd64-v3.1.2.tar.gz>
+* Initialize: <sudo ./install.sh>
+* Install: <git lfs install>
+* Move to repo you wish to use: <cd ~/'dir'>
+* Enable tracking for chosen large filetype: <git lfs track "*.zip">
+* Ensure gitattribute tracking: <git add .gitattributes>
 
 # Current Bindings
 
