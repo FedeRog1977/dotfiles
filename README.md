@@ -274,7 +274,8 @@ author:
 * Esc: exit insert mode
 * u: undo
 * Ctrl+r: redo
-* o: enable insert mode at start of new line
+* o: enable insert mode at start of new line below
+* O: enable insert mode at start of new line above
 * r: replace letter
 * v+<h,j,k,l>: select <navigated text>
 * v+<command>: select items dictated by <command>
@@ -297,6 +298,8 @@ author:
 * g,u+<number>+<command>: uncapitalize item <number> times dictated by <command>
 * g,U+<number>+<command>: capitalize item <number> times dictated by <command>
 * <number>+~: change capitalization of <number> letters
+* ]s: next misspelled word
+* [s: last misspelled word
 * /: search
 * :w: write
 * :q: quit
