@@ -1,0 +1,14 @@
+2022/03/07-08:49:37.115 c39 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.denon.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/07-08:49:37.115 c39 Recovering log #14
+2022/03/07-08:49:37.115 c39 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.denon.com_0.indexeddb.leveldb/000014.log 
+2022/03/07-08:49:37.116 c39 Delete type=2 #12
+2022/03/07-08:49:38.014 bbd Level-0 table #19: started
+2022/03/07-08:49:38.023 bbd Level-0 table #19: 544 bytes OK
+2022/03/07-08:49:38.036 bbd Delete type=0 #14
+2022/03/07-08:49:38.036 bbd Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 83 : 1
+2022/03/07-08:49:38.036 bbd Compacting 1@0 + 1@1 files
+2022/03/07-08:49:38.044 bbd Generated table #20@0: 10 keys, 631 bytes
+2022/03/07-08:49:38.044 bbd Compacted 1@0 + 1@1 files => 631 bytes
+2022/03/07-08:49:38.055 bbd compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/07-08:49:38.056 bbd Delete type=2 #19
+2022/03/07-08:49:38.056 bbd Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 83 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

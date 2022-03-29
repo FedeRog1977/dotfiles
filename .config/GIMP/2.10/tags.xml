@@ -1177,7 +1177,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="(null)">
+  <resource identifier="gimp-palette-color-history" checksum="cf12a8321d2b710b907c6ee5b2710719">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">
@@ -1330,6 +1330,9 @@
   <resource identifier="AkrutiTml2 Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Audi Type" checksum="(null)">
+  </resource>
+
   <resource identifier="C059" checksum="(null)">
   </resource>
 
@@ -1340,6 +1343,9 @@
   </resource>
 
   <resource identifier="C059 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cantarell" checksum="(null)">
   </resource>
 
   <resource identifier="Cantarell" checksum="(null)">
@@ -1657,31 +1663,31 @@
   <resource identifier="Inconsolata Ultra-Expanded" checksum="(null)">
   </resource>
 
-  <resource identifier="Inconsolata weight=280" checksum="(null)">
+  <resource identifier="Inconsolata weight=275" checksum="(null)">
   </resource>
 
-  <resource identifier="Inconsolata weight=280 Condensed" checksum="(null)">
+  <resource identifier="Inconsolata weight=275 Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Inconsolata weight=280 Expanded" checksum="(null)">
+  <resource identifier="Inconsolata weight=275 Expanded" checksum="(null)">
   </resource>
 
-  <resource identifier="Inconsolata weight=280 Extra-Condensed" checksum="(null)">
+  <resource identifier="Inconsolata weight=275 Extra-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Inconsolata weight=280 Extra-Expanded" checksum="(null)">
+  <resource identifier="Inconsolata weight=275 Extra-Expanded" checksum="(null)">
   </resource>
 
-  <resource identifier="Inconsolata weight=280 Semi-Condensed" checksum="(null)">
+  <resource identifier="Inconsolata weight=275 Semi-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Inconsolata weight=280 Semi-Expanded" checksum="(null)">
+  <resource identifier="Inconsolata weight=275 Semi-Expanded" checksum="(null)">
   </resource>
 
-  <resource identifier="Inconsolata weight=280 Ultra-Condensed" checksum="(null)">
+  <resource identifier="Inconsolata weight=275 Ultra-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Inconsolata weight=280 Ultra-Expanded" checksum="(null)">
+  <resource identifier="Inconsolata weight=275 Ultra-Expanded" checksum="(null)">
   </resource>
 
   <resource identifier="Liberation Mono" checksum="(null)">
@@ -1733,6 +1739,9 @@
   </resource>
 
   <resource identifier="MalOtf" checksum="(null)">
+  </resource>
+
+  <resource identifier="Material-Design-Iconic-Font Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Monospace" checksum="(null)">
@@ -3124,7 +3133,7 @@
   <resource identifier="Noto Sans Tai Tham Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Tai Tham weight=480" checksum="(null)">
+  <resource identifier="Noto Sans Tai Tham weight=482" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Tai Viet" checksum="(null)">
@@ -3374,6 +3383,27 @@
   </resource>
 
   <resource identifier="Noto Serif Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Ultra-Light" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif CJK JP" checksum="(null)">
@@ -3964,6 +3994,9 @@
   <resource identifier="Source Code Variable" checksum="(null)">
   </resource>
 
+  <resource identifier="Source Code Variable" checksum="(null)">
+  </resource>
+
   <resource identifier="Source Code Variable Bold" checksum="(null)">
   </resource>
 
@@ -3974,6 +4007,9 @@
   </resource>
 
   <resource identifier="Source Code Variable Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Code Variable Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Source Code Variable Italic" checksum="(null)">
@@ -3998,12 +4034,6 @@
   </resource>
 
   <resource identifier="Source Code Variable Ultra-Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Source Code Variable Ultra-Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Source Code Variable Ultra-Light Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Source Code Variable Ultra-Light Italic" checksum="(null)">

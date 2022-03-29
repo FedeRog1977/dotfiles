@@ -1,0 +1,7 @@
+2022/02/23-19:35:37.331 632a Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.diagrams.net_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/23-19:35:37.331 632a Recovering log #3
+2022/02/23-19:35:37.332 632a Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.diagrams.net_0.indexeddb.leveldb/000003.log 
+2022/02/23-20:55:13.966 650a Level-0 table #5: started
+2022/02/23-20:55:13.978 650a Level-0 table #5: 2203 bytes OK
+2022/02/23-20:55:13.989 650a Delete type=0 #3
+2022/02/23-20:55:13.989 650a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

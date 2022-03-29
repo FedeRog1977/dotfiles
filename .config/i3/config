@@ -47,6 +47,7 @@ bindsym $mod+Shift+d           	exec --no-startup-id i3-dmenu-desktop --dmenu='d
 bindsym $mod+e 			exec --no-startup-id code-insiders -n
 bindsym $mod+Shift+e		exec $term -e code-insiders
 bindsym $mod+f			fullscreen toggle
+bindsym $mod+y			exec --no-startup-id spotify
 # Floating tile:
 bindsym $mod+Shift+f 	       	floating toggle, resize set 1930 1200, sticky disable, move position 320 200
 # Sticky version:

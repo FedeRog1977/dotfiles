@@ -1,0 +1,6 @@
+2022/03/15-09:16:02.975 f9a Creating DB /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.blackdiamondequipment.com_0.indexeddb.leveldb since it was missing.
+2022/03/15-09:16:03.002 f9a Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.blackdiamondequipment.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/15-09:17:27.866 f19 Level-0 table #5: started
+2022/03/15-09:17:27.879 f19 Level-0 table #5: 62811 bytes OK
+2022/03/15-09:17:27.891 f19 Delete type=0 #3
+2022/03/15-09:17:27.891 f19 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

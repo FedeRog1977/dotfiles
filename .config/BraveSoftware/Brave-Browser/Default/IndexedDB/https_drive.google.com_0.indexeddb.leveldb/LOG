@@ -1,0 +1,22 @@
+2022/03/29-14:57:57.596 303e Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/29-14:57:57.596 303e Recovering log #80
+2022/03/29-14:57:57.603 303e Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000080.log 
+2022/03/29-14:58:26.886 3040 Level-0 table #84: started
+2022/03/29-14:58:26.918 3040 Level-0 table #84: 3691303 bytes OK
+2022/03/29-14:58:26.931 3040 Delete type=0 #80
+2022/03/29-14:58:26.932 3040 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x03\x03\x01'\x001\x002\x003\x00f\x00d\x009\x003\x007\x009\x008\x00d\x00f\x00e\x001\x00c\x000\x005\x00e\x002\x005\x008\x007\x00c\x008\x002\x003\x00a\x00f\x00c\x00e\x00b\x00e\x00_\x003\x00_\x002\x00:\x000\x000' @ 50214 : 0
+2022/03/29-14:58:26.932 3040 Compacting 1@0 + 1@1 files
+2022/03/29-14:58:26.944 3040 Generated table #85@0: 557 keys, 132841 bytes
+2022/03/29-14:58:26.944 3040 Compacted 1@0 + 1@1 files => 132841 bytes
+2022/03/29-14:58:26.956 3040 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/29-14:58:26.956 3040 Delete type=2 #84
+2022/03/29-14:58:26.956 3040 Delete type=2 #81
+2022/03/29-14:58:26.957 3040 Manual compaction at level-0 from '\x00\x01\x03\x03\x01'\x001\x002\x003\x00f\x00d\x009\x003\x007\x009\x008\x00d\x00f\x00e\x001\x00c\x000\x005\x00e\x002\x005\x008\x007\x00c\x008\x002\x003\x00a\x00f\x00c\x00e\x00b\x00e\x00_\x003\x00_\x002\x00:\x000\x000' @ 50214 : 0 .. (end); will stop at (end)
+2022/03/29-14:58:26.957 3040 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x03\x01'\x001\x002\x003\x00f\x00d\x009\x003\x007\x009\x008\x00d\x00f\x00e\x001\x00c\x000\x005\x00e\x002\x005\x008\x007\x00c\x008\x002\x003\x00a\x00f\x00c\x00e\x00b\x00e\x00_\x003\x00_\x002\x00:\x000\x000' @ 52148 : 1
+2022/03/29-14:58:26.957 3040 Compacting 1@1 + 1@2 files
+2022/03/29-14:58:26.969 3040 Generated table #86@1: 75 keys, 128502 bytes
+2022/03/29-14:58:26.969 3040 Compacted 1@1 + 1@2 files => 128502 bytes
+2022/03/29-14:58:26.981 3040 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/03/29-14:58:26.981 3040 Delete type=2 #78
+2022/03/29-14:58:26.981 3040 Delete type=2 #85
+2022/03/29-14:58:26.981 3040 Manual compaction at level-1 from '\x00\x01\x03\x03\x01'\x001\x002\x003\x00f\x00d\x009\x003\x007\x009\x008\x00d\x00f\x00e\x001\x00c\x000\x005\x00e\x002\x005\x008\x007\x00c\x008\x002\x003\x00a\x00f\x00c\x00e\x00b\x00e\x00_\x003\x00_\x002\x00:\x000\x000' @ 52148 : 1 .. (end); will stop at (end)

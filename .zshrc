@@ -23,6 +23,11 @@ alias dispset3='xrandr --output eDP-1 --brightness 0.6 --gamma 0.75:0.75:0.75'
 
 alias stocks='ticker --config ~/snap/ticker/ticker.yaml'
 
+## Command Line Shortcuts
+
+alias ls='lsd'
+alias tree='lsd --tree'
+
 ## Application Shortcuts
 
 alias weather='lynx https://www.mwis.org.uk/forecasts/scottish/west-highlands/text'

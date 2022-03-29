@@ -1,0 +1,6 @@
+2022/02/22-14:29:13.404 2738 Creating DB /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb since it was missing.
+2022/02/22-14:29:13.428 2738 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/22-14:30:05.167 2736 Level-0 table #5: started
+2022/02/22-14:30:05.175 2736 Level-0 table #5: 11956 bytes OK
+2022/02/22-14:30:05.186 2736 Delete type=0 #3
+2022/02/22-14:30:05.186 2736 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

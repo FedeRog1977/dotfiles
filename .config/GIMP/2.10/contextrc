@@ -2,7 +2,7 @@
 
 (tool "gimp-operation-tool")
 (paint-info "gimp-paintbrush")
-(brush "2. Hardness 050")
+(brush "1. Pixel")
 (dynamics "Dynamics Off")
 (mybrush "100% Opaque")
 (pattern "Pine")

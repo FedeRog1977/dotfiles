@@ -1,0 +1,7 @@
+2022/02/23-09:26:21.360 d7d Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/23-09:26:21.360 d7d Recovering log #3
+2022/02/23-09:26:21.360 d7d Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/000003.log 
+2022/02/23-09:29:33.460 1017 Level-0 table #5: started
+2022/02/23-09:29:33.469 1017 Level-0 table #5: 9333 bytes OK
+2022/02/23-09:29:33.481 1017 Delete type=0 #3
+2022/02/23-09:29:33.481 1017 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

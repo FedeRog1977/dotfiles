@@ -1,0 +1,7 @@
+2022/02/24-13:45:01.789 14e4 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/24-13:45:01.789 14e4 Recovering log #3
+2022/02/24-13:45:01.789 14e4 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000003.log 
+2022/02/24-13:46:10.292 1735 Level-0 table #5: started
+2022/02/24-13:46:10.300 1735 Level-0 table #5: 2284 bytes OK
+2022/02/24-13:46:10.312 1735 Delete type=0 #3
+2022/02/24-13:46:10.312 1735 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

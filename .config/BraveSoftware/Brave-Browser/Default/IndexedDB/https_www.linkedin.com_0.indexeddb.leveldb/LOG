@@ -1,0 +1,15 @@
+2022/03/28-21:14:03.258 4602 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/28-21:14:03.260 4602 Recovering log #23
+2022/03/28-21:14:03.261 4602 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/000023.log 
+2022/03/28-21:19:12.600 4602 Level-0 table #28: started
+2022/03/28-21:19:12.608 4602 Level-0 table #28: 226 bytes OK
+2022/03/28-21:19:12.623 4602 Delete type=0 #23
+2022/03/28-21:19:12.623 4602 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/03/28-21:19:12.623 4602 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 57 : 1
+2022/03/28-21:19:12.623 4602 Compacting 1@1 + 1@2 files
+2022/03/28-21:19:12.632 4602 Generated table #29@1: 19 keys, 506 bytes
+2022/03/28-21:19:12.632 4602 Compacted 1@1 + 1@2 files => 506 bytes
+2022/03/28-21:19:12.643 4602 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/03/28-21:19:12.643 4602 Delete type=2 #28
+2022/03/28-21:19:12.643 4602 Delete type=2 #25
+2022/03/28-21:19:12.644 4602 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 57 : 1 .. (end); will stop at (end)
