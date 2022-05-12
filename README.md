@@ -197,6 +197,8 @@ author:
 	- ffmpeg record syntax (2): <ffmpeg -f x11grab -s 2560x1600 -i :0.0 -f pulse -ac 2 -i default 'filename'.mkv>
 	- Play using mpv: <mpv 'filename'.mkv>
 	- Play using VLC: <vlc 'filename'.mkv>
+* Search file
+	- ls | grep <word_in_file>
 
 # GitHub CLI
 
@@ -207,6 +209,7 @@ author:
 * Basic commands
 	- [1.1] List repos: <gh repo list>
 	- [1.2] Create repo: <gh repo create [name]> (then clone it to local files)
+		- Clone to current dir (private): <gh repo create [name] -c --private>
 		- Or: <git init> when in new repo
 	- [1.3] Clone: <git clone 'url' [to] 'dir'> or <gh repo clone 'repo'>
 	- [2.1] Edited file status: <git status> (while in a repo)

@@ -41,9 +41,9 @@ alias repos='cd ~/Documents/Repos'
 	alias bashrc='cd ~/Documents/Repos/BrittonsBashRC'
 		alias blog='cd ~/Documents/Repos/BrittonsBashRC/Blog'
 		alias coursework='cd ~/Documents/Repos/BrittonsBashRC/Coursework'
+	alias proj='cd ~/Documents/Repos/Burning'
 	alias vtc='cd ~/Documents/Repos/vtctruffles'
 alias uni='cd ~/Documents/University'
-	alias project='cd ~/Documents/University/Project'
 
 ## Document Shortcuts
 

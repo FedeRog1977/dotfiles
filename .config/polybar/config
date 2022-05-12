@@ -40,11 +40,13 @@ padding-right = 0
 module-margin-left = 1
 module-margin-right = 1
 
-font-0 = fixed:pixelsize=14;2
-font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
-font-2 = siji:pixelsize=10;1
+font-0 = Garamond:pixelsize=14;2
+font-1 = Nerd Font:pixelsize=10;1
+;font-0 = fixed:pixelsize=14;2
+;font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
+;font-2 = siji:pixelsize=10;1
 
-modules-left = bspwm i3
+modules-left = bspwm i3 xwindow
 modules-center = mpd
 modules-right = pulseaudio xkeyboard memory cpu temperature battery date powermenu
 ;modules-right = filesystem xbacklight alsa pulseaudio xkeyboard memory cpu wlan eth battery temperature date powermenu
@@ -296,17 +298,17 @@ battery = BAT0
 adapter = ADP1
 full-at = 95
 
-format-charging-prefix = "Battery Charging: "
-format-charging-prefix-foreground = ${colors.foreground-alt}
 format-charging = <animation-charging> <label-charging>
+format-charging-prefix = "Charging: "
+format-charging-prefix-foreground = ${colors.foreground-alt}
 ;format-charging-underline = #ffb52a
 
-format-discharging-prefix = "Battery Discharging: "
-format-discharging-prefix-foreground = ${colors.foreground-alt}
 format-discharging = <animation-discharging> <label-discharging>
+format-discharging-prefix = "Discharging: "
+format-discharging-prefix-foreground = ${colors.foreground-alt}
 ;format-discharging-underline = ${self.format-charging-underline}
 
-format-full-prefix = "Battery Full "
+format-full-prefix = "Full "
 format-full-prefix-foreground = ${colors.foreground-alt}
 ;format-full-underline = ${self.format-charging-underline}
 
