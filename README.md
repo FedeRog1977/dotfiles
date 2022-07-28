@@ -197,8 +197,10 @@ author:
 	- ffmpeg record syntax (2): <ffmpeg -f x11grab -s 2560x1600 -i :0.0 -f pulse -ac 2 -i default 'filename'.mkv>
 	- Play using mpv: <mpv 'filename'.mkv>
 	- Play using VLC: <vlc 'filename'.mkv>
-* Search file
-	- ls | grep <word_in_file>
+* Search file using grep
+	- Example: <ls | grep word_in_file>
+	- Example ("find, filter, shuffle, with sxiv"): <find ./ | grep -i federer | shuff | sxiv -ia>
+
 
 # GitHub CLI
 
@@ -222,6 +224,12 @@ author:
 * Remove cached large file: 
 	- <git filter-branch --tree-filter 'rm -f MVCC.zip' HEAD>
 	- <git rebase origin/master>
+
+## Node.js (Yuck)
+
+* Install: <sudo pacman -Syu nodejs npm>
+* Install file validator: <npm install amphtml-validator>
+* Validate file integrity: <node 'filename'.'filetype'>
 
 ## Git LFS
 
