@@ -231,6 +231,15 @@ author:
 * Install file validator: <npm install amphtml-validator>
 * Validate file integrity: <node 'filename'.'filetype'>
 
+## Elastic Stack: Elasticsearch
+
+* Unload: <tar -xp -f ...>
+* Navigate into respective locations
+* bin/elasticsearch
+* bin/kibana
+* Username: elastic
+* Change password: <bin/elasticsearch-reset-password -u elastic>
+
 ## Git LFS
 
 * Download from: https://git-lfs.github.com/
