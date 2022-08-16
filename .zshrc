@@ -21,7 +21,7 @@ alias disp3='xrandr --output eDP-1 --brightness 0.9 --gamma 0.75:0.75:0.75'
 
 ## Command Line Programs
 
-alias stocks='ticker --config ~/snap/ticker/ticker.yaml'
+alias stocks='ticker --config ~/Downloads/snap/ticker/ticker.yaml'
 
 ## Command Line Shortcuts
 
