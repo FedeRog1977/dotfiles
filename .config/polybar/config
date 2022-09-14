@@ -69,6 +69,12 @@ cursor-scroll = ns-resize
 type = internal/distro
 label = ""
 
+[module/resolution]
+type = custom/script
+exec = xdpyinfo | awk '/dimensions/{print $2}'
+format =  <label>px
+interval = 6000
+
 [module/xwindow]
 type = internal/xwindow
 label = %title:0:90:...%
