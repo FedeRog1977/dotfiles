@@ -10,6 +10,23 @@ export PS1="%{$fg[cyan]%}[%* %D] %{$fg[green]%}%n %{$fg[cyan]%}%~ %{$fg[green]%}
 bindkey -v
 export KEYTIMEOUT=1
 
+# Change Cursor According to Vi
+
+function zle-keymap-select() {
+    case $KEYMAP in
+	vicmd) echo -ne '\e[1 q';;
+	viins|main) echo -ne '\e[5 q';;
+    esac
+}
+zle -N zle-keymap-select
+zle-line-init() {
+    zle -K viins
+    echo -ne '\e[5 q'
+}
+zle -N zle-line-init
+echo -ne '\e[5 q'
+preexec() { echo -ne '\e[5 q' ;}
+
 # Alias
 
 ## Command Shortcuts
