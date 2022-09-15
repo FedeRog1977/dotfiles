@@ -45,7 +45,7 @@ font-1 = Hack Nerd Font Mono:pixelsize=16;2
 
 modules-left = distro bspwm i3 xwindow
 modules-center = mpd
-modules-right = pulseaudio memory cpu temperature battery date powermenu
+modules-right = spotify pulseaudio memory cpu temperature battery date powermenu
 
 tray-position = right
 tray-padding = 2
@@ -278,7 +278,7 @@ label-volume-foreground = ${root.foreground}
 label-muted = "婢"
 label-muted-foreground = #666
 
-bar-volume-width = 10
+bar-volume-width = 15
 bar-volume-foreground-0 = #55aa55
 bar-volume-foreground-1 = #55aa55
 bar-volume-foreground-2 = #55aa55
@@ -287,7 +287,7 @@ bar-volume-foreground-4 = #55aa55
 bar-volume-foreground-5 = #f5a70a
 bar-volume-foreground-6 = #ff5555
 bar-volume-gradient = false
-bar-volume-indicator = |
+bar-volume-indicator = " 蓼 "
 bar-volume-indicator-font = 2
 bar-volume-fill = ─
 bar-volume-fill-font = 2
@@ -309,7 +309,7 @@ format-discharging = <animation-discharging> <label-discharging>
 format-discharging-prefix-foreground = ${colors.foreground-alt}
 ;format-discharging-underline = ${self.format-charging-underline}
 
-format-full-prefix = ""
+format-full-prefix = " "
 format-full-prefix-foreground = ${colors.foreground-alt}
 ;format-full-underline = ${self.format-charging-underline}
 
@@ -409,9 +409,9 @@ margin-bottom = 5
 [module/spotify]
 type = custom/script
 tail = true
-format-prefix = ♫
+format-prefix = 阮
 format = <label>
-exec = python3 ~/.config/polybar/scroll_spotify_status.sh
+exec = python3 ~/.config/polybar/scroll_spotify_status.sh -f '{artist}: {song}'
 
 [module/spotify-prev]
 type = custom/script

@@ -1,8 +1,7 @@
 colors:
   primary:
     background: "#181818"
-    foreground: "#FFFFFF"
-    #foreground: "#FFFFAA"
+    foreground: "#F0EAD6"
     #foreground: "#CCCC99"
 
   normal:
@@ -31,7 +30,7 @@ font:
     family: Hack Nerd Font Mono
     style: Regular
 
-  size: 7.5
+  size: 7
 
   offset:
     x: 0
