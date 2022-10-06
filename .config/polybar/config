@@ -45,7 +45,7 @@ font-1 = Hack Nerd Font Mono:pixelsize=16;2
 
 modules-left = distro bspwm i3 xwindow
 modules-center = mpd
-modules-right = spotify pulseaudio memory cpu temperature battery date powermenu
+modules-right = pulseaudio memory cpu temperature battery date powermenu
 
 tray-position = right
 tray-padding = 2
