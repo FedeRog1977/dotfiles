@@ -5,27 +5,43 @@ author:
 - Lewis Britton
 ---
 
-# Linux (Manjaro-Specific) Setup
+# Linux Setup
 
-* Flash Download of Manjaro to External Drive
-* Install Manjaro from External Drive (F12 Upon TP Boot)
-* Install, Update \& Repair
+Note that this setup is Manjaro-specific.
+
+## Installing Manjaro
+
+* Flash download of Manjaro to external drive
+* Install Manjaro from external drive
+	- Most commonly F12 upon boot
+	- My experience: various ThinkPads, MacBook Pro
+* Run guided setup steps
+
+## Setup Workspace
+
+* In default terminal run an install, update and repair:
 	- <sudo pacman -Syu>
-* Install i3-Gaps from Default Terminal 
-	- For Config: *~/.config/i3/config*
-	- <sudo pacman -S i3-gaps>
-	- <sudo pacman -S i3-wm> for basic normie i3
-* Reboot \& Change Kernel
-* Install i3 Status (For Preliminary Reference)
+* In default terminal, install i3-Gaps (my preference):
+	- i3 Gaps: <sudo pacman -S i3-gaps>
+	- i3 Basic: <sudo pacman -S i3-wm>
+	- For config: <nvim ~/.config/i3/config>
+* Reboot and change kernel to i3 Gaps
+* Install i3 status bar for preliminary reference:
 	- <sudo pacman -S i3status>
-* Download Alacritty Terminal Emulator
-	- For Config: *~/.config/alacritty/alacritty.yml*
+* Download Alacritty terminal emulator (my preference)
 	- <sudo pacman -S alacritty>
-* Change Shell to zsh
+	- For config: <nvim ~/.config/alacritty/alacritty.yml>
+* Change default shell to zsh
 	- <chsh -s /bin/zsh>
-* Configure .zshrc \& Enable Syntax
-	- <git clone https://github.com/zsh-users/zsh-syntax-highlighting.git>
-	- <mv zsh-syntax-highlighting .cache>
+	- For config: <nvim ~/.zshrc>
+* Configure .zshrc enable syntax
+	- Clone: <git clone https://github.com/zsh-users/zsh-syntax-highlighting.git>
+	- Move to .cache: <mv zsh-syntax-highlighting .cache>
+
+## Replace i3status With Polybar
+
+...
+
 * Install Polybar
 	- For Config: *~/.config/polyabr/config*
 	- For Launch Script *.config/polybar/launch.sh*
