@@ -1,7 +1,7 @@
 ---
-Title:
+title:
 - Introduction To Linux
-Author:
+author:
 - Lewis Britton
 ---
 
@@ -26,22 +26,22 @@ Note that this setup is Manjaro-specific.
 
 ## 1.2. Setup Workspace
 
-* In default terminal run an install, update and repair:
+1. In default terminal run an install, update and repair:
 	- `sudo pacman -Syu`
-* In default terminal, install i3-Gaps (my preference):
+2. In default terminal, install i3-Gaps (my preference):
 	- i3 Gaps: `sudo pacman -S i3-gaps`
 	- i3 Basic: `sudo pacman -S i3-wm`
 	- For config: `nvim ~/.config/i3/config`
-* Reboot and change kernel to i3 Gaps
-* Install i3 status bar for preliminary reference:
+3. Reboot and change kernel to i3 Gaps
+4. Install i3 status bar for preliminary reference:
 	- `sudo pacman -S i3status`
-* Download Alacritty terminal emulator (my preference)
+5. Download Alacritty terminal emulator (my preference)
 	- `sudo pacman -S alacritty`
 	- For config: `nvim ~/.config/alacritty/alacritty.yml`
-* Change default shell to zsh
+6. Change default shell to zsh
 	- `chsh -s /bin/zsh`
 	- For config: `nvim ~/.zshrc`
-* Configure .zshrc enable syntax
+7. Configure .zshrc enable syntax
 	- Clone: `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git`
 	- Move to .cache: `mv zsh-syntax-highlighting .cache`
 
