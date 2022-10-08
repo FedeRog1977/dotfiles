@@ -7,7 +7,7 @@ author:
 
 # Table of Contents
 
-* [Linux Setup](#1-)
+- [Linux Setup](#1)
 
 # 1 Linux Setup
 
