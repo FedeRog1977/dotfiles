@@ -10,6 +10,8 @@ Author:
 1. [Linux Setup](#1)
 	- [Installing Manjaro](#11)
 
+---
+
 # 1. Linux Setup
 
 Note that this setup is Manjaro-specific.
