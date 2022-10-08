@@ -47,23 +47,28 @@ Note that this setup is Manjaro-specific. Also, I use neoVim as my editor so whe
 
 ## 1.3. Replace i3status With Polybar
 
-* Install: `sudo pacman -S polybar`
+* Install:
+	- `sudo pacman -Syu polybar`
+	- `mkdir .config/polybar`
+	- Create config in `.config`: `sudo cp /usr/share/doc/polybar/config ~/.config/polybar`
+* Change Ownership: `sudo chown lewisb:lewisb .config/polybar/config`
 * For config: `nvim ~/.config/polyabr/config`
-	- For Launch Script *.config/polybar/launch.sh*
-	- <sudo pacman -Syu polybar>
-	- <mkdir .config/polybar>
-	- <sudo cp /usr/share/doc/polybar/config ~/.config/polybar>
-	- Change Ownership: <sudo chown lewisb:lewisb .config/polybar/config>
-	- Copy Launch Script: https://github.com/polybar/polybar/wiki
-	- Make Launch: <nvim .config/polybar/launch.sh>
-		- '#!/bin/env zsh' for the script just to run on zsh
-		- '#!/bin/sh' for the script to sun on any shell
-	- Paste \& edit Launch Script
+* For launch script `.config/polybar/launch.sh`
+
+...
+* Launch script:
+	- [Starting point](https://github.com/polybar/polybar/wiki)
+	- Create launch: `nvim .config/polybar/launch.sh`
+	- Allow script to run on zsh: `#!/bin/env zsh` in script
+	- Allow script to run on any shell: `#!/bin/sh` in script
 	- Change Script Permission to Make Executable: sudo chmod +x .config/polybar/launch.sh
 	- Link in i3 Config (Available Also at Wiki): exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 	- '#' Original i3 Status Bar in i3 Config So Not Read 
 	- Install symbol font:
 		- https://zavoloklom.github.io/material-design-iconic-font/cheatsheet.html
+
+...
+
 * Install feh for Setting Background in i3 Config
 	- <sudo pacman -S feh>
 * Set Background in i3 Config
