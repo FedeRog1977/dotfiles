@@ -7,8 +7,8 @@ author:
 
 # Table of Contents
 
-1. [Linux Setup](#1)
-	1.1. [Installing Manjaro](#11)
+1. [Linux Setup](#1-linux)
+	- [Installing Manjaro](#11)
 
 # 1 Linux Setup
 
