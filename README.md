@@ -14,7 +14,7 @@ author:
 
 # 1. Linux Setup
 
-Note that this setup is Manjaro-specific.
+Note that this setup is Manjaro-specific. Also, I use neoVim as my editor so when you see `nvim` preceding an operation, it's simply an open-with text editor command, like `vim` or `nano` (haha).
 
 ## 1.1. Installing Manjaro
 
@@ -26,31 +26,29 @@ Note that this setup is Manjaro-specific.
 
 ## 1.2. Setup Workspace
 
-1. In default terminal run an install, update and repair:
+* In default terminal run an install, update and repair:
 	- `sudo pacman -Syu`
-2. In default terminal, install i3-Gaps (my preference):
+* In default terminal, install i3-Gaps (my preference):
 	- i3 Gaps: `sudo pacman -S i3-gaps`
 	- i3 Basic: `sudo pacman -S i3-wm`
 	- For config: `nvim ~/.config/i3/config`
-3. Reboot and change kernel to i3 Gaps
-4. Install i3 status bar for preliminary reference:
+* Reboot and change kernel to i3 Gaps
+* Install i3 status bar for preliminary reference:
 	- `sudo pacman -S i3status`
-5. Download Alacritty terminal emulator (my preference)
+* Download Alacritty terminal emulator (my preference)
 	- `sudo pacman -S alacritty`
 	- For config: `nvim ~/.config/alacritty/alacritty.yml`
-6. Change default shell to zsh
+* Change default shell to zsh
 	- `chsh -s /bin/zsh`
 	- For config: `nvim ~/.zshrc`
-7. Configure .zshrc enable syntax
+* Configure .zshrc enable syntax
 	- Clone: `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git`
 	- Move to .cache: `mv zsh-syntax-highlighting .cache`
 
 ## 1.3. Replace i3status With Polybar
 
-...
-
-* Install Polybar
-	- For Config: *~/.config/polyabr/config*
+* Install: `sudo pacman -S polybar`
+* For config: `nvim ~/.config/polyabr/config`
 	- For Launch Script *.config/polybar/launch.sh*
 	- <sudo pacman -Syu polybar>
 	- <mkdir .config/polybar>
