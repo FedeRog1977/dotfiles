@@ -5,11 +5,15 @@ author:
 - Lewis Britton
 ---
 
-# Linux Setup
+# Table of Contents
+
+* [Linux Setup](#1-)
+
+# 1 Linux Setup
 
 Note that this setup is Manjaro-specific.
 
-## Installing Manjaro
+## 1.1 Installing Manjaro
 
 * Flash download of Manjaro to external drive
 * Install Manjaro from external drive
@@ -17,7 +21,7 @@ Note that this setup is Manjaro-specific.
 	- My experience: various ThinkPads, MacBook Pro
 * Run guided setup steps
 
-## Setup Workspace
+## 1.2 Setup Workspace
 
 * In default terminal run an install, update and repair:
 	- `sudo pacman -Syu`
@@ -38,7 +42,7 @@ Note that this setup is Manjaro-specific.
 	- Clone: `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git`
 	- Move to .cache: `mv zsh-syntax-highlighting .cache`
 
-## Replace i3status With Polybar
+## 1.3 Replace i3status With Polybar
 
 ...
 
