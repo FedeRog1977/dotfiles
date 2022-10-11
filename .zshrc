@@ -37,10 +37,13 @@ preexec() {
 
 ## Command Shortcuts
 
-alias dispq="xrandr -q | grep ' connected' | head -n 1 | cut -d ' ' -f1"
-alias disp='xrandr --output eDP-1 --brightness 1 --gamma 1:1:1'
-alias disp2='xrandr --output eDP-1 --brightness 0.9 --gamma 0.9:0.9:0.9'
-alias disp3='xrandr --output eDP-1 --brightness 0.9 --gamma 0.75:0.75:0.75'
+alias curr-disp="xrandr -q | grep ' connected' | head -n 1 | cut -d ' ' -f1"
+alias bright1-edp1='xrandr --output eDP-1 --brightness 1 --gamma 1:1:1'
+alias bright2-edp1='xrandr --output eDP-1 --brightness 0.9 --gamma 0.9:0.9:0.9'
+alias bright3-edp1='xrandr --output eDP-1 --brightness 0.9 --gamma 0.75:0.75:0.75'
+alias set-edp1='xrandr --output eDP-1 --mode "2560x1600" --rate 59.97'
+alias set-hdmi1='xrandr --output HDMI-1 --left-of eDP-1 --mode "3840x2160" --rate 30.00'
+alias set-hdmi2='xrandr --output HDMI-2 --left-of eDP-1 --mode "3840x2160" --rate 30.00'
 
 ## Command Line Programs
 
