@@ -1,15 +1,15 @@
-2022/03/28-21:39:15.803 4843 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/03/28-21:39:15.804 4843 Recovering log #19
-2022/03/28-21:39:15.804 4843 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/000019.log 
-2022/03/28-21:40:43.805 4843 Level-0 table #24: started
-2022/03/28-21:40:43.815 4843 Level-0 table #24: 1247 bytes OK
-2022/03/28-21:40:43.829 4843 Delete type=0 #19
-2022/03/28-21:40:43.829 4843 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2022/03/28-21:40:43.829 4843 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x18\x001\x001\x001\x004\x003\x00_\x001\x009\x006\x002\x00_\x001\x006\x004\x008\x004\x009\x009\x009\x005\x004\x002\x002\x004' @ 601 : 1
-2022/03/28-21:40:43.829 4843 Compacting 1@1 + 1@2 files
-2022/03/28-21:40:43.839 4843 Generated table #25@1: 125 keys, 8455 bytes
-2022/03/28-21:40:43.839 4843 Compacted 1@1 + 1@2 files => 8455 bytes
-2022/03/28-21:40:43.849 4843 compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/03/28-21:40:43.849 4843 Delete type=2 #21
-2022/03/28-21:40:43.849 4843 Delete type=2 #24
-2022/03/28-21:40:43.850 4843 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x18\x001\x001\x001\x004\x003\x00_\x001\x009\x006\x002\x00_\x001\x006\x004\x008\x004\x009\x009\x009\x005\x004\x002\x002\x004' @ 601 : 1 .. (end); will stop at (end)
+2022/08/06-13:32:33.863 30f9 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/06-13:32:33.863 30f9 Recovering log #59
+2022/08/06-13:32:33.863 30f9 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/000059.log 
+2022/08/06-13:32:41.394 3172 Level-0 table #64: started
+2022/08/06-13:32:41.403 3172 Level-0 table #64: 1638 bytes OK
+2022/08/06-13:32:41.414 3172 Delete type=0 #59
+2022/08/06-13:32:41.414 3172 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/08/06-13:32:41.414 3172 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x03\x00\x00\x00\x00\x00\x00H@' @ 2110 : 1
+2022/08/06-13:32:41.414 3172 Compacting 1@1 + 1@2 files
+2022/08/06-13:32:41.426 3172 Generated table #65@1: 354 keys, 24948 bytes
+2022/08/06-13:32:41.426 3172 Compacted 1@1 + 1@2 files => 24948 bytes
+2022/08/06-13:32:41.438 3172 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/06-13:32:41.438 3172 Delete type=2 #61
+2022/08/06-13:32:41.438 3172 Delete type=2 #64
+2022/08/06-13:32:41.439 3172 Manual compaction at level-1 from '\x00\x01\x03\x02\x03\x00\x00\x00\x00\x00\x00H@' @ 2110 : 1 .. (end); will stop at (end)

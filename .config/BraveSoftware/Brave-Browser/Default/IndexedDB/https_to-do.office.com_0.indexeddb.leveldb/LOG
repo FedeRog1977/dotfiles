@@ -1,20 +1,36 @@
-2022/03/14-10:40:28.936 106e Creating DB /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_to-do.office.com_0.indexeddb.leveldb since it was missing.
-2022/03/14-10:40:28.961 106e Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_to-do.office.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/03/14-10:40:28.990 106d Level-0 table #5: started
-2022/03/14-10:40:28.998 106d Level-0 table #5: 525 bytes OK
-2022/03/14-10:40:29.009 106d Delete type=0 #3
-2022/03/14-10:40:29.009 106d Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
-2022/03/14-10:40:29.026 106d Level-0 table #7: started
-2022/03/14-10:40:29.034 106d Level-0 table #7: 508 bytes OK
-2022/03/14-10:40:29.057 106d Delete type=0 #4
-2022/03/14-10:40:29.058 106d Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
-2022/03/14-10:40:29.058 106d Level-0 table #9: started
-2022/03/14-10:40:29.065 106d Level-0 table #9: 510 bytes OK
-2022/03/14-10:40:29.090 106d Delete type=0 #6
-2022/03/14-10:40:29.091 106d Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 41 : 1
-2022/03/14-10:40:29.091 106d Compacting 1@0 + 1@1 files
-2022/03/14-10:40:29.100 106d Generated table #10@0: 13 keys, 480 bytes
-2022/03/14-10:40:29.100 106d Compacted 1@0 + 1@1 files => 480 bytes
-2022/03/14-10:40:29.111 106d compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/03/14-10:40:29.111 106d Delete type=2 #9
-2022/03/14-10:40:29.111 106d Manual compaction at level-0 from '\x00\x03\x00\x00\x05' @ 41 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/05-12:04:46.966 1689 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_to-do.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/05-12:04:46.966 1689 Recovering log #8
+2022/04/05-12:04:46.967 1689 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_to-do.office.com_0.indexeddb.leveldb/000008.log 
+2022/04/05-12:04:46.967 1689 Delete type=2 #7
+2022/04/05-12:04:46.995 1689 Level-0 table #13: started
+2022/04/05-12:04:47.004 1689 Level-0 table #13: 16717 bytes OK
+2022/04/05-12:04:47.015 1689 Delete type=0 #8
+2022/04/05-12:04:47.016 1689 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 707 : 1
+2022/04/05-12:04:47.016 1689 Compacting 1@0 + 1@1 files
+2022/04/05-12:04:47.034 1689 Generated table #14@0: 370 keys, 6711 bytes
+2022/04/05-12:04:47.034 1689 Compacted 1@0 + 1@1 files => 6711 bytes
+2022/04/05-12:04:47.058 1689 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/05-12:04:47.059 1689 Delete type=2 #13
+2022/04/05-12:04:47.059 168a Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 707 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/05-12:04:47.060 168a Level-0 table #16: started
+2022/04/05-12:04:47.067 168a Level-0 table #16: 548 bytes OK
+2022/04/05-12:04:47.081 168a Delete type=2 #10
+2022/04/05-12:04:47.081 168a Delete type=0 #12
+2022/04/05-12:04:47.081 168a Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 735 : 1
+2022/04/05-12:04:47.081 168a Compacting 1@0 + 1@1 files
+2022/04/05-12:04:47.094 168a Generated table #17@0: 372 keys, 6667 bytes
+2022/04/05-12:04:47.094 168a Compacted 1@0 + 1@1 files => 6667 bytes
+2022/04/05-12:04:47.104 168a compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/05-12:04:47.104 168a Delete type=2 #16
+2022/04/05-12:04:47.104 168a Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 735 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/05-12:04:47.105 1689 Level-0 table #19: started
+2022/04/05-12:04:47.114 1689 Level-0 table #19: 460 bytes OK
+2022/04/05-12:04:47.127 1689 Delete type=2 #14
+2022/04/05-12:04:47.127 1689 Delete type=0 #15
+2022/04/05-12:04:47.127 1689 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 755 : 0
+2022/04/05-12:04:47.127 1689 Compacting 1@0 + 1@1 files
+2022/04/05-12:04:47.136 1689 Generated table #20@0: 370 keys, 6707 bytes
+2022/04/05-12:04:47.136 1689 Compacted 1@0 + 1@1 files => 6707 bytes
+2022/04/05-12:04:47.148 1689 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/05-12:04:47.148 1689 Delete type=2 #19
+2022/04/05-12:04:47.148 1689 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 755 : 0 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

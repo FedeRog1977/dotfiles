@@ -1,5 +1,5 @@
 favorites=
-recent=brave_brave.desktop,xfce4-terminal-emulator.desktop,xfce-display-settings.desktop,qpdfview.desktop,xfce4-file-manager.desktop
+recent=xfce4-terminal-emulator.desktop,brave-browser.desktop,xfce4-terminal.desktop,brave_brave.desktop,blueman-manager.desktop,spotify_spotify.desktop,xfce-display-settings.desktop,qpdfview.desktop,xfce4-file-manager.desktop
 button-icon=/usr/share/icons/whiskermenu-manjaro.svg
 button-single-row=false
 show-button-title=false

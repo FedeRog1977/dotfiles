@@ -1,3 +1,14 @@
-2022/03/03-09:35:59.120 9f3 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/03/03-09:35:59.120 9f3 Recovering log #35
-2022/03/03-09:35:59.120 9f3 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/000035.log 
+2022/10/09-11:18:23.501 6d0 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/09-11:18:23.501 6d0 Recovering log #46
+2022/10/09-11:18:23.501 6d0 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/000046.log 
+2022/10/09-11:18:23.502 6d0 Delete type=2 #44
+2022/10/09-11:18:27.525 6d2 Level-0 table #51: started
+2022/10/09-11:18:27.534 6d2 Level-0 table #51: 10395 bytes OK
+2022/10/09-11:18:27.544 6d2 Delete type=0 #46
+2022/10/09-11:18:27.544 6d2 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 214 : 1
+2022/10/09-11:18:27.544 6d2 Compacting 1@0 + 1@1 files
+2022/10/09-11:18:27.555 6d2 Generated table #52@0: 48 keys, 6331 bytes
+2022/10/09-11:18:27.555 6d2 Compacted 1@0 + 1@1 files => 6331 bytes
+2022/10/09-11:18:27.565 6d2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/10/09-11:18:27.566 6d2 Delete type=2 #51
+2022/10/09-11:18:27.566 6d2 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 214 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

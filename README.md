@@ -41,6 +41,13 @@ Note that this setup is Manjaro-specific. Also, I use neoVim as my editor so whe
 * Change default shell to zsh
 	- `chsh -s /bin/zsh`
 	- For config: `nvim ~/.zshrc`
+	- Create folder in `.config`: `mkdir ~/.config/zsh`
+	- Set new path for `.zshrc`: `ln -s '~/desired-directory/.zshrc' '~/.zshrc'`;
+	- Therefore: `ln -s ~/.config/zsh/.zshrc ~/.zshrc`
+	- This method using `symlink` goes for creating a new path for anything which is usually accessed from the home directory
+* I repeated the above process for:
+	- `.bashrc` in `~/.config/bash`;
+	- `.vimrc` in `~/.config/vim`
 * Configure .zshrc enable syntax
 	- Clone: `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git`
 	- Move to .cache: `mv zsh-syntax-highlighting .cache`

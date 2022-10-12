@@ -1,30 +1,21 @@
-2022/03/29-09:14:11.452 5 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2022/03/29-09:14:11.463 5 Recovering log #4185
-2022/03/29-09:14:11.468 5 Level-0 table #4191: started
-2022/03/29-09:14:11.486 5 Level-0 table #4191: 146873 bytes OK
-2022/03/29-09:14:11.509 5 Delete type=0 #4185
-2022/03/29-09:37:35.922 13 Level-0 table #4194: started
-2022/03/29-09:37:35.934 13 Level-0 table #4194: 36202 bytes OK
-2022/03/29-09:37:35.946 13 Delete type=0 #4192
-2022/03/29-11:13:14.400 37 Level-0 table #4196: started
-2022/03/29-11:13:14.412 37 Level-0 table #4196: 26580 bytes OK
-2022/03/29-11:13:14.424 37 Delete type=0 #4193
-2022/03/29-13:44:22.426 4c Level-0 table #4198: started
-2022/03/29-13:44:22.452 4c Level-0 table #4198: 399194 bytes OK
-2022/03/29-13:44:22.465 4c Delete type=0 #4195
-2022/03/29-13:44:22.466 4c Compacting 4@0 + 3@1 files
-2022/03/29-13:44:22.514 4c Generated table #4199@0: 539 keys, 2109861 bytes
-2022/03/29-13:44:22.562 4c Generated table #4200@0: 411 keys, 2542138 bytes
-2022/03/29-13:44:22.607 4c Generated table #4201@0: 15263 keys, 2081391 bytes
-2022/03/29-13:44:22.607 4c Compacted 4@0 + 3@1 files => 6733390 bytes
-2022/03/29-13:44:22.618 4c compacted to: files[ 0 3 1 0 0 0 0 ]
-2022/03/29-13:44:22.619 4c Delete type=2 #4188
-2022/03/29-13:44:22.619 4c Delete type=2 #4187
-2022/03/29-13:44:22.619 4c Delete type=2 #4194
-2022/03/29-13:44:22.619 4c Delete type=2 #4189
-2022/03/29-13:44:22.619 4c Delete type=2 #4191
-2022/03/29-13:44:22.619 4c Delete type=2 #4198
-2022/03/29-13:44:22.619 4c Delete type=2 #4196
-2022/03/29-14:57:57.471 69 Level-0 table #4203: started
-2022/03/29-14:57:57.482 69 Level-0 table #4203: 14693 bytes OK
-2022/03/29-14:57:57.498 69 Delete type=0 #4197
+2022/10/12-21:25:09.789 3 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2022/10/12-21:25:09.803 3 Recovering log #8068
+2022/10/12-21:25:09.821 3 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/008068.log 
+2022/10/12-21:33:45.671 3 Level-0 table #8071: started
+2022/10/12-21:33:45.681 3 Level-0 table #8071: 18866 bytes OK
+2022/10/12-21:33:45.693 3 Delete type=0 #8068
+2022/10/12-21:33:45.694 3 Compacting 4@0 + 4@1 files
+2022/10/12-21:33:45.735 3 Generated table #8072@0: 756 keys, 2130852 bytes
+2022/10/12-21:33:45.777 3 Generated table #8073@0: 234 keys, 2206016 bytes
+2022/10/12-21:33:45.818 3 Generated table #8074@0: 4114 keys, 2138376 bytes
+2022/10/12-21:33:45.856 3 Generated table #8075@0: 19276 keys, 955973 bytes
+2022/10/12-21:33:45.856 3 Compacted 4@0 + 4@1 files => 7431217 bytes
+2022/10/12-21:33:45.867 3 compacted to: files[ 0 6 5 0 0 0 0 ]
+2022/10/12-21:33:45.868 3 Delete type=2 #8067
+2022/10/12-21:33:45.869 3 Delete type=2 #8057
+2022/10/12-21:33:45.869 3 Delete type=2 #8063
+2022/10/12-21:33:45.869 3 Delete type=2 #8071
+2022/10/12-21:33:45.869 3 Delete type=2 #8058
+2022/10/12-21:33:45.869 3 Delete type=2 #8059
+2022/10/12-21:33:45.869 3 Delete type=2 #8060
+2022/10/12-21:33:45.869 3 Delete type=2 #8065

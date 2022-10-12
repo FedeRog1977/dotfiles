@@ -1,3 +1,5 @@
-2022/03/29-16:04:46.426 3629 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/03/29-16:04:46.426 3629 Recovering log #370
-2022/03/29-16:04:46.441 3629 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000370.log 
+2022/10/12-21:25:11.255 5a7 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/12-21:25:11.256 5a7 Recovering log #1462
+2022/10/12-21:25:11.269 5a7 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/001462.log 
+2022/10/12-21:25:11.269 5a7 Delete type=2 #1460
+2022/10/12-21:25:11.269 5a7 Delete type=2 #1463

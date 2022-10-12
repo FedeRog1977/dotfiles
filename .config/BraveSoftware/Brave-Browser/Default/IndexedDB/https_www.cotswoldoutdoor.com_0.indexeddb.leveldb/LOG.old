@@ -1,2 +1,3 @@
-2022/02/07-09:11:35.387 905 Creating DB /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.cotswoldoutdoor.com_0.indexeddb.leveldb since it was missing.
-2022/02/07-09:11:35.411 905 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.cotswoldoutdoor.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/20-09:12:36.069 d39 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.cotswoldoutdoor.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/20-09:12:36.069 d39 Recovering log #4
+2022/07/20-09:12:36.070 d39 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.cotswoldoutdoor.com_0.indexeddb.leveldb/000004.log 

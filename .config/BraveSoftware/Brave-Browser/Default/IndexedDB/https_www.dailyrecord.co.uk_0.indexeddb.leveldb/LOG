@@ -1,3 +1,15 @@
-2022/02/26-12:21:12.148 7d6f Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dailyrecord.co.uk_0.indexeddb.leveldb/MANIFEST-000001
-2022/02/26-12:21:12.149 7d6f Recovering log #4
-2022/02/26-12:21:12.149 7d6f Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dailyrecord.co.uk_0.indexeddb.leveldb/000004.log 
+2022/04/15-10:54:04.146 20cd Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dailyrecord.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/15-10:54:04.146 20cd Recovering log #4
+2022/04/15-10:54:04.146 20cd Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dailyrecord.co.uk_0.indexeddb.leveldb/000004.log 
+2022/04/15-10:55:20.960 20cd Level-0 table #8: started
+2022/04/15-10:55:20.972 20cd Level-0 table #8: 1244 bytes OK
+2022/04/15-10:55:20.984 20cd Delete type=0 #4
+2022/04/15-10:55:20.984 20cd Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/04/15-10:55:20.985 20cd Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 105 : 1
+2022/04/15-10:55:20.985 20cd Compacting 1@1 + 1@2 files
+2022/04/15-10:55:20.993 20cd Generated table #9@1: 30 keys, 978 bytes
+2022/04/15-10:55:20.993 20cd Compacted 1@1 + 1@2 files => 978 bytes
+2022/04/15-10:55:21.005 20cd compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/15-10:55:21.005 20cd Delete type=2 #8
+2022/04/15-10:55:21.005 20cd Delete type=2 #5
+2022/04/15-10:55:21.006 20cd Manual compaction at level-1 from '\x00\x01\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 105 : 1 .. (end); will stop at (end)

@@ -1,6 +1,7 @@
 # GIMP gimp-text-tool options
 
 (palette "Colour History")
-(font "Sans-serif")
+(font "URW Bookman Light")
+(box-mode fixed)
 
 # end of gimp-text-tool options
