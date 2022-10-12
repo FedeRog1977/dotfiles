@@ -1,0 +1,6 @@
+2022/05/09-16:01:26.563 3377 Creating DB /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_embed.plnkr.co_0.indexeddb.leveldb since it was missing.
+2022/05/09-16:01:26.595 3377 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_embed.plnkr.co_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/09-16:14:05.242 3816 Level-0 table #5: started
+2022/05/09-16:14:05.250 3816 Level-0 table #5: 1253 bytes OK
+2022/05/09-16:14:05.261 3816 Delete type=0 #3
+2022/05/09-16:14:05.261 3816 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

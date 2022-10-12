@@ -228,6 +228,9 @@ Note that this setup is Manjaro-specific. Also, I use neoVim as my editor so whe
 
 # GitHub CLI
 
+
+* NOTE - set editor to nvim (without going to config): `git config --global core.editor "nvim"`
+
 * Install: <sudo pacman -Sy github-cli>
 * Authenticate / Login: <gh auth login>
 * Set user email: <git config --global user.email "'email-address'">

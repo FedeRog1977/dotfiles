@@ -1,0 +1,13 @@
+2022/06/30-12:35:04.719 1d90 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.parcelforce.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/30-12:35:04.720 1d90 Recovering log #18
+2022/06/30-12:35:04.720 1d90 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.parcelforce.com_0.indexeddb.leveldb/000018.log 
+2022/06/30-12:35:04.964 1d90 Level-0 table #22: started
+2022/06/30-12:35:04.973 1d90 Level-0 table #22: 1394 bytes OK
+2022/06/30-12:35:04.985 1d90 Delete type=0 #18
+2022/06/30-12:35:04.985 1d90 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x01\x03\x01\x03\x00k\x00e\x00y' @ 414 : 1
+2022/06/30-12:35:04.985 1d90 Compacting 1@0 + 1@1 files
+2022/06/30-12:35:04.993 1d90 Generated table #23@0: 5 keys, 248 bytes
+2022/06/30-12:35:04.993 1d90 Compacted 1@0 + 1@1 files => 248 bytes
+2022/06/30-12:35:05.003 1d90 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/30-12:35:05.004 1d90 Delete type=2 #22
+2022/06/30-12:35:05.004 1d90 Manual compaction at level-0 from '\x00\x05\x01\x03\x01\x03\x00k\x00e\x00y' @ 414 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

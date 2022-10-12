@@ -1,0 +1,6 @@
+2022/05/08-18:06:30.797 15c5 Creating DB /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.ordnancesurvey.co.uk_0.indexeddb.leveldb since it was missing.
+2022/05/08-18:06:30.821 15c5 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.ordnancesurvey.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/08-18:07:10.627 1729 Level-0 table #5: started
+2022/05/08-18:07:10.635 1729 Level-0 table #5: 1363 bytes OK
+2022/05/08-18:07:10.646 1729 Delete type=0 #3
+2022/05/08-18:07:10.646 1729 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

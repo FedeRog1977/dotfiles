@@ -1,0 +1,6 @@
+2022/06/23-14:24:01.511 1bb5 Creating DB /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.autolist.com_0.indexeddb.leveldb since it was missing.
+2022/06/23-14:24:01.538 1bb5 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.autolist.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/23-14:24:37.292 1bb5 Level-0 table #5: started
+2022/06/23-14:24:37.308 1bb5 Level-0 table #5: 8829 bytes OK
+2022/06/23-14:24:37.322 1bb5 Delete type=0 #3
+2022/06/23-14:24:37.322 1bb5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

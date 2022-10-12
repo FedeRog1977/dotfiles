@@ -1,0 +1,6 @@
+2022/08/15-20:03:44.212 a4d Creating DB /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_secure5.arcot.com_0.indexeddb.leveldb since it was missing.
+2022/08/15-20:03:44.239 a4d Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_secure5.arcot.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/15-20:04:37.743 ba3 Level-0 table #5: started
+2022/08/15-20:04:37.752 ba3 Level-0 table #5: 2400 bytes OK
+2022/08/15-20:04:37.765 ba3 Delete type=0 #3
+2022/08/15-20:04:37.765 ba3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

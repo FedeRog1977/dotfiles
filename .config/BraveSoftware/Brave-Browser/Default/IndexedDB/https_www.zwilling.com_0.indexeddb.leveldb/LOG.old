@@ -1,0 +1,6 @@
+2022/07/27-17:12:59.280 60c9 Creating DB /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.zwilling.com_0.indexeddb.leveldb since it was missing.
+2022/07/27-17:12:59.308 60c9 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.zwilling.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/27-17:13:01.859 60c9 Level-0 table #5: started
+2022/07/27-17:13:01.870 60c9 Level-0 table #5: 887 bytes OK
+2022/07/27-17:13:01.881 60c9 Delete type=0 #3
+2022/07/27-17:13:01.881 60c9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

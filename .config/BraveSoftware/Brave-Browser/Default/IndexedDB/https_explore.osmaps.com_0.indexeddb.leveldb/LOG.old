@@ -1,0 +1,7 @@
+2022/08/29-15:07:36.501 2069 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_explore.osmaps.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/29-15:07:36.501 2069 Recovering log #136
+2022/08/29-15:07:36.501 2069 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_explore.osmaps.com_0.indexeddb.leveldb/000136.log 
+2022/08/29-15:07:36.540 2068 Level-0 table #142: started
+2022/08/29-15:07:36.550 2068 Level-0 table #142: 588 bytes OK
+2022/08/29-15:07:36.568 2068 Delete type=0 #136
+2022/08/29-15:07:36.568 2068 Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)

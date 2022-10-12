@@ -1,0 +1,6 @@
+2022/03/31-11:41:39.535 1750 Creating DB /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.naturalreaders.com_0.indexeddb.leveldb since it was missing.
+2022/03/31-11:41:39.563 1750 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.naturalreaders.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/31-11:42:03.446 1750 Level-0 table #5: started
+2022/03/31-11:42:03.455 1750 Level-0 table #5: 887 bytes OK
+2022/03/31-11:42:03.467 1750 Delete type=0 #3
+2022/03/31-11:42:03.467 1750 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

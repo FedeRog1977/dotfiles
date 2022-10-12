@@ -1,0 +1,6 @@
+2022/04/25-17:54:20.184 eeb Creating DB /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.thetrainline.com_0.indexeddb.leveldb since it was missing.
+2022/04/25-17:54:20.210 eeb Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.thetrainline.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/25-18:01:07.949 f56 Level-0 table #5: started
+2022/04/25-18:01:07.957 f56 Level-0 table #5: 3473 bytes OK
+2022/04/25-18:01:07.969 f56 Delete type=0 #3
+2022/04/25-18:01:07.969 f56 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

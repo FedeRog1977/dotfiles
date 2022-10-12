@@ -1,0 +1,7 @@
+2022/06/22-18:00:00.836 301d Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tennistv.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/22-18:00:00.836 301d Recovering log #3
+2022/06/22-18:00:00.842 301d Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tennistv.com_0.indexeddb.leveldb/000003.log 
+2022/06/22-18:00:07.949 2fbf Level-0 table #5: started
+2022/06/22-18:00:07.959 2fbf Level-0 table #5: 100287 bytes OK
+2022/06/22-18:00:07.975 2fbf Delete type=0 #3
+2022/06/22-18:00:07.975 2fbf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
