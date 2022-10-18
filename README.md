@@ -42,10 +42,16 @@ Check if WiFi is enabled:
 nmcli radio wifi
 ```
 
-If WiFi is disabled:
+If WiFi is disabled, enable WiFi:
 
 ```
 nmcli radio wifi on
+```
+
+Otherwise, disable WiFi:
+
+```
+nmcli radio wifi off
 ```
 
 Identify available networks:
@@ -65,6 +71,8 @@ Connect to a network with a password:
 ```
 sudo nmcli dev wifi connect 'SSID' password 'password'
 ```
+
+Find additional information on `nmcli` [here](https://www.makeuseof.com/connect-to-wifi-with-nmcli/).
 
 ## 1.3. Setup Workspace
 
