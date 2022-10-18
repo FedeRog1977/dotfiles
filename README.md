@@ -16,6 +16,8 @@ author:
 
 Note that this setup is Manjaro-specific. Also, I use neoVim as my editor so when you see `nvim` preceding an operation, it's simply an open-with text editor command, like `vim` or `nano` (haha).
 
+It's also important to remember that if in doubt regarding any basic commands or operations on a program, you can always use the program's manual (`man` 'program-name') or use the 'help' flag (`'program-name' --help` or `''program-name` -h).
+
 ## 1.1. Installing Manjaro
 
 * Flash download of Manjaro to external drive
@@ -24,7 +26,47 @@ Note that this setup is Manjaro-specific. Also, I use neoVim as my editor so whe
 	- My experience: various ThinkPads, MacBook Pro
 * Run guided setup steps
 
-## 1.2. Setup Workspace
+## 1.2. Connect To WiFi
+
+The network manager `nmcli` is used to find and connect to available networks.
+
+View current status:
+
+```
+nmcli dev status
+```
+
+Check if WiFi is enabled:
+
+```
+nmcli radio wifi
+```
+
+If WiFi is disabled:
+
+```
+nmcli radio wifi on
+```
+
+Identify available networks:
+
+```
+nmcli dev wifi list
+```
+
+Connect to a network:
+
+```
+sudo nmcli dev wifi connect 'SSID'
+```
+
+Connect to a network with a password:
+
+```
+sudo nmcli dev wifi connect 'SSID' password 'password'
+```
+
+## 1.3. Setup Workspace
 
 * In default terminal run an install, update and repair:
 	- `sudo pacman -Syu`
@@ -52,7 +94,7 @@ Note that this setup is Manjaro-specific. Also, I use neoVim as my editor so whe
 	- Clone: `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git`
 	- Move to .cache: `mv zsh-syntax-highlighting .cache`
 
-## 1.3. Replace i3status With Polybar
+## 1.4. Replace i3status With Polybar
 
 * Install:
 	- `sudo pacman -Syu polybar`
