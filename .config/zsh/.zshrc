@@ -74,7 +74,6 @@ alias repos='cd ~/Documents/Repos'
 
 alias readme='nvim ~/Documents/Repos/dotfiles/README.md'
 alias bins='zathura ~/Documents/General/Bins.pdf'
-alias life='sc-im ~/Documents/General/Life.csv'
 alias notes='nvim ~/Documents/General/Notes.txt'
 alias pass='nvim ~/Documents/General/Passwords.txt'
 
