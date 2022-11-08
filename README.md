@@ -413,3 +413,14 @@ Find additional information on `nmcli` [here](https://www.makeuseof.com/connect-
 * Ctrl+t: new tab
 * Ctrl+w: close tab [window, upon final tab]
 * Ctrl+'n': tab number 'n' in {1,...,[1]0}
+
+# Manage notifications
+
+- [Video](https://www.youtube.com/watch?v=XWlbaERuDP4)
+
+cp /etc/dunst/dunstrc .config/dunst
+
+notification daemon: sudo pacman -S dunst
+
+notify-send "message"
+
