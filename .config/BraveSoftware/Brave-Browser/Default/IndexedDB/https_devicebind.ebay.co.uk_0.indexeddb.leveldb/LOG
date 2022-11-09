@@ -1,3 +1,15 @@
-2022/10/09-11:18:48.603 6d0 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_devicebind.ebay.co.uk_0.indexeddb.leveldb/MANIFEST-000001
-2022/10/09-11:18:48.603 6d0 Recovering log #67
-2022/10/09-11:18:48.603 6d0 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_devicebind.ebay.co.uk_0.indexeddb.leveldb/000067.log 
+2022/10/25-21:45:24.452 111c Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_devicebind.ebay.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/25-21:45:24.452 111c Recovering log #71
+2022/10/25-21:45:24.452 111c Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_devicebind.ebay.co.uk_0.indexeddb.leveldb/000071.log 
+2022/10/25-21:47:38.372 111a Level-0 table #76: started
+2022/10/25-21:47:38.379 111a Level-0 table #76: 209 bytes OK
+2022/10/25-21:47:38.391 111a Delete type=0 #71
+2022/10/25-21:47:38.391 111a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/10/25-21:47:38.391 111a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 122 : 1
+2022/10/25-21:47:38.391 111a Compacting 1@1 + 1@2 files
+2022/10/25-21:47:38.399 111a Generated table #77@1: 29 keys, 908 bytes
+2022/10/25-21:47:38.399 111a Compacted 1@1 + 1@2 files => 908 bytes
+2022/10/25-21:47:38.410 111a compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/25-21:47:38.411 111a Delete type=2 #73
+2022/10/25-21:47:38.411 111a Delete type=2 #76
+2022/10/25-21:47:38.411 111a Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 122 : 1 .. (end); will stop at (end)

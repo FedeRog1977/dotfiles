@@ -3,15 +3,20 @@
 (GimpDeviceInfo "Core Pointer"
     (icon-name "gimp-cursor")
     (name "Core Pointer")
-    (tool-options "GimpFilterOptions"
-        (tool "gimp-operation-tool"))
+    (tool-options "GimpCropOptions"
+        (aspect-denominator 3390)
+        (aspect-numerator 7560)
+        (overridden-fixed-aspect yes)
+        (tool "gimp-crop-tool")
+        (pattern "Pine")
+        (delete-pixels yes))
     (use-fg-bg yes)
     (use-opacity-paint-mode no)
     (use-brush no)
     (use-dynamics no)
     (use-mypaint-brush no)
     (use-gradient no)
-    (use-pattern no)
+    (use-pattern yes)
     (use-palette no)
     (use-font no)
     (mode screen)

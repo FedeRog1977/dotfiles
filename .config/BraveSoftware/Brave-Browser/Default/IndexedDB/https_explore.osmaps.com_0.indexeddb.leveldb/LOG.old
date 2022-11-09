@@ -1,7 +1,13 @@
-2022/08/29-15:07:36.501 2069 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_explore.osmaps.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/29-15:07:36.501 2069 Recovering log #136
-2022/08/29-15:07:36.501 2069 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_explore.osmaps.com_0.indexeddb.leveldb/000136.log 
-2022/08/29-15:07:36.540 2068 Level-0 table #142: started
-2022/08/29-15:07:36.550 2068 Level-0 table #142: 588 bytes OK
-2022/08/29-15:07:36.568 2068 Delete type=0 #136
-2022/08/29-15:07:36.568 2068 Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/09/04-17:32:42.891 659 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_explore.osmaps.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/04-17:32:42.891 659 Recovering log #141
+2022/09/04-17:32:42.892 659 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_explore.osmaps.com_0.indexeddb.leveldb/000141.log 
+2022/09/04-17:32:42.924 7ff Level-0 table #145: started
+2022/09/04-17:32:42.933 7ff Level-0 table #145: 1664 bytes OK
+2022/09/04-17:32:42.947 7ff Delete type=0 #141
+2022/09/04-17:32:42.947 7ff Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1e\x00\x00\x05' @ 1355 : 1
+2022/09/04-17:32:42.947 7ff Compacting 1@0 + 1@1 files
+2022/09/04-17:32:42.958 7ff Generated table #146@0: 18 keys, 1306 bytes
+2022/09/04-17:32:42.958 7ff Compacted 1@0 + 1@1 files => 1306 bytes
+2022/09/04-17:32:42.972 7ff compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/04-17:32:42.973 7ff Delete type=2 #145
+2022/09/04-17:32:42.973 7ff Manual compaction at level-0 from '\x00\x1e\x00\x00\x05' @ 1355 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)

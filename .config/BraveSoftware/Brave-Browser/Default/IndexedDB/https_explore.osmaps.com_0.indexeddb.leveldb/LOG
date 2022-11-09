@@ -1,13 +1,14 @@
-2022/09/04-17:32:42.891 659 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_explore.osmaps.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/09/04-17:32:42.891 659 Recovering log #141
-2022/09/04-17:32:42.892 659 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_explore.osmaps.com_0.indexeddb.leveldb/000141.log 
-2022/09/04-17:32:42.924 7ff Level-0 table #145: started
-2022/09/04-17:32:42.933 7ff Level-0 table #145: 1664 bytes OK
-2022/09/04-17:32:42.947 7ff Delete type=0 #141
-2022/09/04-17:32:42.947 7ff Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1e\x00\x00\x05' @ 1355 : 1
-2022/09/04-17:32:42.947 7ff Compacting 1@0 + 1@1 files
-2022/09/04-17:32:42.958 7ff Generated table #146@0: 18 keys, 1306 bytes
-2022/09/04-17:32:42.958 7ff Compacted 1@0 + 1@1 files => 1306 bytes
-2022/09/04-17:32:42.972 7ff compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/09/04-17:32:42.973 7ff Delete type=2 #145
-2022/09/04-17:32:42.973 7ff Manual compaction at level-0 from '\x00\x1e\x00\x00\x05' @ 1355 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/16-20:30:30.987 e68 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_explore.osmaps.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/16-20:30:30.988 e68 Recovering log #144
+2022/10/16-20:30:30.989 e68 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_explore.osmaps.com_0.indexeddb.leveldb/000144.log 
+2022/10/16-20:30:30.989 e68 Delete type=2 #142
+2022/10/16-20:30:31.292 e40 Level-0 table #149: started
+2022/10/16-20:30:31.302 e40 Level-0 table #149: 1667 bytes OK
+2022/10/16-20:30:31.316 e40 Delete type=0 #144
+2022/10/16-20:30:31.316 e40 Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at '\x00\x1f\x00\x00\x05' @ 1398 : 1
+2022/10/16-20:30:31.316 e40 Compacting 1@0 + 1@1 files
+2022/10/16-20:30:31.326 e40 Generated table #150@0: 18 keys, 1309 bytes
+2022/10/16-20:30:31.326 e40 Compacted 1@0 + 1@1 files => 1309 bytes
+2022/10/16-20:30:31.338 e40 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/10/16-20:30:31.338 e40 Delete type=2 #149
+2022/10/16-20:30:31.339 e40 Manual compaction at level-0 from '\x00\x1f\x00\x00\x05' @ 1398 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)
