@@ -383,7 +383,7 @@ format-discharging-prefix-foreground = ${colors.foreground-alt}
 ;format--underline = ${self.format-charging-underline}
 format-discharging-underline = ${colors.safe}
 
-format-full-prefix = ""
+format-full-prefix = " "
 format-full-prefix-foreground = ${colors.foreground-alt}
 ;format-full-underline = ${self.format-charging-underline}
 format-full-underline = ${colors.safe}
@@ -395,9 +395,9 @@ ramp-capacity-3 = 
 ramp-capacity-4 = 
 ramp-capacity-0-foreground = ${colors.alert}
 ramp-capacity-1-foreground = ${colors.intermediate}
-ramp-capacity-2-foreground = ${colors.intermediate}
-ramp-capacity-3-foreground = ${colors.safe}
-ramp-capacity-4-foreground = ${colors.safe}
+ramp-capacity-2-foreground = ${colors.foreground-alt}
+ramp-capacity-3-foreground = ${colors.foreground-alt}
+ramp-capacity-4-foreground = ${colors.foreground-alt}
 
 animation-charging-0 = 
 animation-charging-1 = 
