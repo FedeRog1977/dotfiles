@@ -16,7 +16,7 @@ author:
 
 Note that this setup is Manjaro-specific. Also, I use neoVim as my editor so when you see `nvim` preceding an operation, it's simply an open-with text editor command, like `vim` or `nano` (haha).
 
-It's also important to remember that if in doubt regarding any basic commands or operations on a program, you can always use the program's manual (`man` 'program-name') or use the 'help' flag (`'program-name' --help` or `''program-name` -h).
+It's also important to remember that if in doubt regarding any basic commands or operations on a program, you can always use the program's manual (`man` 'program-name') or use the 'help' flag (`'program-name' --help` or `'program-name'` -h).
 
 ## 1.1. Installing Manjaro
 

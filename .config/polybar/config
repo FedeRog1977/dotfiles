@@ -10,7 +10,7 @@ foreground-alt = #555
 action = #0A6CF5
 secondary = #e60053
 safe = #55AA55
-intermediate = #FFCC00
+intermediate = #D19D00
 alert = #BD2C40
 
 ;
