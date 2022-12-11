@@ -53,6 +53,7 @@ alias stocks='ticker --config ~/Downloads/snap/ticker/ticker.yaml'
 
 alias ls='lsd'
 alias tree='lsd --tree'
+alias start='BROWSER=brave npm start'
 
 ## Application Shortcuts
 
