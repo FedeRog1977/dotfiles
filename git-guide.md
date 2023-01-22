@@ -114,6 +114,12 @@ Or:
 git branch -D 'branch-name'
 ```
 
+Rename branch, from 'branch-name':
+
+```
+git branch -m 'new-branch-name'
+```
+
 Before moving on, ensure the branch is up-to-date with the remote master branch:
 
 ```
