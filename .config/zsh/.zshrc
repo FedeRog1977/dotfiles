@@ -70,6 +70,7 @@ alias repos='cd ~/Documents/Repos'
 		alias blog='cd ~/Documents/Repos/BrittonsBashRC/Blog'
 		alias schema='cd ~/Documents/Repos/BrittonsBashRC/JSON'
 		alias course='cd ~/Documents/Repos/BrittonsBashRC/Coursework'
+	alias brittonsbash='code ~/Documents/Repos/brittonsbash'
 	alias burning='cd ~/Documents/Repos/Burning'
 	alias vtc='cd ~/Documents/Repos/vtctruffles'
 
