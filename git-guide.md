@@ -290,6 +290,8 @@ This process is often used in conjunction with others. For example, here is a li
 * Filter branch of directory: `git filter-branch --tree-filter 'rm -f MVCC.zip' HEAD`
 * Restore master state: `git rebase origin/master`
 
+- [Guide](https://docs.gitlab.com/ee/topics/git/git_rebase.html#:~:text=In%20Git%2C%20a%20rebase%20updates,you%20created%20your%20feature%20branch)
+
 ## 3.4 Pushing And Pulling
 
 ---
