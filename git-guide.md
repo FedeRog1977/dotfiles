@@ -64,6 +64,80 @@ Some other specific commands:
 * Define account e-mail address (using Git): `git config --global user.email "'email-address'"`
 * Define editor in-line (to use `nvim`): `git config --global core.editor "nvim"`
 
+## Create Repo
+
+---
+
+From the local directory you wish to make a Git repository;
+
+Create `.git` directory: 
+
+```
+git init
+```
+
+Add a README file:
+
+```
+git add README.md
+```
+
+Commit this action:
+
+```
+git commit -m "message"
+```
+
+Create `master` or `main` branch, depending on your political stance:
+
+```
+git branch -M master
+```
+
+Add remote:
+
+```
+git remote add origin https://github.com/<username>/<repo-name>.git
+```
+
+Push changes:
+
+```
+git push -u origin master
+```
+
+Alternatively, you can create a repository from GitHub browser and clone it locally.
+
+## Changing Remote
+
+---
+
+Check remote version:
+
+```
+git remote -v
+```
+
+Assuming you named your remote origin, remove remote:
+
+```
+git remote remove origin
+```
+
+Add remote:
+
+```
+git remote add origin https://github.com/<username>/<repo-name>.git
+```
+
+Fetch:
+
+```
+git fetch
+```
+
+You may be asked to re-authenticate.
+
 ## 3.2 Branching
 
 ---
@@ -159,7 +233,7 @@ git rm -r ./'directory-name'
 Once you're happy with the `status` of your repository, commit changes (`-m` for in-line message):
 
 ```
-git commit -m 'message'
+git commit -m "message"
 ```
 
 You can also open a text buffer, which we previously declared to open to `nvim`, without `-m`. Use `-a` to stage all modified and deleted files, omitting non-added new files if you desire:
