@@ -61,25 +61,20 @@ alias weather='lynx https://www.mwis.org.uk/forecasts/scottish/west-highlands/te
 
 ## Directory Shortcuts
 
-alias general='cd ~/Documents/General'
-alias media='cd ~/Documents/Media'
-alias repos='cd ~/Documents/Repos'
-	alias dots='cd ~/Documents/Repos/dotfiles'
-		alias dots-copy='cp -r ~/.config ~/Documents/Repos/dotfiles'
-	alias bashrc='cd ~/Documents/Repos/BrittonsBashRC'
-		alias blog='cd ~/Documents/Repos/BrittonsBashRC/Blog'
-		alias schema='cd ~/Documents/Repos/BrittonsBashRC/JSON'
-		alias course='cd ~/Documents/Repos/BrittonsBashRC/Coursework'
-	alias brittonsbash='code ~/Documents/Repos/brittonsbash'
-	alias burning='cd ~/Documents/Repos/Burning'
-	alias vtc='cd ~/Documents/Repos/vtctruffles'
+alias general='cd ~/Documents/general'
+alias media='cd ~/Documents/media'
+alias repos='cd ~/Documents/repos'
+	alias dots='cd ~/Documents/repos/dotfiles'
+	alias bashrc='cd ~/Documents/repos/BrittonsBashRC'
+	alias brittonsbash='code ~/Documents/repos/brittonsbash'
+	alias burning='cd ~/Documents/repos/Burning'
+	alias vtc='cd ~/Documents/repos/vtctruffles'
 
 ## Document Shortcuts
 
-alias readme='nvim ~/Documents/Repos/dotfiles/README.md'
-alias bins='zathura ~/Documents/General/Bins.pdf'
-alias notes='nvim ~/Documents/General/Notes.md'
-alias pass='nvim ~/Documents/General/Passwords.txt'
+alias readme='nvim ~/Documents/repos/dotfiles/README.md'
+alias git-guide='nvim ~/Documents/repos/dotfiles/git-guide.md'
+alias pass='nvim ~/Documents/general/passwords.txt'
 
 # Enable Syntax
 
