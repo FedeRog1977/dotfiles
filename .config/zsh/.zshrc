@@ -63,12 +63,9 @@ alias weather='lynx https://www.mwis.org.uk/forecasts/scottish/west-highlands/te
 
 alias general='cd ~/documents/general'
 alias media='cd ~/documents/media'
-alias repos='cd ~/documents/repos'
-	alias dots='cd ~/documents/repos/dotfiles'
-	alias bashrc='cd ~/documents/repos/BrittonsBashRC'
-	alias brittonsbash='code ~/documents/repos/brittonsbash'
-	alias burning='cd ~/documents/repos/Burning'
-	alias vtc='cd ~/documents/repos/vtctruffles'
+alias dots='cd ~/documents/repos/dotfiles'
+alias brittonsbash='code ~/documents/repos/brittonsbash'
+alias brittonsbash-content='cd ~/documents/repos/brittonsbash-content'
 
 ## Document Shortcuts
 
