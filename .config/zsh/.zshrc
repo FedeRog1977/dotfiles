@@ -61,20 +61,20 @@ alias weather='lynx https://www.mwis.org.uk/forecasts/scottish/west-highlands/te
 
 ## Directory Shortcuts
 
-alias general='cd ~/Documents/general'
-alias media='cd ~/Documents/media'
-alias repos='cd ~/Documents/repos'
-	alias dots='cd ~/Documents/repos/dotfiles'
-	alias bashrc='cd ~/Documents/repos/BrittonsBashRC'
-	alias brittonsbash='code ~/Documents/repos/brittonsbash'
-	alias burning='cd ~/Documents/repos/Burning'
-	alias vtc='cd ~/Documents/repos/vtctruffles'
+alias general='cd ~/documents/general'
+alias media='cd ~/documents/media'
+alias repos='cd ~/documents/repos'
+	alias dots='cd ~/documents/repos/dotfiles'
+	alias bashrc='cd ~/documents/repos/BrittonsBashRC'
+	alias brittonsbash='code ~/documents/repos/brittonsbash'
+	alias burning='cd ~/documents/repos/Burning'
+	alias vtc='cd ~/documents/repos/vtctruffles'
 
 ## Document Shortcuts
 
-alias readme='nvim ~/Documents/repos/dotfiles/README.md'
-alias git-guide='nvim ~/Documents/repos/dotfiles/git-guide.md'
-alias pass='nvim ~/Documents/general/passwords.txt'
+alias readme='nvim ~/documents/repos/dotfiles/README.md'
+alias git-guide='nvim ~/documents/repos/dotfiles/git-guide.md'
+alias pass='nvim ~/documents/general/passwords.txt'
 
 # Enable Syntax
 
