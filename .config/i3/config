@@ -193,8 +193,7 @@ client.background       #ffffff
 
 # Wallpaper
 
-#exec_always feh --bg-fill ~/Documents/Media/Wallpapers/Venice
-exec_always feh --bg-fill ~/documents/media/wallpapers/mor2.jpg
+exec_always feh --bg-fill ~/documents/media/wallpapers/cg.jpg
 	#exec --no-startup-id exec zsh $HOME/.fehbg
 	#for_window [class=".*"] border pixel 0
 	#hide_edge_borders both
