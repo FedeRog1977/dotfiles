@@ -2,7 +2,7 @@
 
 First off, the following guide gives a brief overview of some of the basics which are essential to operate as a sole hobbyist, developer, or collaborative developer. For a more comprehensive breakdown, see [git-scm.com](https://git-scm.com/), see [cli.github.com](https://cli.github.com/), read `man git` for Git instructions, read `man gh` for GitHub CLI instructions, browse `git --help` for Git help, and browse `gh --help` for GitHub CLI help. Note that if you require help regarding a specific command, you can follow the command with the `--help` flag. For example, `git branch --help`. Generally, the [Gitflow Workflow](https://nvie.com/posts/a-successful-git-branching-model/) model is used in the following context. Git comes with any Linux distribution. GitHub CLI, like any Git interface, must be installed.
 
-## 3.1 GitHub CLI Setup 
+## 3.1 GitHub CLI Setup
 
 ---
 
@@ -22,10 +22,10 @@ Authenticate And Login:
 
 1. Initialize login in command line: `gh auth login`
 2. Navigate options accordingly, usually choosing to complete in-browser by selecting:
-	- 'GitHub.com'
-	- 'HTTPS' (preference dependent)
-	- 'Y'
-	- 'Login with a web browser'
+   - 'GitHub.com'
+   - 'HTTPS' (preference dependent)
+   - 'Y'
+   - 'Login with a web browser'
 3. Login in-browser using standard login followed by code generated in-command-line
 4. Complete login in-command-line
 5. Logout: `gh auth logout`
@@ -50,19 +50,19 @@ git clone 'repo-url' 'directory-name'
 
 Some other commands:
 
-* Manage repositories: `gh repo`
-* Open repository in-browser: `gh browse`
-* Manage pull requests: `gh pr`
-* Manage issues: `gh issue`
-* Manage releases: `gh releases`
-* Manage SSH keys: `gh ssh-key`
-* Manage GPG keys: `gh gpg-key`
-* Manage config in-line: `gh config <command> [flag(s)]`
+- Manage repositories: `gh repo`
+- Open repository in-browser: `gh browse`
+- Manage pull requests: `gh pr`
+- Manage issues: `gh issue`
+- Manage releases: `gh releases`
+- Manage SSH keys: `gh ssh-key`
+- Manage GPG keys: `gh gpg-key`
+- Manage config in-line: `gh config <command> [flag(s)]`
 
 Some other specific commands:
 
-* Define account e-mail address (using Git): `git config --global user.email "'email-address'"`
-* Define editor in-line (to use `nvim`): `git config --global core.editor "nvim"`
+- Define account e-mail address (using Git): `git config --global user.email "'email-address'"`
+- Define editor in-line (to use `nvim`): `git config --global core.editor "nvim"`
 
 ## Create Repo
 
@@ -70,7 +70,7 @@ Some other specific commands:
 
 From the local directory you wish to make a Git repository;
 
-Create `.git` directory: 
+Create `.git` directory:
 
 ```
 git init
@@ -244,16 +244,16 @@ git commit -a
 
 When a text buffer opens, leave an appropriate commit message relevant to the changes you have made. In a professional context, there may be convention to adhere to. Some examples of commit purposes follow:
 
-* `fix:` 'description' 
-* `feature:` 'description' 
-* `build:` 'description' 
-* `chore:` 'description' 
-* `ci:` 'description' 
-* `docs:` 'description' 
-* `style:` 'description' 
-* `refactor:` 'description' 
-* `perf:` 'description' 
-* `test:` 'description' 
+- `fix:` 'description'
+- `feature:` 'description'
+- `build:` 'description'
+- `chore:` 'description'
+- `ci:` 'description'
+- `docs:` 'description'
+- `style:` 'description'
+- `refactor:` 'description'
+- `perf:` 'description'
+- `test:` 'description'
 
 ## 3.3.1 Stashing
 
@@ -287,17 +287,42 @@ Rebase provides various useful options, particularly when working from branches 
 
 This process is often used in conjunction with others. For example, here is a line I ran in order to negate issues caused by a large file using `git filter-branch` and `git rebase`:
 
-* Filter branch of directory: `git filter-branch --tree-filter 'rm -f MVCC.zip' HEAD`
-* Restore master state: `git rebase origin/master`
+- Filter branch of directory: `git filter-branch --tree-filter 'rm -f MVCC.zip' HEAD`
+- Restore master state: `git rebase origin/master`
 
-- [Guide](https://docs.gitlab.com/ee/topics/git/git_rebase.html#:~:text=In%20Git%2C%20a%20rebase%20updates,you%20created%20your%20feature%20branch)
+* [Guide](https://docs.gitlab.com/ee/topics/git/git_rebase.html#:~:text=In%20Git%2C%20a%20rebase%20updates,you%20created%20your%20feature%20branch)
+
+## 3.3.3 Reset
+
+The most common practical error after which making you find yourself in need of a process such as this is when you have committed changes made to code on the `master` branch and staged the associated files for commit. This process negates errors such as this, as well as more generic examples. The `git reset` command resets your codebase to a previous defined state. Files remain unchanged post-`reset` however files will revert to the state of **not staged for commit**, with these changes being all differences between the `reset` point in history and the current point.
+
+Reset to state (undo commit, return to not staged):
+
+```
+git reset <commit-tag>
+```
+
+Restore to state (un-not-staged files):
+
+```
+git restore ./
+```
+
+Or as in the example above, reset changes on `master`:
+
+```
+`git reset –soft HEAD~`
+`git reset HEAD ./
+`git restore ./`
+```
+
+\_ [Guide](https://www.nobledesktop.com/learn/git/undo-changes#:~:text=The%20last%20commit%20that%20has,back%20to%20the%20staging%20area)
 
 ## 3.4 Pushing And Pulling
 
 ---
 
-Once you have made your commit of changes, additions and/or removals, you can push your code directly to see immediate changes when working from the `master` branch: 
-
+Once you have made your commit of changes, additions and/or removals, you can push your code directly to see immediate changes when working from the `master` branch:
 
 ```
 git push
@@ -317,16 +342,16 @@ gh pr <subcommand>
 
 For this command to be effective, you must use a `<subcommand>`. Some of the most common/useful ones follow:
 
-* Create pull request: `create 'pr-name'`
-* Close pull request: `close 'pr-name'`
-* Checkout pull request locally: `checkout 'pr-name'`
-* Comment on a pull request: `comment 'pr-name'`
-* View changes on pull request: `diff 'pr-name'`
-* Edit pull request: `edit 'pr-name'`
-* List pull requests in repository: `list 'pr-name'`
-* Merge pull request: `merge 'pr-name'`
-* Mark pull request ready for review: `ready 'pr-name'`
-* Reopen pull request: `reopen 'pr-name'`
-* Add review to pull request: `review 'pr-name'`
-* Show status of pull requests in repository: `status 'pr-name'`
-* View pull request: `view 'pr-name'`
+- Create pull request: `create 'pr-name'`
+- Close pull request: `close 'pr-name'`
+- Checkout pull request locally: `checkout 'pr-name'`
+- Comment on a pull request: `comment 'pr-name'`
+- View changes on pull request: `diff 'pr-name'`
+- Edit pull request: `edit 'pr-name'`
+- List pull requests in repository: `list 'pr-name'`
+- Merge pull request: `merge 'pr-name'`
+- Mark pull request ready for review: `ready 'pr-name'`
+- Reopen pull request: `reopen 'pr-name'`
+- Add review to pull request: `review 'pr-name'`
+- Show status of pull requests in repository: `status 'pr-name'`
+- View pull request: `view 'pr-name'`
