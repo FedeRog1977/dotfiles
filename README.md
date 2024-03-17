@@ -416,11 +416,37 @@ Find additional information on `nmcli` [here](https://www.makeuseof.com/connect-
 
 # Manage notifications
 
+Install the `dunst` notification daemon:
+
+```
+sudo pacman -S dunst
+```
+
+Test the default dunst config works using `notify-send`:
+
+```
+notify-send "<message>"
+```
+
+Copy the default config file to a new dunst config directory:
+
+```
+mkdir ~/.config/dunst
+cp /etc/dunst/dunstrc .config/dunst
+```
+
+After making a change to the `dunstrc`, run:
+
+```
+killall dunst
+```
+
+Then restart dunst by feeding a new test message using `notify-send`:
+
+```
+notify-send "<message>"
+```
+
 - [Video](https://www.youtube.com/watch?v=XWlbaERuDP4)
 
-cp /etc/dunst/dunstrc .config/dunst
-
-notification daemon: sudo pacman -S dunst
-
-notify-send "message"
 
