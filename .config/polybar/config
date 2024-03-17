@@ -3,13 +3,13 @@
 ;
 
 [colors]
-background = #222
+background = #282828
 background-alt = #444
-foreground = #226696
-foreground-alt = #555
-action = #0A6CF5
+foreground = #569cd6
+foreground-alt = #585858
+action = #96b9ee
 secondary = #e60053
-safe = #55AA55
+safe = #00f865
 intermediate = #D19D00
 alert = #BD2C40
 
@@ -20,7 +20,7 @@ alert = #BD2C40
 [bar/brittonsbar]
 monitor = ${env:MONITOR:}
 width = 100%
-height = 40
+height = 50
 ;offset-x = 1%
 ;offset-y = 1%
 radius = 0
@@ -35,8 +35,8 @@ line-color = #696226
 border-size = 0
 border-color = #00000000
 
-padding-left = 0
-padding-right = 0
+padding-left = 4.5
+padding-right = 4.5
 
 module-margin-left = 2
 module-margin-right = 2
@@ -44,9 +44,9 @@ module-margin-right = 2
 font-0 = Nimbus Sans:pixelsize=16;3
 font-1 = Hack Nerd Font Mono:pixelsize=32;6
 
-modules-left = distro bspwm
+modules-left = i3 distro bspwm
 modules-center = mpd
-modules-right = pulseaudio cpu memory temperature wlan battery date i3
+modules-right = pulseaudio cpu memory temperature wlan battery date
 
 tray-position = right
 tray-padding = 2
