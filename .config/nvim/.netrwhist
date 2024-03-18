@@ -1,5 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =3
-let g:netrw_dirhist_3='/home/lewisb/Documents/Repos/BrittonsBashRC/Blog/Photos_IG/2021'
-let g:netrw_dirhist_2='/home/lewisb/Downloads/snap/brave/118/.config'
-let g:netrw_dirhist_1='/home/lewisb/Downloads/snap/brave/common/.cache'

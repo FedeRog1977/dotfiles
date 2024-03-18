@@ -1,5 +1,0 @@
-export * from './image-matrix.component'
-export * from './image-matrix.stories'
-export * from './image-slider.component'
-export * from './image-slider.stories'
-export * from './image-components.types'

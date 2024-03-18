@@ -1,6 +1,0 @@
-2024-03-17 17:28:12.949 [info] update#ctor - updates are disabled as there is no update URL
-2024-03-17 17:28:15.029 [info] Starting extension host with pid 1813 (fork() took 14 ms).
-2024-03-17 21:41:45.264 [info] Starting extension host with pid 7195 (fork() took 13 ms).
-2024-03-17 21:46:18.138 [info] Extension host with pid 7195 exited with code: 0, signal: null.
-2024-03-17 21:48:48.875 [info] Waiting for extension host with pid 1813 to exit.
-2024-03-17 21:48:48.908 [info] Extension host with pid 1813 exited with code: 0, signal: null.

@@ -1,5 +1,0 @@
-export * from './communications'
-export * from './events'
-export * from './hills'
-export * from './recipes'
-export * from './sport'

@@ -1,5 +1,0 @@
-export * from './article.component'
-export * from './drop-down.component'
-export * from './footnote.component'
-export * from './image-slider.component'
-export * from './tile.component'

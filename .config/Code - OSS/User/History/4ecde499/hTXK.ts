@@ -1,6 +1,0 @@
-export * from './communications.data'
-export * from './events.data'
-export * from './hills.data'
-export * from './mock'
-export * from './recipes.data'
-export * from './sport.data'
