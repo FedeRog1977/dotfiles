@@ -1,7 +1,7 @@
 title=Now%20Playing
-uri=file:///home/lewisb/boomer.mp3
-length=16881
-bitrate=48
-codec=MPEG-2%20layer%203
-quality=Mono%2C%2022050%20Hz
-channels=1
+uri=file:///tmp/pid-2500/berlin_u-bahn_new_announcement.mp3
+length=2002
+bitrate=172
+codec=MPEG-1%20layer%203
+quality=Stereo%2C%2048000%20Hz
+channels=2
