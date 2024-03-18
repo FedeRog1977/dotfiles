@@ -1,0 +1,270 @@
+/* Initialize Fonts */
+
+@font-face {
+    font-family: CMU-Serif;
+    src: url(../../../fonts/CMUSerif.ttf);
+}
+
+@font-face {
+    font-family: CMU-Bold;
+    src: url(../../../fonts/CMUBold.ttf);
+}
+
+@font-face {
+    font-family: CMU-Italic;
+    src: url(../../../fonts/CMUItalic.ttf);
+}
+
+@font-face {
+    font-family: Sans-Regular;
+    src: url(../../../fonts/open-sans/static/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: Sans-Bold;
+    src: url(../../../fonts/open-sans/static/OpenSans-Medium.ttf);
+}
+
+@font-face {
+    font-family: Sans-Italic;
+    src: url(../../../fonts/open-sans/static/OpenSans-Italic.ttf);
+}
+
+@font-face {
+    font-family: Audi-Regular;
+    src: url(../../../fonts/audi/Normal.ttf);
+}
+
+@font-face {
+    font-family: Audi-Bold;
+    src: url(../../../fonts/audi/Bold.ttf);
+}
+
+@font-face {
+    font-family: Audi-Italic;
+    src: url(../../../fonts/audi/Italic.ttf);
+}
+
+@font-face {
+    font-family: Audi-Extended;
+    src: url(../../../fonts/audi/Extended-Bold.ttf);
+}
+
+/* Serif Classes */
+
+.t1-serif {
+    font-family: CMU-Bold;
+    font-size: 64px;
+    color: #282828;
+    padding: 0px;
+}
+
+.t2-serif {
+    font-family: CMU-Serif;
+    font-size: 64px;
+    color: #282828;
+    padding: 0px;
+}
+
+.h1-serif {
+    font-family: CMU-Bold;
+    font-size: 52px;
+    color: #282828;
+    padding: 0px;
+}
+
+.h2-serif {
+    font-family: CMU-Bold;
+    font-size: 40px;
+    color: #282828;
+    padding: 0px;
+}
+
+.h3-serif {
+    font-family: CMU-Bold;
+    font-size: 28px;
+    color: #282828;
+    padding: 0px;
+}
+
+.h4-serif {
+    font-family: CMU-Serif;
+    font-size: 20px;
+    color: #282828;
+    padding: 0px;
+}
+
+.body-serif {
+    font-family: CMU-Serif;
+    font-size: 16px;
+    color: #282828;
+    padding: 0px;
+}
+
+.caption-serif {
+    font-family: CMU-Bold;
+    font-size: 16px;
+    color: #282828;
+    padding: 0px;
+}
+
+.footnote-serif {
+    font-family: CMU-Serif;
+    font-size: 14px;
+    color: #282828;
+    padding: 0px;
+}
+
+/* Sans-Serif Classes */
+
+.t1-sans-serif {
+    /* font-family: Audi-Extended; */
+    font-family: Sans-Bold;
+    font-size: 64px;
+    color: #282828;
+    padding: 0px;
+}
+
+.t2-sans-serif {
+    /* font-family: Audi-Bold; */
+    font-family: Sans-Bold;
+    font-size: 64px;
+    color: #282828;
+    padding: 0px;
+}
+
+.h1-sans-serif {
+    /* font-family: Audi-Bold; */
+    font-family: Sans-Bold;
+    font-size: 52px;
+    color: #282828;
+    padding: 0px;
+}
+
+.h2-sans-serif {
+    /* font-family: Audi-Bold; */
+    font-family: Sans-Bold;
+    font-size: 40px;
+    color: #282828;
+    padding: 0px;
+}
+
+.h3-sans-serif {
+    /* font-family: Audi-Bold; */
+    font-family: Sans-Bold;
+    font-size: 28px;
+    color: #282828;
+    padding: 0px;
+}
+
+.h4-sans-serif {
+    /* font-family: Audi-Regular; */
+    font-family: Sans-Regular;
+    font-size: 20px;
+    color: #282828;
+    padding: 0px;
+}
+
+.body-sans-serif {
+    /* font-family: Audi-Regular; */
+    font-family: Sans-Regular;
+    font-size: 16px;
+    color: #282828;
+    padding: 0px;
+}
+
+.caption-sans-serif {
+    /* font-family: Audi-Bold; */
+    font-family: Sans-Bold;
+    font-size: 16px;
+    color: #282828;
+    padding: 0px;
+}
+
+.footnote-sans-serif {
+    /* font-family: Audi-Regular; */
+    font-family: Sans-Regular;
+    font-size: 14px;
+    color: #282828;
+    padding: 0px;
+}
+
+/* Bold Classes */
+
+.bold-serif {
+    font-family: CMU-Bold;
+}
+
+.bold-sans-serif {
+    font-family: Audi-Bold;
+}
+
+/* Italic Classes */
+
+.italic-serif {
+    font-family: CMU-Italic;
+}
+
+.italic-sans-serif {
+    font-family: Audi-Italic;
+}
+
+/* Links */
+
+a {
+    color: #282828;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+a:hover {
+    color: #87ceeb;
+    transition: color 0.5s;
+    cursor: pointer;
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+    .t1-serif,
+    .t1-sans-serif,
+    .t2-serif,
+    .t2-sans-serif {
+        font-size: 36px;
+    }
+
+    .h1-serif,
+    .h1-sans-serif {
+        font-size: 30px;
+    }
+
+    .h2-serif,
+    .h2-sans-serif {
+        font-size: 24px;
+    }
+
+    .h3-serif,
+    .h3-sans-serif {
+        font-size: 22px;
+    }
+
+    .h4-serif,
+    .h4-sans-serif {
+        font-size: 20px;
+    }
+
+    .body-serif,
+    .body-sans-serif {
+        font-size: 14px;
+    }
+
+    .caption-serif,
+    .caption-sans-serif {
+        font-size: 14px;
+    }
+
+    .footnote-serif,
+    .footnote-sans-serif {
+        font-size: 12px;
+    }
+}

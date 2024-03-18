@@ -1,6 +1,0 @@
-2022/04/12-10:14:21.292 10ac Creating DB /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_burnout.fandom.com_0.indexeddb.leveldb since it was missing.
-2022/04/12-10:14:21.322 10ac Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_burnout.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/04/12-10:14:30.436 115c Level-0 table #5: started
-2022/04/12-10:14:30.448 115c Level-0 table #5: 49832 bytes OK
-2022/04/12-10:14:30.459 115c Delete type=0 #3
-2022/04/12-10:14:30.459 115c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

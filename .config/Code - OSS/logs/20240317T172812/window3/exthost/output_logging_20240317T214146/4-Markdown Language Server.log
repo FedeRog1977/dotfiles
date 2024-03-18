@@ -1,0 +1,1070 @@
+[Trace 21:42:06.467] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:06.468] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:06.470] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:06.476] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:06.824] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 1
+[Debug 21:42:06.825] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:06.907] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 1
+[Debug 21:42:07.014] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:07.016] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 1
+[Trace 21:42:24.688] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:24.691] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:24.863] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 2
+[Debug 21:42:24.864] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:25.018] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 2
+[Debug 21:42:25.019] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:25.892] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:25.893] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:25.984] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:25.985] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:26.175] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 4
+[Debug 21:42:26.175] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:26.323] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 4
+[Debug 21:42:26.323] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:29.988] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:29.989] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:30.147] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 5
+[Debug 21:42:30.147] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:30.382] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 5
+[Debug 21:42:30.382] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:30.383] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:30.383] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:30.394] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:30.498] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:30.499] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:30.609] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:30.609] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:30.808] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 8
+[Debug 21:42:30.808] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:30.836] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:30.837] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:30.928] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:30.929] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:31.114] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 10
+[Debug 21:42:31.114] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:31.177] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:31.178] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:31.291] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:31.292] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:31.414] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:31.415] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:31.545] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:31.545] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:31.647] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:31.647] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:31.715] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:31.716] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:31.905] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 16
+[Debug 21:42:31.905] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:31.954] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:31.954] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:32.145] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 17
+[Debug 21:42:32.145] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:32.216] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:32.216] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:32.216] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:32.407] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:32.408] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:32.599] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 19
+[Debug 21:42:32.599] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:32.830] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 19
+[Debug 21:42:32.830] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:37.218] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:37.219] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:37.279] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:37.280] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:37.564] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 21
+[Debug 21:42:37.564] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:37.616] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 21
+[Debug 21:42:37.616] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:38.060] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:38.060] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:38.231] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 22
+[Debug 21:42:38.232] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:38.416] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 22
+[Debug 21:42:38.416] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:38.417] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:38.417] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:38.441] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:38.591] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 23
+[Trace 21:42:38.743] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 23
+[Debug 21:42:38.743] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:39.281] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:39.281] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:39.378] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:39.378] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:39.555] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 25
+[Debug 21:42:39.555] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:39.711] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 25
+[Debug 21:42:39.711] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:40.336] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:40.337] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:40.433] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:40.433] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:40.626] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 27
+[Debug 21:42:40.627] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:40.779] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 27
+[Debug 21:42:40.779] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:44.528] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:44.529] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:44.670] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:44.671] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:44.969] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 29
+[Debug 21:42:44.969] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:44.969] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:44.969] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:45.086] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 30
+[Debug 21:42:45.087] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:45.240] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 30
+[Debug 21:42:45.240] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:45.285] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:45.286] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:45.458] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 31
+[Debug 21:42:45.459] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:45.609] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 31
+[Debug 21:42:45.609] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:45.782] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:45.782] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:45.975] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 32
+[Debug 21:42:45.975] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:46.126] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 32
+[Debug 21:42:46.126] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:46.313] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:46.313] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:46.516] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 33
+[Debug 21:42:46.516] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:46.555] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:46.555] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:46.654] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:46.654] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:46.847] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 35
+[Debug 21:42:46.847] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:46.997] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 35
+[Debug 21:42:46.997] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:47.115] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:47.116] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:47.292] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 36
+[Debug 21:42:47.293] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:47.444] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 36
+[Debug 21:42:47.444] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:47.894] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:47.894] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:48.034] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:48.035] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:48.209] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:48.209] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:48.334] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:48.335] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:48.401] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:48.401] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:48.581] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:48.581] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:48.770] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 42
+[Debug 21:42:48.770] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:48.919] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 42
+[Debug 21:42:48.919] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:49.073] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:49.074] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:49.188] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:49.188] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:49.355] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:49.355] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:49.628] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 45
+[Debug 21:42:49.629] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:49.629] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:49.629] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:49.629] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:49.792] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:49.793] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:49.983] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 47
+[Debug 21:42:49.983] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:50.134] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 47
+[Debug 21:42:50.134] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:50.726] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:50.727] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:50.913] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 48
+[Debug 21:42:50.914] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:51.062] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 48
+[Debug 21:42:51.062] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:51.454] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:51.454] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:51.598] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:51.598] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:51.735] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:51.735] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:51.821] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:51.822] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:52.015] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 52
+[Debug 21:42:52.015] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:52.206] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:52.206] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:52.225] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:52.225] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:52.310] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:52.310] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:52.360] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:52.360] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:52.559] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 56
+[Debug 21:42:52.559] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:52.596] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:52.596] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:52.663] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:52.663] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:52.873] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:52.874] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:53.025] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:53.026] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:53.215] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 60
+[Debug 21:42:53.216] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:53.229] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:53.230] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:53.422] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 61
+[Debug 21:42:53.422] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:53.441] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:53.441] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:53.637] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 62
+[Debug 21:42:53.637] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:53.790] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 62
+[Debug 21:42:53.790] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:54.117] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:54.117] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:54.142] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:54.142] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:54.331] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 64
+[Debug 21:42:54.331] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:54.564] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 64
+[Debug 21:42:54.564] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:58.031] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:58.033] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:58.160] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:58.160] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:58.284] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:58.284] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:58.418] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:58.419] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:58.575] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 68
+[Debug 21:42:58.575] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:58.725] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 68
+[Debug 21:42:58.725] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:58.782] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:58.782] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:58.854] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:58.854] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:42:59.047] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 70
+[Debug 21:42:59.047] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:59.197] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 70
+[Debug 21:42:59.197] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:59.521] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:59.521] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:59.598] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:59.598] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:59.727] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:59.727] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:59.913] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:42:59.913] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:00.103] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 74
+[Debug 21:43:00.103] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:00.175] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:00.176] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:00.365] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:00.366] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:00.546] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:00.547] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:00.645] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:00.647] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:00.867] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:00.868] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:00.983] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 79
+[Debug 21:43:00.983] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:01.095] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:01.095] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:01.287] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 80
+[Debug 21:43:01.287] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:01.439] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 80
+[Debug 21:43:01.440] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:01.878] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:01.878] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:01.938] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:01.938] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:02.128] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 82
+[Debug 21:43:02.128] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:02.279] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 82
+[Debug 21:43:02.280] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:02.350] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:02.350] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:02.543] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 83
+[Debug 21:43:02.543] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:02.580] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:02.580] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:02.753] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:02.754] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:02.937] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 85
+[Debug 21:43:02.937] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:03.054] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:03.197] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:03.197] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:03.280] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 86
+[Debug 21:43:03.280] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:03.339] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:03.340] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:03.431] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:03.431] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:03.625] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 88
+[Debug 21:43:03.625] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:03.743] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:03.743] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:03.888] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:03.888] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:04.040] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:04.041] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:04.066] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:04.067] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:04.263] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 92
+[Debug 21:43:04.263] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:04.414] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 92
+[Debug 21:43:04.414] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:04.629] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:04.630] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:04.733] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:04.734] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:04.883] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:04.884] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:04.969] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:04.969] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:05.159] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 96
+[Debug 21:43:05.159] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:05.192] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:05.193] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:05.256] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:05.256] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:05.450] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:05.451] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:05.504] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:05.505] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:05.590] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:05.590] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:05.772] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:05.773] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:05.945] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:05.945] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:06.130] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 103
+[Debug 21:43:06.130] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:06.282] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 103
+[Debug 21:43:06.282] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:08.347] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:08.348] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:08.461] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:08.461] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:08.629] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 105
+[Debug 21:43:08.629] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:08.776] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 105
+[Debug 21:43:08.777] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:09.273] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:09.273] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:09.365] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:09.366] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:09.514] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:09.515] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:09.693] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:09.693] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:09.784] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:09.785] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:09.945] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:09.945] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:10.140] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 111
+[Debug 21:43:10.140] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:10.287] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 111
+[Debug 21:43:10.287] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:10.563] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:10.563] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:10.700] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:10.700] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:10.798] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:10.799] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:10.953] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:10.954] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:11.033] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:11.033] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:11.240] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 116
+[Debug 21:43:11.240] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:11.366] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 116
+[Debug 21:43:11.366] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:11.520] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:11.521] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:11.687] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 117
+[Debug 21:43:11.688] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:11.839] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 117
+[Debug 21:43:11.840] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:11.962] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:11.962] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:12.152] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 118
+[Debug 21:43:12.152] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:12.168] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:12.169] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:12.305] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:12.306] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:12.391] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:12.391] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:12.586] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:12.587] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:12.761] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:12.762] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:12.953] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 123
+[Debug 21:43:12.953] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:13.005] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:13.006] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:13.199] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 124
+[Debug 21:43:13.199] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:13.243] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:13.243] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:13.491] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 125
+[Debug 21:43:13.491] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:13.492] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:13.492] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:13.527] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:13.528] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:13.713] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 127
+[Debug 21:43:13.713] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:13.866] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 127
+[Debug 21:43:13.866] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:13.908] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:13.908] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:14.080] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 128
+[Debug 21:43:14.080] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:14.150] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:14.150] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:14.337] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 129
+[Debug 21:43:14.337] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:14.489] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 129
+[Debug 21:43:14.489] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:15.168] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:15.168] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:15.231] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:15.231] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:15.430] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 131
+[Debug 21:43:15.431] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:15.581] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 131
+[Debug 21:43:15.581] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:16.966] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:16.966] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:17.015] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:17.015] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:17.215] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 133
+[Debug 21:43:17.215] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:17.365] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 133
+[Debug 21:43:17.365] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:17.738] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:17.738] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:17.788] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:17.789] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:17.959] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:17.959] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:18.078] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:18.079] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:18.303] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 137
+[Debug 21:43:18.303] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:18.348] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:18.349] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:18.431] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:18.431] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:18.523] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:18.523] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:18.690] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:18.690] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:18.774] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:18.774] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:18.971] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 142
+[Debug 21:43:18.971] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:19.005] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:19.006] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:19.206] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 143
+[Debug 21:43:19.206] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:19.358] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 143
+[Debug 21:43:19.359] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:19.375] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:19.375] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:19.567] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 144
+[Debug 21:43:19.567] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:19.720] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 144
+[Debug 21:43:19.721] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:26.304] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:26.304] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:26.360] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:26.360] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:26.559] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 146
+[Debug 21:43:26.559] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:26.709] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 146
+[Debug 21:43:26.709] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:26.830] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:26.830] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:26.974] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:26.975] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:27.260] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 148
+[Debug 21:43:27.260] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:27.318] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 148
+[Debug 21:43:27.318] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:27.756] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:27.757] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:27.924] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:27.924] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:28.042] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:28.042] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:28.106] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:28.106] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:28.296] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 152
+[Debug 21:43:28.296] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:28.449] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 152
+[Debug 21:43:28.450] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:28.746] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:28.746] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:28.915] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 153
+[Debug 21:43:28.915] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:29.021] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:29.022] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:29.215] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 154
+[Debug 21:43:29.215] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:29.249] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:29.249] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:29.507] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 155
+[Debug 21:43:29.507] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:29.507] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:29.583] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 155
+[Trace 21:43:29.886] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:29.888] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:29.952] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:29.953] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:30.062] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:30.062] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:30.255] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 158
+[Debug 21:43:30.255] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:30.434] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:30.434] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:30.496] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:30.497] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:30.678] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:30.678] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:30.863] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:30.863] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:30.965] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:30.966] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:31.158] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 163
+[Debug 21:43:31.159] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:31.216] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:31.217] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:31.408] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 164
+[Debug 21:43:31.409] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:31.559] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 164
+[Debug 21:43:31.559] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:33.099] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:33.100] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:33.288] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 165
+[Debug 21:43:33.288] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:33.439] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 165
+[Debug 21:43:33.439] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:33.992] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:33.993] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:34.007] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:34.008] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:34.204] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 167
+[Debug 21:43:34.204] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:34.456] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 167
+[Debug 21:43:34.456] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:34.456] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:34.456] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:34.462] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:34.581] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:34.582] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:34.775] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 169
+[Debug 21:43:34.775] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:34.925] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 169
+[Debug 21:43:34.926] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:34.992] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:34.992] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:35.177] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:35.178] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:35.277] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:35.277] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:35.347] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:35.348] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:35.544] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 173
+[Debug 21:43:35.544] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:35.690] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 173
+[Debug 21:43:35.690] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:35.979] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:35.979] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:36.037] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:36.038] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:36.159] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:36.159] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:36.305] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:36.306] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:36.413] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:36.413] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:36.620] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 178
+[Debug 21:43:36.620] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:36.652] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:36.659] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:36.808] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:36.809] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:36.889] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:36.889] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:37.031] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:37.032] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:37.134] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:37.134] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:37.327] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 183
+[Debug 21:43:37.327] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:37.373] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:37.374] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:37.574] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 184
+[Debug 21:43:37.574] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:37.609] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:37.609] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:37.806] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 185
+[Debug 21:43:37.806] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:37.951] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 185
+[Debug 21:43:37.951] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:38.511] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:38.512] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:38.580] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:38.580] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:38.761] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 187
+[Debug 21:43:38.761] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:38.915] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 187
+[Debug 21:43:38.915] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:38.938] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:38.939] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:39.059] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:39.060] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:39.231] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 189
+[Debug 21:43:39.231] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:39.384] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 189
+[Debug 21:43:39.384] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:39.839] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:39.840] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:40.010] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:40.011] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:40.116] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:40.116] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:40.196] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:40.196] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:40.384] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 193
+[Debug 21:43:40.384] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:40.512] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:40.512] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:40.595] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:40.595] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:40.749] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:40.749] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:40.885] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:40.886] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:40.990] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:40.991] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:41.183] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 198
+[Debug 21:43:41.183] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:41.408] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 198
+[Debug 21:43:41.408] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:41.429] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:41.430] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:41.616] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 199
+[Debug 21:43:41.616] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:41.768] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 199
+[Debug 21:43:41.769] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:42.482] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:42.482] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:42.541] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:42.542] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:42.739] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 201
+[Debug 21:43:42.739] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:42.798] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:42.798] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:42.991] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 202
+[Debug 21:43:42.992] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:43.149] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:43.150] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:43.230] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:43.230] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:43.423] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 204
+[Debug 21:43:43.424] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:43.489] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:43.489] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:43.679] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 205
+[Debug 21:43:43.679] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:43.830] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 205
+[Debug 21:43:43.830] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:44.053] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:44.053] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:44.247] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 206
+[Debug 21:43:44.247] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:44.277] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:44.277] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:44.361] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:44.362] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:44.431] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:44.431] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:44.622] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 209
+[Debug 21:43:44.623] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:44.775] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 209
+[Debug 21:43:44.775] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:45.390] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:45.390] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:45.539] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:45.540] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:45.723] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 211
+[Debug 21:43:45.723] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:45.859] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:45.888] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 211
+[Trace 21:43:46.055] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:46.056] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:46.177] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 212
+[Debug 21:43:46.177] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:46.264] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:46.264] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:46.335] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:46.336] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:46.525] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:46.526] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:46.669] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:46.669] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:46.735] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:46.735] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:46.830] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:46.830] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:47.024] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 218
+[Debug 21:43:47.024] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:47.116] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:47.116] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:43:47.303] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 219
+[Debug 21:43:47.303] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:43:47.454] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 219
+[Debug 21:43:47.454] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:07.814] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:07.816] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:44:07.984] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 220
+[Debug 21:44:07.984] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:08.137] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 220
+[Debug 21:44:08.137] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:10.692] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:10.692] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:44:10.880] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 221
+[Debug 21:44:10.880] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:11.178] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 221
+[Debug 21:44:11.178] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:11.482] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:11.482] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:11.527] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:11.527] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:44:11.719] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 223
+[Debug 21:44:11.719] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:11.870] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 223
+[Debug 21:44:11.870] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:13.010] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:13.011] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:44:13.201] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 224
+[Debug 21:44:13.201] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:13.255] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:13.255] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:13.499] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:13.499] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:13.587] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:13.587] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:13.669] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:13.669] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:44:13.856] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 228
+[Debug 21:44:13.856] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:14.009] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 228
+[Debug 21:44:14.009] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:14.983] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:14.983] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:15.064] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:15.064] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:15.128] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:15.129] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:15.292] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:15.293] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:15.463] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:15.463] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:15.563] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:15.564] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:44:15.974] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 234
+[Debug 21:44:15.975] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:15.975] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:15.975] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:15.976] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:15.978] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:16.015] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:16.136] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:16.137] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:16.240] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:16.240] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:16.283] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:16.283] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:44:16.472] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 240
+[Debug 21:44:16.472] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:16.643] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:16.643] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:44:16.812] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 241
+[Debug 21:44:16.812] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:44:16.863] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:16.948] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:16.949] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:17.124] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:17.125] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:17.197] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:17.198] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:44:17.391] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 244
+[Debug 21:44:17.391] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:17.492] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:17.493] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:44:17.686] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 245
+[Debug 21:44:17.686] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:17.838] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 245
+[Debug 21:44:17.839] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:19.269] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:19.269] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:44:19.454] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 246
+[Debug 21:44:19.454] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:19.606] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 246
+[Debug 21:44:19.606] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:32.410] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:32.410] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:44:32.578] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 247
+[Debug 21:44:32.578] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:44:32.629] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:32.728] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 247
+[Trace 21:44:54.646] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:54.646] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:54.695] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:54.695] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:44:54.899] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 249
+[Debug 21:44:54.899] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:44:54.946] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:55.046] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 249
+[Trace 21:44:59.367] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:59.368] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:44:59.549] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 250
+[Debug 21:44:59.549] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:59.701] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 250
+[Debug 21:44:59.701] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:59.964] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:44:59.965] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:00.138] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:00.139] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:00.231] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 252
+[Debug 21:45:00.231] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:00.381] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 252
+[Debug 21:45:00.381] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:00.449] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:00.450] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:00.550] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:00.550] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:00.744] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 254
+[Debug 21:45:00.745] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:00.769] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:00.769] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:00.837] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:00.838] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:00.971] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:00.972] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:01.169] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 257
+[Debug 21:45:01.169] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:01.193] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:01.193] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:01.262] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:01.262] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:01.406] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:01.407] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:01.473] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:01.473] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:01.625] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:01.626] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:01.701] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:01.702] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:01.769] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:01.769] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:01.967] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 264
+[Debug 21:45:01.967] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:02.005] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:02.005] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:02.063] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:02.064] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:02.268] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:02.268] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:02.462] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 267
+[Debug 21:45:02.462] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:02.708] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:02.708] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:02.709] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:02.730] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:02.750] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:02.751] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:02.944] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 270
+[Debug 21:45:02.944] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:03.095] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 270
+[Debug 21:45:03.095] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:05.355] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:05.355] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:05.543] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 271
+[Debug 21:45:05.543] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:05.701] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 271
+[Debug 21:45:05.701] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:06.087] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:06.088] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:06.121] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:06.121] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:06.317] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 273
+[Debug 21:45:06.317] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:06.470] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:06.471] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:06.596] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:06.596] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:06.678] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:06.678] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:06.893] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:06.894] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:06.942] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:06.943] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:07.087] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:07.088] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:07.185] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:07.186] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:07.375] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:07.375] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:07.574] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 281
+[Debug 21:45:07.574] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:07.724] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 281
+[Debug 21:45:07.725] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:15.953] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:15.953] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:16.129] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 282
+[Debug 21:45:16.129] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:16.396] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 282
+[Debug 21:45:16.396] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:16.522] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:16.523] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:16.559] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:16.559] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:16.759] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 284
+[Debug 21:45:16.759] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:16.911] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 284
+[Debug 21:45:16.912] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:18.050] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:18.052] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:18.212] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:18.213] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:18.400] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 286
+[Debug 21:45:18.400] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:18.438] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:18.439] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:18.790] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 287
+[Debug 21:45:18.790] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:18.790] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:18.790] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:18.790] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:18.942] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 288
+[Debug 21:45:18.942] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:18.995] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:18.997] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:19.063] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:19.063] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:19.234] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:19.235] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:19.311] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:19.312] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:19.511] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:19.512] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:19.657] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:19.657] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:19.781] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:19.781] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:19.901] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:19.902] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:20.044] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:20.045] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:20.240] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 297
+[Debug 21:45:20.240] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:20.388] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 297
+[Debug 21:45:20.388] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:20.423] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:20.424] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:20.616] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 298
+[Debug 21:45:20.616] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:20.767] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 298
+[Debug 21:45:20.767] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:22.774] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:22.774] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:22.943] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:22.944] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:23.141] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 300
+[Debug 21:45:23.141] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:23.286] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 300
+[Debug 21:45:23.286] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:23.314] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:23.314] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:23.457] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:23.457] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:23.635] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 302
+[Debug 21:45:23.635] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:23.673] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:23.674] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:23.735] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:23.736] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:23.812] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:23.813] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:24.010] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 305
+[Debug 21:45:24.010] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:24.161] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 305
+[Debug 21:45:24.161] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:25.634] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:25.635] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:25.785] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:25.785] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:26.059] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:26.059] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:26.064] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:26.064] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:26.141] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:26.142] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:26.225] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:26.225] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:26.419] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 311
+[Debug 21:45:26.419] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:26.569] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 311
+[Debug 21:45:26.569] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:27.227] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:27.227] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:27.387] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:27.388] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:27.576] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:27.576] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:27.739] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:27.739] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:27.927] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 315
+[Debug 21:45:27.928] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:27.962] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:27.963] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:28.016] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:28.016] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:28.109] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:28.116] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:28.160] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:28.161] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:28.420] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 319
+[Debug 21:45:28.420] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:28.516] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 319
+[Debug 21:45:28.516] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:28.548] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:28.548] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:45:28.735] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 320
+[Debug 21:45:28.735] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:45:28.885] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 320
+[Debug 21:45:28.885] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:46:04.148] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:46:04.148] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:46:04.326] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 321
+[Debug 21:46:04.327] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:46:04.494] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:46:04.554] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md 321
+[Debug 21:46:04.554] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Debug 21:46:05.205] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md
+[Trace 21:46:17.321] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/lewisb/documents/repos/brittonsbash-content/documents/writings/cooking-guide/placeholder.md

@@ -1,7 +1,0 @@
-2022/04/04-17:34:02.006 344f Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_onetreehill.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/04/04-17:34:02.006 344f Recovering log #3
-2022/04/04-17:34:02.009 344f Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_onetreehill.fandom.com_0.indexeddb.leveldb/000003.log 
-2022/04/04-17:55:36.452 3475 Level-0 table #5: started
-2022/04/04-17:55:36.463 3475 Level-0 table #5: 164609 bytes OK
-2022/04/04-17:55:36.477 3475 Delete type=0 #3
-2022/04/04-17:55:36.477 3475 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

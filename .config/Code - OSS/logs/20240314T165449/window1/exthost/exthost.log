@@ -1,0 +1,38 @@
+2024-03-14 16:54:52.889 [info] Extension host with pid 1811 started
+2024-03-14 16:54:52.889 [info] Skipping acquiring lock for /home/lewisb/.config/Code - OSS/User/workspaceStorage/ecf47b2d59bd342e6e1291efa54820c5.
+2024-03-14 16:54:53.288 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-03-14 16:54:53.289 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-03-14 16:54:53.289 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-14 16:54:53.290 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-03-14 16:54:54.498 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-14 16:54:54.499 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-14 16:54:54.829 [info] Eager extensions activated
+2024-03-14 16:54:54.948 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-14 16:54:54.949 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2024-03-14 16:54:54.949 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-14 16:54:54.949 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-03-14 16:54:54.950 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-03-14 16:54:54.950 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-03-14 16:54:54.951 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2024-03-14 16:54:54.952 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2024-03-14 16:54:55.991 [error] Activating extension dbaeumer.vscode-eslint failed due to an error:
+2024-03-14 16:54:55.991 [error] Error: The language client requires VS Code version ^1.82.0 but received version 1.73.1
+	at b.checkVersion (/home/lewisb/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.4.4-universal/client/out/extension.js:1:270143)
+	at new b (/home/lewisb/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.4.4-universal/client/out/extension.js:1:269848)
+	at e.create (/home/lewisb/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.4.4-universal/client/out/extension.js:1:327852)
+	at f (/home/lewisb/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.4.4-universal/client/out/extension.js:1:387379)
+	at t (/home/lewisb/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.4.4-universal/client/out/extension.js:1:388125)
+	at e.activate (/home/lewisb/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.4.4-universal/client/out/extension.js:1:389104)
+	at On._callActivateOptional (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:17678)
+	at On._callActivate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:17338)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:15133
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async w._activate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:8304)
+	at async w._waitForDepsThenActivate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:8246)
+	at async w._initialize (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:7610)
+2024-03-14 16:54:56.739 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-british-english, startup: false, activationEvent: 'onStartupFinished'
+2024-03-14 17:05:38.358 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-14 17:05:38.358 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-14 17:05:38.360 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-14 18:07:20.863 [info] Extension host terminating: received terminate message from renderer
+2024-03-14 18:07:20.895 [info] Extension host with pid 1811 exiting with code 0

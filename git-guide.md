@@ -311,12 +311,12 @@ git restore ./
 Or as in the example above, reset changes on `master`:
 
 ```
-`git reset –soft HEAD~`
+`git reset –-soft HEAD~`
 `git reset HEAD ./
 `git restore ./`
 ```
 
-\_ [Guide](https://www.nobledesktop.com/learn/git/undo-changes#:~:text=The%20last%20commit%20that%20has,back%20to%20the%20staging%20area)
+- [Guide](https://www.nobledesktop.com/learn/git/undo-changes#:~:text=The%20last%20commit%20that%20has,back%20to%20the%20staging%20area)
 
 ## 3.4 Pushing And Pulling
 

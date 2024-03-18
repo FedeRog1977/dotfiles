@@ -1,0 +1,59 @@
+@font-face {
+    font-family: Instagram;
+    src: url(../../fonts/Grandista.ttf);
+}
+
+@font-face {
+    font-family: NFS;
+    src: url(../../fonts/NFS.ttf);
+}
+
+.background {
+    background-image: url('../../media/images/bg.jpg');
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: left;
+    padding: 175px 150px 25px 150px;
+}
+
+.background-text {
+    border: 1px solid black;
+    font-size: 48px;
+    /* background: -webkit-linear-gradient(0deg, #282828 0%, #A2A2A2 200%); */
+    margin: 0;
+    padding: 0;
+}
+
+.background-text-instant-gram {
+    font-family: Instagram;
+    background: -webkit-linear-gradient(
+        0deg,
+        #a13cc2 -50%,
+        #9f1b7f 25%,
+        #ff971d 100%
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    /* text-shadow: 0px 20px 50px #FFFFFF; */
+}
+
+.background-text-sport {
+    font-family: NFS;
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+    .background {
+        background-image: none;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .background-text {
+        font-size: 42px;
+    }
+}

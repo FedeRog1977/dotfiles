@@ -1,0 +1,4 @@
+2024-03-17 22:16:30.383 [info] update#ctor - updates are disabled as there is no update URL
+2024-03-17 22:16:32.412 [info] Starting extension host with pid 9160 (fork() took 11 ms).
+2024-03-17 22:33:36.482 [info] Waiting for extension host with pid 9160 to exit.
+2024-03-17 22:33:36.550 [info] Extension host with pid 9160 exited with code: 0, signal: null.

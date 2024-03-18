@@ -1,0 +1,77 @@
+@use '../../reference' as reference;
+
+.background {
+    text-align: left;
+
+    @media (min-width: 768px) {
+        background-image: url('https://lewisbritton.com/images/pages/background.jpg');
+        background-attachment: fixed;
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        height: 100%;
+        overflow: hidden;
+        padding: 175px 0px 25px 0px;
+    }
+
+    @media (max-width: 768px) {
+        background-image: url('https://lewisbritton.com/images/pages/background-mobile.jpg');
+        background-size: 100% auto;
+        padding: 50px 20px 5px 20px;
+    }
+}
+
+.text {
+    font-size: 64px;
+    color: reference.$lighter-grey;
+    // text-shadow: reference.$shadow-x-bold;
+    width: 100%;
+    background-color: reference.$darker-grey-20;
+    margin: 0px 50px 0px 50px;
+    padding: 0px 25px 0px 25px;
+
+    @media (max-width: 768px) {
+        font-size: 32px;
+        padding: 0;
+    }
+
+    &Std {
+        font-family: Sans-Bold;
+    }
+
+    &Logo {
+        font-family: IBM;
+
+        @media (max-width: 768px) {
+            font-size: 24px;
+        }
+    }
+
+    &Ig {
+        font-family: Instagram;
+        // background: -webkit-linear-gradient(
+        //     0deg,
+        //     #a13cc2 -50%,
+        //     #9f1b7f 25%,
+        //     #ff971d 100%
+        // );
+        // background-clip: text;
+        // -webkit-background-clip: text;
+        // -webkit-text-fill-color: transparent;
+    }
+
+    &Sport {
+        font-family: NFS;
+    }
+
+    &Audi {
+        font-family: Audi-Extended;
+    }
+
+    &Miami {
+        font-family: Broadway;
+    }
+}

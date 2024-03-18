@@ -1,0 +1,41 @@
+[Trace 13:04:32.908] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Trace 13:04:32.911] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Trace 13:04:32.914] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Trace 13:04:32.920] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Trace 13:04:33.046] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash/TODO.md 1
+[Debug 13:04:33.046] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Trace 13:04:33.292] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Trace 13:04:33.292] VsCodeClientWorkspace: deleteDocument: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Trace 13:11:42.403] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash/README.md
+[Trace 13:11:42.504] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/lewisb/documents/repos/brittonsbash/README.md
+[Trace 13:11:42.505] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash/README.md
+[Trace 13:11:42.507] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash/README.md
+[Trace 13:11:42.508] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash/README.md 1
+[Debug 13:11:42.509] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash/README.md
+[Trace 13:11:42.510] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash/README.md
+[Debug 13:11:42.552] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash/README.md
+[Debug 13:11:42.638] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash/README.md 1
+[Trace 13:11:43.454] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Trace 13:11:43.455] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/lewisb/documents/repos/brittonsbash/README.md
+[Trace 13:11:43.455] VsCodeClientWorkspace: deleteDocument: file:///home/lewisb/documents/repos/brittonsbash/README.md
+[Trace 13:11:43.531] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Trace 13:11:43.531] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Trace 13:11:43.532] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Trace 13:11:43.532] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash/TODO.md 1
+[Debug 13:11:43.532] LinkProvider: compute - file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Trace 13:11:43.533] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Debug 13:11:43.579] TableOfContentsProvider: create - file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Trace 13:11:43.634] DocumentSymbolProvider: provideDocumentSymbols — file:///home/lewisb/documents/repos/brittonsbash/TODO.md 1
+[Debug 13:11:43.816] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash/TODO.md 1
+[Trace 13:15:24.637] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Trace 13:15:26.484] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Debug 13:15:26.603] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash/TODO.md 1
+[Trace 13:15:27.611] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Trace 13:22:55.494] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Debug 13:22:55.570] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash/TODO.md 1
+[Trace 13:22:56.487] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Trace 13:22:56.932] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Debug 13:22:57.032] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash/TODO.md 1
+[Trace 13:23:02.599] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Trace 13:40:50.629] Server: connection.languages.diagnostics.on: file:///home/lewisb/documents/repos/brittonsbash/TODO.md
+[Debug 13:40:50.776] MdFoldingProvider: provideFoldingRanges — file:///home/lewisb/documents/repos/brittonsbash/TODO.md 1

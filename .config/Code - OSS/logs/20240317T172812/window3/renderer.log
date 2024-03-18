@@ -1,0 +1,2 @@
+2024-03-17 21:41:50.175 [info] [perf] Render performance baseline is 40ms
+2024-03-17 21:42:01.159 [error] Error while registering log channel file:///home/lewisb/.config/Code%20-%20OSS/logs/20240317T172812/userDataSync.log Timed out while waiting for file to be created

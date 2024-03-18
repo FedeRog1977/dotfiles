@@ -1,0 +1,96 @@
+@use '../../reference' as reference;
+
+.tile {
+    margin-bottom: 48px;
+
+    @media (max-width: 768px) {
+        margin-bottom: 24px;
+    }
+
+    &Clear {
+        background-color: reference.$transparent;
+    }
+
+    &Solid {
+        background-color: reference.$white;
+    }
+
+    &NoGap {
+        margin-top: 0px;
+    }
+
+    &Gap {
+        margin-top: 48px;
+    }
+}
+
+.constrain {
+    max-width: 1440px;
+    margin: auto;
+
+    @media (min-width: 768px) {
+        border-radius: reference.$corners-medium;
+    }
+
+    @media (max-width: 768px) {
+        border-radius: none;
+    }
+}
+
+.marginsX {
+    &Regular {
+        padding-left: 76px;
+        padding-right: 76px;
+
+        @media (max-width: 768px) {
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+
+    &Dense {
+        padding-left: 0px;
+        padding-right: 0px;
+
+        @media (max-width: 768px) {
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    }
+}
+
+.marginsY {
+    &Regular {
+        padding-top: 48px;
+        padding-bottom: 48px;
+
+        @media (max-width: 768px) {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+    }
+
+    &Dense {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding-top: 24px;
+        padding-bottom: 24px;
+
+        @media (max-width: 768px) {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+    }
+}
+
+.stacked {
+    display: grid;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.text {
+    z-index: 1000;
+    position: absolute;
+}

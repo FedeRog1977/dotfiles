@@ -1,0 +1,120 @@
+@use '../../reference' as reference;
+
+button {
+    border: 0 none !important;
+    margin: 0;
+    padding: 15px;
+
+    &::-moz-focus-inner {
+        border: 0 none !important;
+        padding: 0 !important;
+    }
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.button {
+    &Search {
+        border-radius: reference.$corners-small;
+        background-color: reference.$darker-grey;
+        transition: transform reference.$transition-short;
+        width: 100%;
+
+        &:active {
+            transform: scale(0.995);
+            transition: transform reference.$transition-short;
+        }
+    }
+
+    &RegularClear {
+        background-color: reference.$transparent;
+        border-radius: reference.$corners-small;
+        transition: background-color reference.$transition-long,
+            transform reference.$transition-short;
+
+        &:hover {
+            background-color: reference.$lighter-grey;
+            transition: background-color reference.$transition-long;
+        }
+
+        &:active {
+            transform: scale(0.995);
+            transition: transform reference.$transition-short;
+        }
+    }
+
+    &RegularSolid {
+        background-color: reference.$lighter-grey;
+        border-radius: reference.$corners-small;
+        transition: background-color reference.$transition-long,
+            transform reference.$transition-short;
+
+        &:hover {
+            background-color: reference.$lighter-grey;
+            transition: background-color reference.$transition-long;
+        }
+
+        &:active {
+            transform: scale(0.995);
+            transition: transform reference.$transition-short;
+        }
+    }
+
+    &Inverse {
+        background-color: reference.$transparent;
+        border-radius: reference.$corners-small;
+        transition: background-color reference.$transition-long,
+            transform reference.$transition-short;
+
+        &:hover {
+            background-color: reference.$darker-grey-60;
+            transition: background-color reference.$transition-long;
+        }
+
+        &:active {
+            transform: scale(0.995);
+            transition: transform reference.$transition-short;
+        }
+    }
+}
+
+.padded {
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    &Coarse {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+}
+
+.fill {
+    width: 100%;
+}
+
+.transition {
+    padding-left: 0;
+    padding-right: 0;
+    transition: background-color reference.$transition-long,
+        transform reference.$transition-short,
+        padding reference.$transition-long;
+
+    &:hover {
+        padding-left: 15px;
+        padding-right: 15px;
+        transition: background-color reference.$transition-long,
+            transform reference.$transition-short,
+            padding reference.$transition-long;
+
+        @media (max-width: 768px) {
+            padding-left: 7.5px;
+            padding-right: 7.5px;
+        }
+    }
+}
+
+.arrow {
+    bottom: 100px;
+}

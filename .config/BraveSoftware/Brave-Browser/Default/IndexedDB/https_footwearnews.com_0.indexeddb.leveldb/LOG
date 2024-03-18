@@ -1,7 +1,0 @@
-2022/06/27-13:38:50.588 18be Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_footwearnews.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/06/27-13:38:50.588 18be Recovering log #3
-2022/06/27-13:38:50.590 18be Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_footwearnews.com_0.indexeddb.leveldb/000003.log 
-2022/06/27-13:38:58.738 18be Level-0 table #5: started
-2022/06/27-13:38:58.747 18be Level-0 table #5: 46260 bytes OK
-2022/06/27-13:38:58.761 18be Delete type=0 #3
-2022/06/27-13:38:58.761 18be Manual compaction at level-0 from (begin) .. (end); will stop at (end)

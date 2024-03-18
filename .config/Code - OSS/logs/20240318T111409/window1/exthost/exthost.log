@@ -1,0 +1,62 @@
+2024-03-18 11:14:12.653 [info] Extension host with pid 2649 started
+2024-03-18 11:14:12.654 [info] Skipping acquiring lock for /home/lewisb/.config/Code - OSS/User/workspaceStorage/c150fc2d5ca7288c9a39b41a847e92f7.
+2024-03-18 11:14:13.028 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-03-18 11:14:13.029 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-03-18 11:14:13.030 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-03-18 11:14:13.035 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-03-18 11:14:13.037 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-18 11:14:13.260 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-18 11:14:13.261 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-18 11:14:13.423 [info] Eager extensions activated
+2024-03-18 11:14:13.580 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-18 11:14:13.581 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2024-03-18 11:14:13.581 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-18 11:14:13.592 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-03-18 11:14:13.592 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2024-03-18 11:14:13.593 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-03-18 11:14:13.593 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2024-03-18 11:14:16.050 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-british-english, startup: false, activationEvent: 'onStartupFinished'
+2024-03-18 11:14:17.743 [error] Error: The language client requires VS Code version ^1.82.0 but received version 1.73.1
+	at b.checkVersion (/home/lewisb/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.4.4-universal/client/out/extension.js:1:270143)
+	at new b (/home/lewisb/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.4.4-universal/client/out/extension.js:1:269848)
+	at e.create (/home/lewisb/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.4.4-universal/client/out/extension.js:1:327852)
+	at f (/home/lewisb/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.4.4-universal/client/out/extension.js:1:387379)
+	at /home/lewisb/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.4.4-universal/client/out/extension.js:1:388256
+	at h.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:10964
+	at h.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at v.acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:15849)
+	at v.$acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:14120)
+	at l._doInvokeHandler (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:13680)
+	at l._invokeHandler (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:13362)
+	at l._receiveRequest (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:12132)
+	at l._receiveOneMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:10834)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:8941
+	at h.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:118:17104
+	at h.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at r.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:70:16515)
+	at o._receiveMessage (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:70:21327)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:70:18770
+	at h.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at g.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at g.acceptChunk (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:70:13346)
+	at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:70:12476
+	at Socket.i (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:70:24594)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2024-03-18 11:14:17.829 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-03-18 11:14:19.025 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features

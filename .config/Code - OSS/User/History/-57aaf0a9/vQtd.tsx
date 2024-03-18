@@ -1,0 +1,16 @@
+import { Article, Tile } from '../bash-blocks'
+import { articleTestData } from '../data/test/ArticleTestData'
+import Background from '../elements/Background'
+
+export const Home = () => (
+    <div>
+        <Background text="BrittonsBashRC" />
+        <Tile type="solid">
+            <Article
+                sections={articleTestData}
+                fontFamily="serif"
+                textAlign="justify"
+            />
+        </Tile>
+    </div>
+)

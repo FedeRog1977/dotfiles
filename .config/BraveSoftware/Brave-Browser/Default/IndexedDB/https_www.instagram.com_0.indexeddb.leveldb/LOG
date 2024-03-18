@@ -1,9 +1,0 @@
-2022/11/07-22:01:32.915 6a0 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/11/07-22:01:32.916 6a0 Recovering log #646
-2022/11/07-22:01:32.926 6a0 Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000646.log 
-2022/11/07-22:01:46.237 578 Compacting 1@1 + 1@2 files
-2022/11/07-22:01:46.261 578 Generated table #649@1: 82 keys, 20019 bytes
-2022/11/07-22:01:46.261 578 Compacted 1@1 + 1@2 files => 20019 bytes
-2022/11/07-22:01:46.284 578 compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/11/07-22:01:46.285 578 Delete type=2 #644
-2022/11/07-22:01:46.285 578 Delete type=2 #647

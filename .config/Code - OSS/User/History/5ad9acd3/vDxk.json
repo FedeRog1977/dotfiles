@@ -1,0 +1,5 @@
+{
+    "window.zoomLevel": 3,
+    "editor.formatOnSave": true,
+    "typescript.updateImportsOnFileMove.enabled": "always"
+}

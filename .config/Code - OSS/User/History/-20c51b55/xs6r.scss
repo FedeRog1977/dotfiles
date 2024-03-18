@@ -1,0 +1,85 @@
+@use '../../reference' as reference;
+
+.clear {
+    background-color: reference.$transparent;
+    // margin-top: 48px;
+    margin-bottom: 48px;
+    border: 1px solid black;
+}
+
+.solid {
+    background-color: reference.$white;
+    // margin-top: 48px;
+    margin-bottom: 48px;
+    border: 1px solid black;
+}
+
+.constrain {
+    max-width: 1440px;
+    margin: auto;
+}
+
+.marginsX {
+    padding-left: 75px;
+    padding-right: 75px;
+
+    @media (max-width: 768px) {
+        padding: 20px;
+    }
+}
+
+.marginsY {
+    padding-top: 48px;
+    padding-bottom: 48px;
+
+    &Dense {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding-top: 24px;
+        padding-bottom: 24px;
+        // padding-top: 12px;
+        // padding-bottom: 12px;
+    }
+
+    @media (max-width: 768px) {
+        padding: 20px;
+    }
+}
+
+.top {
+    margin-top: 0px;
+}
+
+.align {
+    &Inherit {
+        text-align: inherit;
+    }
+
+    &Left {
+        text-align: left;
+    }
+
+    &Center {
+        text-align: center;
+    }
+
+    &Right {
+        text-align: right;
+    }
+
+    &Justify {
+        text-align: justify;
+    }
+}
+
+.stacked {
+    display: grid;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.text {
+    z-index: 1000;
+    position: absolute;
+}

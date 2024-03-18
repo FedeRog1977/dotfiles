@@ -1,6 +1,0 @@
-2022/05/16-14:43:21.268 2885 Creating DB /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drizly.com_0.indexeddb.leveldb since it was missing.
-2022/05/16-14:43:21.294 2885 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drizly.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/05/16-14:43:24.637 2887 Level-0 table #5: started
-2022/05/16-14:43:24.647 2887 Level-0 table #5: 1356 bytes OK
-2022/05/16-14:43:24.659 2887 Delete type=0 #3
-2022/05/16-14:43:24.659 2887 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

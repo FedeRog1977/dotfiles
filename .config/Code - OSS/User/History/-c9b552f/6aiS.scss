@@ -1,0 +1,70 @@
+.header {
+    background-color: var(--darker-grey);
+    height: 75px;
+    display: grid;
+    align-items: center;
+    color: var(--light-grey);
+
+    &Logo {
+        font-family: IBM;
+        font-size: 22px;
+        line-height: -2px;
+        height: 22px;
+    }
+
+    &Sub {
+        background-color: var(--dark-grey);
+        height: 75px;
+        display: grid;
+        align-items: center;
+    }
+
+    &Navigation {
+        font-family: Sans-Light;
+        color: var(--light-grey);
+
+        a,
+        span {
+            text-decoration: none;
+            color: var(--light-grey);
+            transition: color var(--transition-long);
+
+            a:hover,
+            span:hover {
+                color: var(--light-blue);
+                transition: color var(--transition-long);
+                cursor: pointer;
+            }
+        }
+    }
+}
+
+.sub-header,
+.subHeaderConquest {
+    background-color: var(--dark-grey);
+    height: 75px;
+    margin: 0;
+    padding: 0px 150px 0px 150px;
+}
+
+.sub-header-mobile {
+    text-align: right;
+    background-color: var(--dark-grey);
+    height: auto;
+    margin: 0;
+    padding: 5px 20px 10px 5px;
+}
+
+.sub-header-navigation,
+.subHeaderConquestNavigation {
+    font-family: Sans-Light;
+    color: var(--light-grey);
+    float: right;
+    margin: 10px 0 0 0;
+    padding: 0;
+}
+
+.sub-header-navigation-mobile {
+    font-family: Sans-Light;
+    color: var(--light-grey);
+}

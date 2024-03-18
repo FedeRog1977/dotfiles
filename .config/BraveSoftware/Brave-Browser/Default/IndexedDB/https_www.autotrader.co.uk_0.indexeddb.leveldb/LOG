@@ -1,6 +1,0 @@
-2022/10/23-13:32:34.571 17a9 Creating DB /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.autotrader.co.uk_0.indexeddb.leveldb since it was missing.
-2022/10/23-13:32:34.595 17a9 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.autotrader.co.uk_0.indexeddb.leveldb/MANIFEST-000001
-2022/10/23-13:41:15.982 1889 Level-0 table #5: started
-2022/10/23-13:41:15.990 1889 Level-0 table #5: 2656 bytes OK
-2022/10/23-13:41:16.004 1889 Delete type=0 #3
-2022/10/23-13:41:16.004 1889 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

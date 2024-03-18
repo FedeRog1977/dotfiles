@@ -1,0 +1,22 @@
+{
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.wordWrap": "on",
+  "cSpell.userWords": [
+    "ASICS",
+    "Campari",
+    "friache",
+    "gelaterias",
+    "Lindor",
+    "Munros",
+    "Reposado",
+    "Rilettes",
+    "Rosso",
+    "Salomon",
+    "Segsations",
+    "Velveting"
+  ],
+  "window.zoomLevel": 2
+}

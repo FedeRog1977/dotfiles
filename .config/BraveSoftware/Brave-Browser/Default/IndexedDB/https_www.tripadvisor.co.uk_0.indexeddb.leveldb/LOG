@@ -1,6 +1,0 @@
-2022/10/30-22:24:55.986 d15 Creating DB /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tripadvisor.co.uk_0.indexeddb.leveldb since it was missing.
-2022/10/30-22:24:56.017 d15 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tripadvisor.co.uk_0.indexeddb.leveldb/MANIFEST-000001
-2022/10/30-22:25:01.748 cb1 Level-0 table #5: started
-2022/10/30-22:25:01.757 cb1 Level-0 table #5: 822 bytes OK
-2022/10/30-22:25:01.770 cb1 Delete type=0 #3
-2022/10/30-22:25:01.770 cb1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

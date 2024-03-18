@@ -1,0 +1,4 @@
+2024-03-14 21:15:22.836 [info] update#ctor - updates are disabled as there is no update URL
+2024-03-14 21:15:25.011 [info] Starting extension host with pid 1782 (fork() took 32 ms).
+2024-03-14 21:19:23.130 [info] Waiting for extension host with pid 1782 to exit.
+2024-03-14 21:19:23.148 [info] Extension host with pid 1782 exited with code: 0, signal: null.

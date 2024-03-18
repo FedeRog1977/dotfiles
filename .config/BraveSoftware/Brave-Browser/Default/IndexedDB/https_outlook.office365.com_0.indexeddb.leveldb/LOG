@@ -1,7 +1,0 @@
-2022/10/25-20:18:56.222 ddd Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/10/25-20:18:56.223 ddd Recovering log #57
-2022/10/25-20:18:56.223 ddd Reusing old log /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/000057.log 
-2022/10/25-20:19:20.853 dde Level-0 table #63: started
-2022/10/25-20:19:20.863 dde Level-0 table #63: 11335 bytes OK
-2022/10/25-20:19:20.874 dde Delete type=0 #57
-2022/10/25-20:19:20.874 dde Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

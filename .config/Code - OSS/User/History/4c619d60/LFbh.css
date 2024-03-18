@@ -1,0 +1,31 @@
+/* Initialize Fonts */
+
+@font-face {
+    font-family: Audi-Extended;
+    src: url(./fonts/audi/Extended-Bold.ttf);
+}
+
+@font-face {
+    font-family: Audi-Regular;
+    src: url(./fonts/audi/Normal.ttf);
+}
+
+@font-face {
+    font-family: Audi-Bold;
+    src: url(./fonts/audi/Bold.ttf);
+}
+
+@font-face {
+    font-family: Audi-Italic;
+    src: url(./fonts/audi/Italic.ttf);
+}
+
+/* Header */
+
+.header {
+    background-image: var(--header-footer);
+    /* -webkit-filter: drop-shadow(0 10px 10px rgba(0, 0, 0, 0.25)); */
+    height: 75px;
+    margin: 0;
+    padding: 0 7.5% 0 7.5%;
+}

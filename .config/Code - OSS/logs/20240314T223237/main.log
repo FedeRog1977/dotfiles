@@ -1,0 +1,3 @@
+2024-03-14 22:32:37.506 [info] update#ctor - updates are disabled as there is no update URL
+2024-03-14 22:32:39.540 [info] Starting extension host with pid 4897 (fork() took 11 ms).
+2024-03-14 22:35:10.108 [info] Extension host with pid 4897 exited with code: 0, signal: null.

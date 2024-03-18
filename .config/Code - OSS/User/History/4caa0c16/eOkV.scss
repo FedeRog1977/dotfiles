@@ -1,0 +1,17 @@
+@use '../../reference' as reference;
+
+.table {
+    background-color: reference.$miami-coral-20;
+    border-radius: reference.$corners-small;
+    padding: 15px 75px 15px 75px;
+
+    @media (max-width: 768px) {
+        border-radius: none;
+        padding: 7.5px 20px 7.5px 20px;
+    }
+}
+
+.scrollX {
+    overflow-x: scroll;
+    white-space: nowrap;
+}

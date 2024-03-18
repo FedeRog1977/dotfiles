@@ -1,0 +1,6 @@
+2024-03-17 12:55:29.403 [info] update#ctor - updates are disabled as there is no update URL
+2024-03-17 12:55:31.489 [info] Starting extension host with pid 1772 (fork() took 12 ms).
+2024-03-17 13:04:46.629 [info] Starting extension host with pid 3038 (fork() took 10 ms).
+2024-03-17 13:09:20.475 [info] Extension host with pid 3038 exited with code: 0, signal: null.
+2024-03-17 13:55:48.906 [info] Waiting for extension host with pid 1772 to exit.
+2024-03-17 13:55:48.986 [info] Extension host with pid 1772 exited with code: 0, signal: null.

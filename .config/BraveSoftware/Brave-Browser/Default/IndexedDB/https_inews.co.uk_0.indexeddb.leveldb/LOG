@@ -1,6 +1,0 @@
-2022/05/23-12:51:35.756 1833 Creating DB /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_inews.co.uk_0.indexeddb.leveldb since it was missing.
-2022/05/23-12:51:35.785 1833 Reusing MANIFEST /home/lewisb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_inews.co.uk_0.indexeddb.leveldb/MANIFEST-000001
-2022/05/23-12:52:48.323 183d Level-0 table #5: started
-2022/05/23-12:52:48.331 183d Level-0 table #5: 2144 bytes OK
-2022/05/23-12:52:48.343 183d Delete type=0 #3
-2022/05/23-12:52:48.343 183d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
