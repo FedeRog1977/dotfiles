@@ -355,3 +355,59 @@ For this command to be effective, you must use a `<subcommand>`. Some of the mos
 - Add review to pull request: `review 'pr-name'`
 - Show status of pull requests in repository: `status 'pr-name'`
 - View pull request: `view 'pr-name'`
+
+Check pull request data:
+
+```sh
+`gh pr view <pr-number> –json`
+```
+
+Follow the above command with any of the following:
+
+```
+additions
+assignees
+author
+autoMergeRequest
+baseRefName
+body
+changedFiles
+closed
+closedAt
+comments
+commits
+createdAt
+deletions
+files
+headRefName
+headRefOid
+headRepository
+headRepositoryOwner
+id
+isCrossRepository
+isDraft
+labels
+latestReviews
+maintainerCanModify
+mergeCommit
+mergeStateStatus
+mergeable
+mergedAt
+mergedBy
+milestone
+number
+potentialMergeCommit
+projectCards
+projectItems
+reactionGroups
+reviewDecision
+reviewRequests
+reviews
+state
+statusCheckRollup
+title
+updatedAt
+url
+```
+
+
