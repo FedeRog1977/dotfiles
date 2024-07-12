@@ -55,6 +55,7 @@ alias weather='lynx https://www.mwis.org.uk/forecasts/scottish/west-highlands/te
 
 ## Open repositories in VSCode
 
+alias general='code ~/documents/general'
 alias brittonsbash='code ~/documents/repos/brittonsbash'
 alias brittonsbash-content='code ~/documents/repos/brittonsbash-content'
 alias brittonsbash-services='code ~/documents/repos/brittonsbash-services'
@@ -104,16 +105,10 @@ alias audaciousdf='cp -r ~/.config/audacious ~/documents/repos/dotfiles/.config'
 alias autostartdf='cp -r ~/.config/autostart ~/documents/repos/dotfiles/.config'
 alias bashdf='cp -r ~/.config/bash ~/documents/repos/dotfiles/.config'
 # Continue here ...
+
 alias zshdf='cp -r ~/.config/zsh ~/documents/repos/dotfiles/.config'
 alias statusdf='cd ~/documents/repos/dotfiles && git status'
 alias dotfile-backup='alacrittydf && audaciousdf && autostartdf && bashdf && zshdf && statusdf'
-
-## Directory and document shortcuts
-
-alias general='cd ~/documents/general'
-alias media='cd ~/documents/media'
-alias dotfiles='cd ~/documents/repos/dotfiles'
-alias pass='nvim ~/documents/general/passwords.txt'
 
 # Enable syntax
 
