@@ -55,8 +55,9 @@ alias weather='lynx https://www.mwis.org.uk/forecasts/scottish/west-highlands/te
 
 ## Open repositories in VSCode
 
-alias general='code ~/documents/general'
+alias docs='code ~/documents/repos/docs'
 alias brittonsbash='code ~/documents/repos/brittonsbash'
+alias brittonsbash-burning-roots='code ~/documents/repos/brittonsbash-burning-roots'
 alias brittonsbash-content='code ~/documents/repos/brittonsbash-content'
 alias brittonsbash-services='code ~/documents/repos/brittonsbash-services'
 
