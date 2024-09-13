@@ -103,6 +103,7 @@ alias brittonsbash-services='code ~/repositories/brittonsbash-services'
 # zathura
 # zsh
 
+alias zshsyntaxdf='cp -r ~/.cache/zsh-syntax-highlighting ~/repositories/dotfiles/.cache'
 alias alacrittydf='cp -r ~/.config/alacritty ~/repositories/dotfiles/.config'
 alias audaciousdf='cp -r ~/.config/audacious ~/repositories/dotfiles/.config'
 alias autostartdf='cp -r ~/.config/autostart ~/repositories/dotfiles/.config'
@@ -110,7 +111,7 @@ alias bashdf='cp -r ~/.config/bash ~/repositories/dotfiles/.config'
 # Continue here ...
 alias zshdf='cp -r ~/.config/zsh ~/repositories/dotfiles/.config'
 alias statusdf='cd ~/repositories/dotfiles && git status'
-alias dotfile-backup='alacrittydf && audaciousdf && autostartdf && bashdf && zshdf && statusdf'
+alias dotfile-backup='zshsyntaxdf && alacrittydf && audaciousdf && autostartdf && bashdf && zshdf && statusdf'
 
 # Enable syntax
 
