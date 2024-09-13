@@ -55,11 +55,11 @@ alias weather='lynx https://www.mwis.org.uk/forecasts/scottish/west-highlands/te
 
 ## Open repositories in VSCode
 
-alias docs='code ~/repositories/docs'
-alias brittonsbash='code ~/repositories/brittonsbash'
 alias brittonsbash-burning-roots='code ~/repositories/brittonsbash-burning-roots'
 alias brittonsbash-content='code ~/repositories/brittonsbash-content'
-alias brittonsbash-services='code ~/repositories/brittonsbash-services'
+alias brittonsbash='code ~/repositories/brittonsbash'
+alias docs='code ~/repositories/docs'
+alias dotfiles='code ~/repositories/dotfiles'
 
 # Backup dotfiles
 
