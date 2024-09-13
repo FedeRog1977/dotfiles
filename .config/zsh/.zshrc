@@ -55,13 +55,15 @@ alias weather='lynx https://www.mwis.org.uk/forecasts/scottish/west-highlands/te
 
 ## Open repositories in VSCode
 
-alias docs='code ~/documents/repositories/docs'
-alias brittonsbash='code ~/documents/repositories/brittonsbash'
-alias brittonsbash-burning-roots='code ~/documents/repositories/brittonsbash-burning-roots'
-alias brittonsbash-content='code ~/documents/repositories/brittonsbash-content'
-alias brittonsbash-services='code ~/documents/repositories/brittonsbash-services'
+alias docs='code ~/repositories/docs'
+alias brittonsbash='code ~/repositories/brittonsbash'
+alias brittonsbash-burning-roots='code ~/repositories/brittonsbash-burning-roots'
+alias brittonsbash-content='code ~/repositories/brittonsbash-content'
+alias brittonsbash-services='code ~/repositories/brittonsbash-services'
 
 # Backup dotfiles
+
+# TODO: move this to a shell script
 
 # calcurse
 # cmus
@@ -101,14 +103,13 @@ alias brittonsbash-services='code ~/documents/repositories/brittonsbash-services
 # zathura
 # zsh
 
-alias alacrittydf='cp -r ~/.config/alacritty ~/documents/repositories/dotfiles/.config'
-alias audaciousdf='cp -r ~/.config/audacious ~/documents/repositories/dotfiles/.config'
-alias autostartdf='cp -r ~/.config/autostart ~/documents/repositories/dotfiles/.config'
-alias bashdf='cp -r ~/.config/bash ~/documents/repositories/dotfiles/.config'
+alias alacrittydf='cp -r ~/.config/alacritty ~/repositories/dotfiles/.config'
+alias audaciousdf='cp -r ~/.config/audacious ~/repositories/dotfiles/.config'
+alias autostartdf='cp -r ~/.config/autostart ~/repositories/dotfiles/.config'
+alias bashdf='cp -r ~/.config/bash ~/repositories/dotfiles/.config'
 # Continue here ...
-
-alias zshdf='cp -r ~/.config/zsh ~/documents/repositories/dotfiles/.config'
-alias statusdf='cd ~/documents/repositories/dotfiles && git status'
+alias zshdf='cp -r ~/.config/zsh ~/repositories/dotfiles/.config'
+alias statusdf='cd ~/repositories/dotfiles && git status'
 alias dotfile-backup='alacrittydf && audaciousdf && autostartdf && bashdf && zshdf && statusdf'
 
 # Enable syntax
